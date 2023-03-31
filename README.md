@@ -13,7 +13,7 @@
     <th>备注</th>
   </tr>
   <tr>
-    <td rowspan="4">[3级增产剂](Blueprints/使用电弧熔炉/增产剂3 360.txt)</td>
+    <td rowspan="4">[3级增产剂](Blueprints/使用电弧熔炉/增产剂3%20360.txt)</td>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>825</td>
