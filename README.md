@@ -80,8 +80,8 @@
     <td>输入2或4层，需增产。输出4层。</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
-    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/钛合金1800%202层原料.txt?raw=1">钛合金</a><br />输入2层<br /><br /><a href="Blueprints/使用电弧熔炉/钛合金1800%204层原料.txt?raw=1">钛合金</a><br />输入4层</th>
+    <th><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
     <td>1440</td>
