@@ -146,6 +146,7 @@
 * 使用制作台，如未说明均为3级制作台输入版本。
 * 使用熔炉，如未说明均为电弧熔炉。
 * `宽版`：增加设施间距，应对不同纬度要求。
+* 由于煤矿比石油相对稀缺，未提供重整精炼（2精炼油1氢1煤矿->3精炼油）。
 
 ### 合成
 
@@ -169,7 +170,7 @@
     <td>备注</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/增产剂3%20360%20使用电弧熔炉.txt?raw=1">3级增产剂</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/增产剂3%20360%20使用位面熔炉.txt?raw=1">3级增产剂</a><br/>使用位面熔炉、3级制作台</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂3%20360%20使用电弧熔炉.txt?raw=1">3级增产剂</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂3%20360%20使用位面熔炉.txt?raw=1">3级增产剂</a><br/>使用位面熔炉、3级制作台</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
@@ -213,12 +214,36 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
+    <th><a href="Blueprints/分解/X射线裂解600%20无增产.txt?raw=1">X射线裂解 无增产</a></th>
     <td>精炼油</td>
     <td>600</td>
     <td>高能石墨</td>
     <td>600</td>
     <td>启动时需投入少量氢。谨防氢堵塞。</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯 无增产</a></th>
+    <td rowspan="2">可燃冰</td>
+    <td rowspan="2">240</td>
+    <td>氢</td>
+    <td>120</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
+    <td rowspan="2">可燃冰</td>
+    <td rowspan="2">5760</td>
+    <td>氢</td>
+    <td>3600</td>
+    <td rowspan="2">输入4层，需增产。输出石墨烯4层、氢2层。</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>7200</td>
   </tr>
   <tr>
     <th>配方</th>
