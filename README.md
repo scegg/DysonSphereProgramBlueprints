@@ -82,8 +82,8 @@
     <td>输入2或4层，需增产。输出4层。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/钛合金1800%202层原料.txt?raw=1">钛合金</a><br />输入2层<br /><br /><a href="Blueprints/使用电弧熔炉/钛合金1800%204层原料.txt?raw=1">钛合金</a><br />输入4层</th>
-    <th><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
+    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800%202层原料.txt?raw=1">钛合金</a><br />输入2层<br /><br /><a href="Blueprints/使用电弧熔炉/钛合金1800%204层原料.txt?raw=1">钛合金</a><br />输入4层</th>
+    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
     <td>1440</td>
@@ -161,7 +161,14 @@
     <th>名称</th>
     <th>数量</th>
   </tr>
-    <tr>
+  <tr>
+    <th>塑料</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>数量</td>
+    <td>备注</td>
+  </tr>
+  <tr>
     <th rowspan="4"><a href="Blueprints/增产剂3%20360%20使用电弧熔炉.txt?raw=1">3级增产剂</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/增产剂3%20360%20使用位面熔炉.txt?raw=1">3级增产剂</a><br/>使用位面熔炉、3级制作台</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
@@ -194,7 +201,7 @@
 
 <table>
   <tr>
-    <th rowpan="2">配方</th>
+    <th rowspan="2">配方</th>
     <th colspan="2">原料</th>
     <th colspan="2">产物</th>
     <th rowspan="2">备注</th>
@@ -206,7 +213,7 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a><</th>
+    <th><a href="Blueprints/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
     <td>精炼油</td>
     <td>600</td>
     <td>高能石墨</td>
