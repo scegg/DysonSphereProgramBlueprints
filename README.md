@@ -180,6 +180,13 @@
     <td>金伯利矿石</td>
     <td>208</td>
   </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>数量</td>
+    <td>备注</td>
+  </tr>
 
 <table>
 
@@ -187,6 +194,7 @@
 
 <table>
   <tr>
+    <th rowpan="2">配方</th>
     <th colspan="2">原料</th>
     <th colspan="2">产物</th>
     <th rowspan="2">备注</th>
@@ -197,6 +205,21 @@
     <th>名称</th>
     <th>产量</th>
   </tr>
-
+  <tr>
+    <th><a href="Blueprints/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a><</th>
+    <td>精炼油</td>
+    <td>600</td>
+    <td>高能石墨</td>
+    <td>600</td>
+    <td>启动时需投入少量氢。谨防氢堵塞。</td>
+  </tr>
+  <tr>
+    <th>配方</th>
+    <td>原料</td>
+    <td>数量</td>
+    <td>名称</td>
+    <td>产量</td>
+    <td>备注</td>
+  </tr>
 <table>
 
