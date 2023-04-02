@@ -163,6 +163,31 @@
     <th>需求量</th>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/合成/光子合并器1800.txt?raw=1">光子合并器</a></th>
+    <td rowspan="2">1800</td>
+    <td>棱镜</td>
+    <td>2880</td>
+    <td rowspan="2">输入2层，需增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+  <tr>
     <th>塑料</th>
     <td>产量</td>
     <td>名称</td>
@@ -189,6 +214,34 @@
     <td>208</td>
   </tr>
   <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+    <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+    <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>需求量</td>
+    <td>备注</td>
+  </tr>
+    <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
