@@ -215,6 +215,29 @@
     <td>2880</td>
   </tr>
   <tr>
+    <th rowspan="5"><a href="Blueprints/合成/反物质燃料棒360.txt?raw=1">反物质燃料棒</a></th>
+    <td rowspan="5">360</td>
+    <td>临界光子</td>
+    <td>2160</td>
+    <td rowspan="5">临界光子输入4层，需增产；输入增产剂用于中间产物喷涂。质能储存与反物质燃料棒生产采用加速模式。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>粒子容器</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>增产剂</td>
+    <td>少量</td>
+  </tr>
+  <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
