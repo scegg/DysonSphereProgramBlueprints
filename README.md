@@ -4,7 +4,7 @@
 ## [Blueprints](Blueprints)
 此目录中包含自己制作的戴森球计划蓝图文件。
 
-所有使用增产剂的蓝图，设施均设置为增产模式。对于只有加速模式的设施，蓝图未基于使用增产剂设置。
+所有使用增产剂的蓝图，设施均设置为增产模式，且均以3级增产剂计算。对于只有加速模式的设施，除有特别说明，蓝图未基于使用增产剂设置。
 
 ## 单纯使用熔炉
 
@@ -23,7 +23,7 @@
     <th><a href="Blueprints/使用位面熔炉">位面熔炉版</a></th>
     <th>产量</th>
     <th>名称</th>
-    <th>数量</th>
+    <th>需求量</th>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
@@ -160,13 +160,13 @@
     <th>名称</th>
     <th>产量</th>
     <th>名称</th>
-    <th>数量</th>
+    <th>需求量</th>
   </tr>
   <tr>
     <th>塑料</th>
     <td>产量</td>
     <td>名称</td>
-    <td>数量</td>
+    <td>需求量</td>
     <td>备注</td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>数量</td>
+    <td>需求量</td>
     <td>备注</td>
   </tr>
 
@@ -209,7 +209,7 @@
   </tr>
   <tr>
     <th>名称</th>
-    <th>数量</th>
+    <th>需求量</th>
     <th>名称</th>
     <th>产量</th>
   </tr>
@@ -244,6 +244,34 @@
   <tr>
     <td>石墨烯</td>
     <td>7200</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼 宽版 无增产</a><br />
+        <a href="Blueprints/分解/等离子精炼360宽.txt?raw=1">等离子精炼 宽版</a><br />
+        <a href="Blueprints/分解/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼 无增产</a><br />
+        <a href="Blueprints/分解/等离子精炼360窄.txt?raw=1">等离子精炼</a>
+    </th>
+    <td rowspan="2">石油</td>
+    <td rowspan="2">360</td>
+    <td>精炼油</td>
+    <td>360</td>
+    <td rowspan="2">提供增产、无增产版。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速.txt?raw=1">质能储存 加速</a></th>
+    <td rowspan="2">临界光子</td>
+    <td rowspan="2">1800</td>
+    <td>反物质</td>
+    <td>1800</td>
+    <td rowspan="2">配置为加速模式。不使用增产剂时，需求量与产量减半。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>1800</td>
   </tr>
   <tr>
     <th>配方</th>
