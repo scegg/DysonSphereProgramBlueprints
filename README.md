@@ -23,7 +23,7 @@
     <th><a href="Blueprints/使用位面熔炉">位面熔炉版</a></th>
     <th>产量</th>
     <th>名称</th>
-    <th>需求量</th>
+    <th>用量</th>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
@@ -160,7 +160,7 @@
     <th>名称</th>
     <th>产量</th>
     <th>名称</th>
-    <th>需求量</th>
+    <th>用量</th>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/光子合并器1800.txt?raw=1">光子合并器</a></th>
@@ -218,21 +218,21 @@
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
   <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
   <tr>
     <th>塑料</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
   <tr>
@@ -258,35 +258,35 @@
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
   <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
     <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
     <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
     <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
-    <td>需求量</td>
+    <td>用量</td>
     <td>备注</td>
   </tr>
 
@@ -303,7 +303,7 @@
   </tr>
   <tr>
     <th>名称</th>
-    <th>需求量</th>
+    <th>用量</th>
     <th>名称</th>
     <th>产量</th>
   </tr>
@@ -361,7 +361,7 @@
     <td rowspan="2">1800</td>
     <td>反物质</td>
     <td>1800</td>
-    <td rowspan="2">配置为加速模式。不使用增产剂时，需求量与产量减半。</td>
+    <td rowspan="2">配置为加速模式。不使用增产剂时，用量与产量减半。</td>
   </tr>
   <tr>
     <td>氢</td>
