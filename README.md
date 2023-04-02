@@ -174,6 +174,47 @@
     <td>1440</td>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/合成/光子合并器珍奇1800.txt?raw=1">光子合并器（珍奇）</a></th>
+    <td rowspan="2">1800</td>
+    <td>光栅石</td>
+    <td>1440</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
+    <td rowspan="3">1800</td>
+    <td>氢</td>
+    <td>17280</td>
+    <td rowspan="3">输入4层，需增产。其中氢分3路提供，分别为6480、6480、4320。</td>
+  </tr>
+  <tr>
+    <td>钛晶石</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>2880</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体（珍奇）</a></th>
+    <td rowspan="3">1800</td>
+    <td>氢</td>
+    <td>17280</td>
+    <td rowspan="3">输入4层，需增产。其中氢分3路提供，分别为6480、6480、4320；光栅石分2路提供，分别为7200、4320。</td>
+  </tr>
+  <tr>
+    <td>光栅石</td>
+    <td>11520</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>2880</td>
+  </tr>
+  <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
