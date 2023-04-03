@@ -379,7 +379,8 @@
     <td>180</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速.txt?raw=1">质能储存 加速</a></th>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存 加速 1层原料</a><br />
+        <a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存 加速 2层原料</a></th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800</td>
     <td>反物质</td>
