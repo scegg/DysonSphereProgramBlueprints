@@ -254,7 +254,7 @@
     <td rowspan="2">1800</td>
     <td>精炼油</td>
     <td>2880</td>
-    <td rowspan="5">输入2层，需增产。</td>
+    <td rowspan="2">输入2层，需增产。</td>
   </tr>
   <tr>
     <td>高能石墨</td>
@@ -284,7 +284,7 @@
     <td rowspan="2">1800</td>
     <td>电路板</td>
     <td>2880</td>
-    <td rowspan="5">输入2层，需增产。</td>
+    <td rowspan="2">输入2层，需增产。</td>
   </tr>
   <tr>
     <td>微晶元件</td>
