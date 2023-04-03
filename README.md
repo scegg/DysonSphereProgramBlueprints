@@ -145,6 +145,7 @@
 * `需增产`：指输入的原料应自行喷涂增产剂3后再接入此蓝图的设施。
 * 使用制作台，如未说明均为3级制作台输入版本。
 * 使用熔炉，如未说明均为电弧熔炉。
+* 使用化工厂，如未说明均为量子化工厂。
 * `宽版`：增加设施间距，应对不同纬度要求。
 * 由于煤矿比石油相对稀缺，未提供重整精炼（2精炼油1氢1煤矿->3精炼油）。
 
@@ -234,29 +235,30 @@
     <td>180</td>
   </tr>
   <tr>
-    <td>增产剂</td>
+    <td>3级增产剂</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <th rowspan="2"><a href="Blueprints/合成/地基90%20无增产.txt?raw=1">地基</a></th>
+    <td rowspan="2">90</td>
+    <td>石材</td>
+    <td>270</td>
+    <td rowspan="5">无增产。使用1级制造台。无配电。</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <td>钢材</td>
+    <td>90</td>
   </tr>
   <tr>
-    <th>塑料</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <th rowspan="2"><a href="Blueprints/合成/塑料1800.txt?raw=1">塑料</a></th>
+    <td rowspan="2">1800</td>
+    <td>精炼油</td>
+    <td>2880</td>
+    <td rowspan="5">输入2层，需增产。</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>1440</td>
   </tr>
   <tr>
     <th rowspan="4"><a href="Blueprints/合成/增产剂3%20360%20使用电弧熔炉.txt?raw=1">3级增产剂</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂3%20360%20使用位面熔炉.txt?raw=1">3级增产剂</a><br/>使用位面熔炉、3级制作台</th>
@@ -276,6 +278,113 @@
   <tr>
     <td>金伯利矿石</td>
     <td>208</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/处理器1800.txt?raw=1">处理器</a></th>
+    <td rowspan="2">1800</td>
+    <td>电路板</td>
+    <td>2880</td>
+    <td rowspan="5">输入2层，需增产。</td>
+  </tr>
+  <tr>
+    <td>微晶元件</td>
+    <td>2880</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/太阳帆3600.txt?raw=1">太阳帆</a></th>
+    <td rowspan="2">3600</td>
+    <td>石墨烯</td>
+    <td>1440</td>
+    <td rowspan="5">需增产。</td>
+  </tr>
+  <tr>
+    <td>光子合并器</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/奇异物质450.txt?raw=1">奇异物质</a></th>
+    <td rowspan="3">450</td>
+    <td>重氢</td>
+    <td>3600</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>粒子容器</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵 同侧</a><br />
+        <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵 对侧</a></th>
+    <td rowspan="13">375</td>
+    <td>磁线圈</td>
+    <td>240</td>
+    <td rowspan="13">需增产。同侧指输出的宇宙矩阵与输入原料在设施同侧；对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>480</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>480</td>
+  </tr>
+  <tr>
+    <td>金刚石</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>钛晶石</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>672</td>
+  </tr>
+  <tr>
+    <td>粒子宽带</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>引力透镜</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>卡西米尔晶体</td>
+    <td>154</td>
+  </tr>
+  <tr>
+    <td>钛化玻璃</td>
+    <td>307</td>
+  </tr>
+  <tr>
+    <td>反物质</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>3级增产剂</td>
+    <td>少量</td>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>用量</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <td>产量</td>
+    <td>名称</td>
+    <td>用量</td>
+    <td>备注</td>
   </tr>
   <tr>
     <th>名称</th>
