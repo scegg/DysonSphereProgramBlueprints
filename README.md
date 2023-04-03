@@ -243,7 +243,7 @@
     <td rowspan="2">90</td>
     <td>石材</td>
     <td>270</td>
-    <td rowspan="5">无增产。使用1级制造台。无配电。</td>
+    <td rowspan="2">无增产。使用1级制造台。无配电。</td>
   </tr>
   <tr>
     <td>钢材</td>
@@ -295,7 +295,7 @@
     <td rowspan="2">3600</td>
     <td>石墨烯</td>
     <td>1440</td>
-    <td rowspan="5">需增产。</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>光子合并器</td>
