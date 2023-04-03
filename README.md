@@ -317,7 +317,7 @@
     <td>720</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵 同侧</a><br />
+    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵 同侧</a><br /><br />
         <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵 对侧</a></th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
