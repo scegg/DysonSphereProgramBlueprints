@@ -608,6 +608,76 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/合成/石墨烯240%20无增产.txt?raw=1">石墨烯</a></th>
+    <td rowspan="2">240</td>
+    <td>硫酸</td>
+    <td>120</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/石墨烯360%20无增产.txt?raw=1">石墨烯</a></th>
+    <td rowspan="2">360</td>
+    <td>硫酸</td>
+    <td>180</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>540</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/硫酸120%20无增产.txt?raw=1">硫酸</a></th>
+    <td rowspan="3">120</td>
+    <td>精炼油</td>
+    <td>180</td>
+    <td rowspan="3"></td>
+  </tr>
+  <tr>
+    <td>石矿</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/硫酸360%20无增产.txt?raw=1">硫酸</a></th>
+    <td rowspan="3">360</td>
+    <td>精炼油</td>
+    <td>540</td>
+    <td rowspan="3"></td>
+  </tr>
+  <tr>
+    <td>石矿</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
+    <td rowspan="2">1800</td>
+    <td>石墨烯</td>
+    <td>2160（2层）</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/碳纳米管珍奇1800.txt?raw=1">碳纳米管（珍奇）</a></th>
+    <td>1800</td>
+    <td>刺笋结晶</td>
+    <td>4320（4层）</td>
+    <td>需增产。</td>
+  </tr>
+  <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
