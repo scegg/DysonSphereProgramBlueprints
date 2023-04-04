@@ -266,7 +266,7 @@
     <td rowspan="2">90</td>
     <td>石材</td>
     <td>270</td>
-    <td rowspan="2">无增产。<br />使用1级制造台。无配电。</td>
+    <td rowspan="2">无增产。<br />使用1级制造台。<br />无配电。</td>
   </tr>
   <tr>
     <td>钢材</td>
@@ -515,6 +515,63 @@
     <td>玻璃</td>
     <td>7200（4层）</td>
     <td>需增产。</td>
+  </tr>
+  <tr>
+    <th rowspan="6"><a href="Blueprints/合成/氘核燃料棒900.txt?raw=1">氘核燃料棒</a></th>
+    <td rowspan="6">900</td>
+    <td>钛合金</td>
+    <td>360</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。</td>
+  </tr>
+  <tr>
+    <td>重氢</td>
+    <td>7200（4层）</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>864</td>
+  </tr>
+  <tr>
+    <td>电磁涡轮</td>
+    <td>576</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>288</td>
+  </tr>
+  <tr>
+    <td>3级增产剂</td>
+    <td>少量</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/液氢燃料棒20%20无增产.txt?raw=1">液氢燃料棒</a></th>
+    <td rowspan="2">20</td>
+    <td>钛块</td>
+    <td>20</td>
+    <td rowspan="2">无增产。<br />使用1级制造台。<br />无配电。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/合成/物流运输船23.txt?raw=1">物流运输船</a></th>
+    <td rowspan="4">23</td>
+    <td>铜块</td>
+    <td>108（需增产）</td>
+    <td rowspan="4">部分原料需增产。</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>72（需增产）</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>113</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>45</td>
   </tr>
   <tr>
     <th>名称</th>
