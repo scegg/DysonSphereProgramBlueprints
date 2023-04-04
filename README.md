@@ -8,8 +8,7 @@
 
 ## 单纯使用熔炉
 
-* 输入、输出层数指传送带上货物的堆叠层数。
-* 由于位面熔炉使用偏后期，如未说明均为4层输入版本。
+* 输入、输出层数指传送带上货物的堆叠层数。未标注的为1层。
 * `需增产`：指输入的原料应自行喷涂增产剂3后再接入此蓝图的设施。
 
 <table>
@@ -28,66 +27,74 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
     <th><a href="Blueprints/使用位面熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>硅块</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
     <th><a href="Blueprints/使用位面熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
-    <td>4500</td>
+    <td>4500（4层）</td>
     <td>石矿</td>
-    <td>7200</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/石材7200.txt?raw=1">石材</a></th>
     <th><a href="Blueprints/使用位面熔炉/石材7200.txt?raw=1">石材</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>石矿</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/硅块4500.txt?raw=1">硅块</a></th>
     <th><a href="Blueprints/使用位面熔炉/硅块4500.txt?raw=1">硅块</a></th>
-    <td>4500</td>
+    <td>4500（4层）</td>
     <td>硅矿</td>
-    <td>7200</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
     <th><a href="Blueprints/使用位面熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>铁矿</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
     <th><a href="Blueprints/使用位面熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>高能石墨</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%202层原料.txt?raw=1">金刚石（珍奇）</a><br />输入2层<br /><br /><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%204层原料.txt?raw=1">金刚石（珍奇）</a><br />输入4层</th>
-    <th><a href="Blueprints/使用位面熔炉/金刚石珍奇7200.txt?raw=1">金刚石（珍奇）</a><br />输入4层</th>
-    <td>7200</td>
+    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%202层原料.txt?raw=1">金刚石（珍奇）</a></th>
+    <th>/</th>
+    <td>7200（4层）</td>
     <td>金伯利矿石</td>
-    <td>2880</td>
-    <td>输入2或4层，需增产。输出4层。</td>
+    <td>2880（2层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800%202层原料.txt?raw=1">钛合金</a><br />输入2层<br /><br /><a href="Blueprints/使用电弧熔炉/钛合金1800%204层原料.txt?raw=1">钛合金</a><br />输入4层</th>
-    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
+    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%204层原料.txt?raw=1">金刚石（珍奇）</a></th>
+    <th><a href="Blueprints/使用位面熔炉/金刚石珍奇7200.txt?raw=1">金刚石（珍奇）</a></th>
+    <td>7200（4层）</td>
+    <td>金伯利矿石</td>
+    <td>2880（4层）</td>
+    <td>需增产。</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th rowspan="3">/</th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
     <td>1440</td>
-    <td rowspan="3">输入4层，需增产。由于大宗使用偏后期，位面熔炉版暂未提供2层输入版本。</td>
+    <td rowspan="3">需增产。</td>
   </tr>
   <tr>
     <td>钢材</td>
@@ -95,53 +102,69 @@
   </tr>
   <tr>
     <td>硫酸</td>
-    <td>2880</td>
+    <td>2880（2层）</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
+    <td rowspan="3">1800</td>
+    <td>钛块</td>
+    <td>1440（4层）</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>1440（4层）</td>
+  </tr>
+  <tr>
+    <td>硫酸</td>
+    <td>2880（4层）</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/钛块4500.txt?raw=1">钛块</a></th>
     <th><a href="Blueprints/使用位面熔炉/钛块4500.txt?raw=1">钛块</a></th>
-    <td>4500</td>
+    <td>4500（4层）</td>
     <td>钛矿</td>
-    <td>7200</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/钢材3000.txt?raw=1">钢材</a></th>
     <th><a href="Blueprints/使用位面熔炉/钢材3000.txt?raw=1">钢材</a></th>
-    <td>3000</td>
+    <td>3000（2层）</td>
     <td>铁块</td>
-    <td>7200</td>
-    <td>输入4层，需增产。输出2层。</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/铁块7200.txt?raw=1">铁块</a></th>
     <th><a href="Blueprints/使用位面熔炉/铁块7200.txt?raw=1">铁块</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>铁矿</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/铜块7200.txt?raw=1">铜块</a></th>
     <th><a href="Blueprints/使用位面熔炉/铜块7200.txt?raw=1">铜块</a></th>
-    <td>7200</td>
+    <td>7200（4层）</td>
     <td>铜矿</td>
-    <td>5760</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>5760（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
     <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <td>4500</td>
+    <td>4500（4层）</td>
     <td>煤矿</td>
-    <td>7200</td>
-    <td>输入4层，需增产。输出4层。</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
 </table>
 
 ## 综合使用
 
-* 输入、输出层数指传送带上货物的堆叠层数。
+* 输入、输出层数指传送带上货物的堆叠层数。未标注的为1层。
 * `需增产`：指输入的原料应自行喷涂增产剂3后再接入此蓝图的设施。
 * 使用制作台，如未说明均为3级制作台输入版本。
 * 使用熔炉，如未说明均为电弧熔炉。
@@ -167,8 +190,8 @@
     <th rowspan="2"><a href="Blueprints/合成/光子合并器1800.txt?raw=1">光子合并器</a></th>
     <td rowspan="2">1800</td>
     <td>棱镜</td>
-    <td>2880</td>
-    <td rowspan="2">输入2层，需增产。</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>电路板</td>
@@ -189,8 +212,8 @@
     <th rowspan="3"><a href="Blueprints/合成/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
     <td rowspan="3">1800</td>
     <td>氢</td>
-    <td>17280</td>
-    <td rowspan="3">输入4层，需增产。其中氢分3路提供，分别为6480、4320、6480。</td>
+    <td>17280（4层）</td>
+    <td rowspan="3">需增产。<br />其中氢分3路提供，<br />分别为6480、4320、6480。</td>
   </tr>
   <tr>
     <td>钛晶石</td>
@@ -198,29 +221,29 @@
   </tr>
   <tr>
     <td>石墨烯</td>
-    <td>2880</td>
+    <td>2880（2层）</td>
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/合成/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体（珍奇）</a></th>
     <td rowspan="3">1800</td>
     <td>氢</td>
-    <td>17280</td>
-    <td rowspan="3">输入4层，需增产。其中氢分3路提供，分别为6480、4320、6480；光栅石分2路提供，分别为5760、5760。</td>
+    <td>17280（4层）</td>
+    <td rowspan="3">需增产。<br />其中氢分3路提供，<br />分别为6480、4320、6480；<br />光栅石分2路提供，<br />分别为5760、5760。</td>
   </tr>
   <tr>
     <td>光栅石</td>
-    <td>11520</td>
+    <td>11520（4层）</td>
   </tr>
   <tr>
     <td>石墨烯</td>
-    <td>2880</td>
+    <td>2880（2层）</td>
   </tr>
   <tr>
     <th rowspan="5"><a href="Blueprints/合成/反物质燃料棒360.txt?raw=1">反物质燃料棒</a></th>
     <td rowspan="5">360</td>
     <td>临界光子</td>
-    <td>2160</td>
-    <td rowspan="5">临界光子输入4层，需增产；输入增产剂用于中间产物喷涂。质能储存与反物质燃料棒生产采用加速模式。</td>
+    <td>2160（4层）</td>
+    <td rowspan="5">需增产。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
   </tr>
   <tr>
     <td>钛合金</td>
@@ -243,7 +266,7 @@
     <td rowspan="2">90</td>
     <td>石材</td>
     <td>270</td>
-    <td rowspan="2">无增产。使用1级制造台。无配电。</td>
+    <td rowspan="2">无增产。<br />使用1级制造台。无配电。</td>
   </tr>
   <tr>
     <td>钢材</td>
@@ -253,8 +276,8 @@
     <th rowspan="2"><a href="Blueprints/合成/塑料1800.txt?raw=1">塑料</a></th>
     <td rowspan="2">1800</td>
     <td>精炼油</td>
-    <td>2880</td>
-    <td rowspan="2">输入2层，需增产。</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>高能石墨</td>
@@ -265,7 +288,7 @@
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
-    <td rowspan="4">当有金伯利矿石时优先使用，替代金刚石。输出的增产剂已自喷涂。</td>
+    <td rowspan="4">当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
   </tr>
   <tr>
     <td>金刚石</td>
@@ -283,16 +306,16 @@
     <th rowspan="2"><a href="Blueprints/合成/处理器1800.txt?raw=1">处理器</a></th>
     <td rowspan="2">1800</td>
     <td>电路板</td>
-    <td>2880</td>
-    <td rowspan="2">输入2层，需增产。</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>微晶元件</td>
-    <td>2880</td>
+    <td>2880（2层）</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/太阳帆3600.txt?raw=1">太阳帆</a></th>
-    <td rowspan="2">3600</td>
+    <td rowspan="2">3600（2层）</td>
     <td>石墨烯</td>
     <td>1440</td>
     <td rowspan="2">需增产。</td>
@@ -305,7 +328,7 @@
     <th rowspan="3"><a href="Blueprints/合成/奇异物质450.txt?raw=1">奇异物质</a></th>
     <td rowspan="3">450</td>
     <td>重氢</td>
-    <td>3600</td>
+    <td>3600（2层）</td>
     <td rowspan="3">需增产。</td>
   </tr>
   <tr>
@@ -322,7 +345,7 @@
     <td rowspan="13">375</td>
     <td>磁线圈</td>
     <td>240</td>
-    <td rowspan="13">需增产。同侧指输出的宇宙矩阵与输入原料在设施同侧；对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
+    <td rowspan="13">需增产。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
   </tr>
   <tr>
     <td>电路板</td>
@@ -371,6 +394,79 @@
   <tr>
     <td>3级增产剂</td>
     <td>少量</td>
+  </tr>
+  <tr>
+    <th rowspan="12"><a href="Blueprints/合成/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
+    <td rowspan="12">75</td>
+    <td>处理器</td>
+    <td>480</td>
+    <td rowspan="12">需增产。<br />输入增产剂用于中间产物喷涂。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>326</td>
+  </tr>
+  <tr>
+    <td>太阳帆</td>
+    <td>288</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>77</td>
+  </tr>
+  <tr>
+    <td>磁铁</td>
+    <td>230</td>
+  </tr>
+  <tr>
+    <td>碳纳米管</td>
+    <td>922</td>
+  </tr>
+  <tr>
+    <td>卡西米尔晶体</td>
+    <td>154</td>
+  </tr>
+  <tr>
+    <td>钛化玻璃</td>
+    <td>307</td>
+  </tr>
+  <tr>
+    <td>硅块</td>
+    <td>230</td>
+  </tr>
+  <tr>
+    <td>电磁涡轮</td>
+    <td>154</td>
+  </tr>
+  <tr>
+    <td>重氢</td>
+    <td>1920（2层）</td>
+  </tr>
+  <tr>
+    <td>3级增产剂</td>
+    <td>少量</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/引力透镜900.txt?raw=1">引力透镜</a></th>
+    <td rowspan="2">900</td>
+    <td>金刚石</td>
+    <td>2880</td>
+    <td rowspan="2">输入金刚石需2层，需增产。</td>
+  </tr>
+  <tr>
+    <td>奇异物质</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/微晶原件4500.txt?raw=1">微晶原件</a></th>
+    <td rowspan="2">4500（2层、4层混合）</td>
+    <td>硅块</td>
+    <td>7200（4层）</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>3600（2层）</td>
   </tr>
   <tr>
     <th>名称</th>
