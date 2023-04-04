@@ -456,7 +456,7 @@
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/微晶原件4500.txt?raw=1">微晶原件</a></th>
-    <td rowspan="2">4500<br />(2层、4层混合)</td>
+    <td rowspan="2">4500<br />(2/4层混合)</td>
     <td>硅块</td>
     <td>7200(4层)</td>
     <td rowspan="2">需增产。</td>
