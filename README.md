@@ -111,11 +111,11 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a><br />输入4层</th>
+    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
     <td>1440(4层)</td>
-    <td rowspan="3">需增产。</td>
+    <td rowspan="3">需增产。<br />输入均为4层。</td>
   </tr>
   <tr>
     <td>钢材</td>
@@ -337,8 +337,8 @@
     <td>720</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵 同侧</a><br /><br />
-        <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵 对侧</a></th>
+    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br />
+        <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
     <td>240</td>
@@ -671,7 +671,7 @@
     <td>720</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/合成/碳纳米管珍奇1800.txt?raw=1">碳纳米管（珍奇）</a></th>
+    <th><a href="Blueprints/合成/碳纳米管珍奇1800.txt?raw=1">碳纳米管(珍奇)</a></th>
     <td>1800</td>
     <td>刺笋结晶</td>
     <td>4320（4层）</td>
