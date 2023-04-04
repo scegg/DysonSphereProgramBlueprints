@@ -450,8 +450,8 @@
     <th rowspan="2"><a href="Blueprints/合成/引力透镜900.txt?raw=1">引力透镜</a></th>
     <td rowspan="2">900</td>
     <td>金刚石</td>
-    <td>2880</td>
-    <td rowspan="2">输入金刚石需2层，需增产。</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>奇异物质</td>
@@ -467,6 +467,54 @@
   <tr>
     <td>铜块</td>
     <td>3600（2层）</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/合成/星际物流运输船15.txt?raw=1">星际物流运输船</a></th>
+    <td rowspan="4">15</td>
+    <td>电磁涡轮</td>
+    <td>120（需增产）</td>
+    <td rowspan="4">部分原料需增产。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>120（需增产）</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/晶格硅珍奇7200.txt?raw=1">晶格硅（珍奇）</a></th>
+    <td>7200（4层）</td>
+    <td>分形硅石</td>
+    <td>2880（2层）</td>
+    <td>需增产。</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/有机晶体450.txt?raw=1">有机晶体</a></th>
+    <td rowspan="3">450</td>
+    <td>塑料</td>
+    <td>720</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/棱镜6000.txt?raw=1">棱镜</a></th>
+    <td>6000（4层）</td>
+    <td>玻璃</td>
+    <td>7200（4层）</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th>名称</th>
@@ -558,14 +606,14 @@
   <tr>
     <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
     <td rowspan="2">可燃冰</td>
-    <td rowspan="2">5760</td>
+    <td rowspan="2">5760（4层）</td>
     <td>氢</td>
-    <td>3600</td>
-    <td rowspan="2">输入4层，需增产。输出石墨烯4层、氢2层。</td>
+    <td>3600（2层）</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>石墨烯</td>
-    <td>7200</td>
+    <td>7200（4层）</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/分解/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼 宽版 无增产</a><br />
@@ -584,17 +632,28 @@
     <td>180</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存 加速 1层原料</a><br />
-        <a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存 加速 2层原料</a></th>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存 加速</a></th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800</td>
     <td>反物质</td>
     <td>1800</td>
-    <td rowspan="2">配置为加速模式。不使用增产剂时，用量与产量减半。</td>
+    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
   </tr>
   <tr>
     <td>氢</td>
     <td>1800</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存 加速</a></th>
+    <td rowspan="2">临界光子</td>
+    <td rowspan="2">1800（2层）</td>
+    <td>反物质</td>
+    <td>1800（2层）</td>
+    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>1800（2层）</td>
   </tr>
   <tr>
     <th>配方</th>
