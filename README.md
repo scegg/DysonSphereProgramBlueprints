@@ -574,6 +574,43 @@
     <td>45</td>
   </tr>
   <tr>
+    <th rowspan="3"><a href="Blueprints/合成/电动机1800.txt?raw=1">电动机</a></th>
+    <td rowspan="3">1800</td>
+    <td>铁块</td>
+    <td>2880（2层）</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>齿轮</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/电磁涡轮1800.txt?raw=1">电磁涡轮</a></th>
+    <td rowspan="2">1800</td>
+    <td>电动机</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>2880（2层）</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/电路板7200.txt?raw=1">电路板</a></th>
+    <td rowspan="2">7200（4层）</td>
+    <td>铜块</td>
+    <td>2880（2层）</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>5760（4层）</td>
+  </tr>
+  <tr>
     <th>名称</th>
     <td>产量</td>
     <td>名称</td>
