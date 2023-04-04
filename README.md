@@ -459,7 +459,7 @@
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/微晶原件4500.txt?raw=1">微晶原件</a></th>
-    <td rowspan="2">4500（2层、4层混合）</td>
+    <td rowspan="2">4500<br />（2层、4层混合）</td>
     <td>硅块</td>
     <td>7200（4层）</td>
     <td rowspan="2">需增产。</td>
@@ -700,7 +700,7 @@
   <tr>
     <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
     <td rowspan="2">可燃冰</td>
-    <td rowspan="2">5760（4层）</td>
+    <td rowspan="2">5760<br />（4层）</td>
     <td>氢</td>
     <td>3600（2层）</td>
     <td rowspan="2">需增产。</td>
@@ -740,7 +740,7 @@
   <tr>
     <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存 加速</a></th>
     <td rowspan="2">临界光子</td>
-    <td rowspan="2">1800（2层）</td>
+    <td rowspan="2">1800<br />（2层）</td>
     <td>反物质</td>
     <td>1800（2层）</td>
     <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
