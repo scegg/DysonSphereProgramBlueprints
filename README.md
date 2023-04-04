@@ -612,7 +612,7 @@
     <td rowspan="2">240</td>
     <td>硫酸</td>
     <td>120</td>
-    <td rowspan="2"></td>
+    <td rowspan="2">无增产。</td>
   </tr>
   <tr>
     <td>高能石墨</td>
@@ -623,7 +623,7 @@
     <td rowspan="2">360</td>
     <td>硫酸</td>
     <td>180</td>
-    <td rowspan="2"></td>
+    <td rowspan="2">无增产。</td>
   </tr>
   <tr>
     <td>高能石墨</td>
@@ -634,7 +634,7 @@
     <td rowspan="3">120</td>
     <td>精炼油</td>
     <td>180</td>
-    <td rowspan="3"></td>
+    <td rowspan="3">无增产。</td>
   </tr>
   <tr>
     <td>石矿</td>
@@ -649,7 +649,7 @@
     <td rowspan="3">360</td>
     <td>精炼油</td>
     <td>540</td>
-    <td rowspan="3"></td>
+    <td rowspan="3">无增产。</td>
   </tr>
   <tr>
     <td>石矿</td>
@@ -745,20 +745,20 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/分解/X射线裂解600%20无增产.txt?raw=1">X射线裂解 无增产</a></th>
+    <th><a href="Blueprints/分解/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
     <td>精炼油</td>
     <td>600</td>
     <td>高能石墨</td>
     <td>600</td>
-    <td>启动时需投入少量氢。谨防氢堵塞。</td>
+    <td>无增产。<br />启动时需投入少量氢。谨防氢堵塞。</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯 无增产</a></th>
+    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯</a></th>
     <td rowspan="2">可燃冰</td>
     <td rowspan="2">240</td>
     <td>氢</td>
     <td>120</td>
-    <td rowspan="2"></td>
+    <td rowspan="2">无增产。</td>
   </tr>
   <tr>
     <td>石墨烯</td>
@@ -777,10 +777,10 @@
     <td>7200(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼 宽版 无增产</a><br />
-        <a href="Blueprints/分解/等离子精炼360宽.txt?raw=1">等离子精炼 宽版</a><br />
-        <a href="Blueprints/分解/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼 无增产</a><br />
-        <a href="Blueprints/分解/等离子精炼360窄.txt?raw=1">等离子精炼</a>
+    <th rowspan="2"><a href="Blueprints/分解/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼</a> 宽版 无增产<br />
+        <a href="Blueprints/分解/等离子精炼360宽.txt?raw=1">等离子精炼</a> 宽版 需增产<br />
+        <a href="Blueprints/分解/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼</a> 无增产<br />
+        <a href="Blueprints/分解/等离子精炼360窄.txt?raw=1">等离子精炼</a> 需增产
     </th>
     <td rowspan="2">石油</td>
     <td rowspan="2">360</td>
@@ -793,7 +793,7 @@
     <td>180</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存 加速</a></th>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a> 加速</th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800</td>
     <td>反物质</td>
@@ -805,7 +805,7 @@
     <td>1800</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存 加速</a></th>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a> 加速</th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800<br />(2层)</td>
     <td>反物质</td>
