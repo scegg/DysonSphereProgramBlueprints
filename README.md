@@ -165,6 +165,14 @@
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
+  <tr>
+    <th><a href="Blueprints/使用电弧熔炉/高能石墨360%20无增产.txt?raw=1">高能石墨</a></th>
+    <th>/</th>
+    <td>360</td>
+    <td>煤矿</td>
+    <td>720</td>
+    <td>无增产。</td>
+  </tr>
 </table>
 
 ## 综合使用
@@ -678,55 +686,118 @@
     <td>需增产。</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <th rowspan="2"><a href="Blueprints/合成/磁线圈7200.txt?raw=1">磁线圈</a></th>
+    <td rowspan="2">7200(4层)</td>
+    <td>铜块</td>
+    <td>2880(2层)</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <td>磁铁</td>
+    <td>5760(4层)</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <th><a href="Blueprints/合成/空间翘曲器360.txt?raw=1">空间翘曲器</a></th>
+    <td>360</td>
+    <td>引力矩阵</td>
+    <td>36</td>
+    <td>需增产。<br />使用2级制造台。</td>
   </tr>
   <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+    <th rowspan="3"><a href="Blueprints/合成/粒子容器1800.txt?raw=1">粒子容器</a></th>
+    <td rowspan="3">1800</td>
+    <td>电磁涡轮</td>
+    <td>2880(2层)</td>
+    <td rowspan="3">需增产。</td>
   </tr>
-    <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+  <tr>
+    <td>铜块</td>
+    <td>2880(2层)</td>
   </tr>
-    <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+  <tr>
+    <td>石墨烯</td>
+    <td>2880(2层)</td>
   </tr>
-    <tr>
-    <th>名称</th>
-    <td>产量</td>
-    <td>名称</td>
-    <td>用量</td>
-    <td>备注</td>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
+    <td rowspan="2">1800</td>
+    <td>单级磁石</td>
+    <td>14400(2层)</td>
+    <td rowspan="2">需增产。<br />其中单级磁石分2路提供，<br />分别为7200、7200。</td>
   </tr>
-
+  <tr>
+    <td>铜块</td>
+    <td>2880(2层)</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/粒子宽带900.txt?raw=1">粒子宽带</a></th>
+    <td rowspan="3">900</td>
+    <td>碳纳米管</td>
+    <td>1440</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>晶格硅</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>塑料</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/重氢3600.txt?raw=1">重氢</a></th>
+    <td>3600</td>
+    <td>氢</td>
+    <td>7200(4层)</td>
+    <td>需增产。<br />使用加速模式。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/重氢分馏1700.txt?raw=1">重氢</a>(分馏)</th>
+    <td>1700</td>
+    <td>氢</td>
+    <td>1700(4层)</td>
+    <td>需增产。<br />输入必须4层才可以达到设计效率。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/重氢分馏1766%20无增产.txt?raw=1">重氢</a>(分馏)</th>
+    <td>1766</td>
+    <td>氢</td>
+    <td>1766(4层)</td>
+    <td>无增产。<br />输入必须4层才可以达到设计效率。</td>∑
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/合成/钛化玻璃1800.txt?raw=1">钛化玻璃</a></th>
+    <td rowspan="3">1800</td>
+    <td>玻璃</td>
+    <td>1440</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/合成/钛晶石1800.txt?raw=1">钛晶石</a></th>
+    <td rowspan="2">1800</td>
+    <td>有机晶体</td>
+    <td>1440</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>4320(4层)</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/齿轮7200.txt?raw=1">齿轮</a></th>
+    <td>7200(4层)</td>
+    <td>铁块</td>
+    <td>5760(4层)</td>
+    <td>需增产。</td>∑
+  </tr>
 </table>
 
 ### 分解
