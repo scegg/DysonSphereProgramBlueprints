@@ -1,6 +1,8 @@
 # Dyson Sphere Program Blueprints
 保存自己制作的戴森球计划蓝图。
 
+注意：正在更新到新公式中。目前已经完成熔炉、分解。其它逐步更新中。
+
 ## [Blueprints](Blueprints)
 此目录中包含自己制作的戴森球计划蓝图文件。
 
@@ -27,13 +29,14 @@
 ## 单纯使用熔炉
 <table>
   <tr>
-    <th colspan="3">产物</th>
+    <th colspan="4">产物</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉">电弧熔炉版</a></th>
     <th><a href="Blueprints/使用位面熔炉">位面熔炉版</a></th>
+    <th><a href="Blueprints/使用负熵熔炉">负熵熔炉版</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
@@ -41,6 +44,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
     <th><a href="Blueprints/使用位面熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
     <td>7200(4层)</td>
     <td>硅块</td>
     <td>5760(4层)</td>
@@ -49,6 +53,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
     <th><a href="Blueprints/使用位面熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
     <td>4500(4层)</td>
     <td>石矿</td>
     <td>7200(4层)</td>
@@ -57,6 +62,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/石材7200.txt?raw=1">石材</a></th>
     <th><a href="Blueprints/使用位面熔炉/石材7200.txt?raw=1">石材</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/石材7200.txt?raw=1">石材</a></th>
     <td>7200(4层)</td>
     <td>石矿</td>
     <td>5760(4层)</td>
@@ -65,6 +71,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/硅块4500.txt?raw=1">硅块</a></th>
     <th><a href="Blueprints/使用位面熔炉/硅块4500.txt?raw=1">硅块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/硅块4500.txt?raw=1">硅块</a></th>
     <td>4500(4层)</td>
     <td>硅矿</td>
     <td>7200(4层)</td>
@@ -73,6 +80,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
     <th><a href="Blueprints/使用位面熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
     <td>7200(4层)</td>
     <td>铁矿</td>
     <td>5760(4层)</td>
@@ -81,13 +89,15 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
     <th><a href="Blueprints/使用位面熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
     <td>7200(4层)</td>
     <td>高能石墨</td>
-    <td>5760(4层)</td>
+    <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%202层原料.txt?raw=1">金刚石(珍奇)</a></th>
+    <th>/</th>
     <th>/</th>
     <td>7200(4层)</td>
     <td>金伯利矿石</td>
@@ -97,6 +107,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%204层原料.txt?raw=1">金刚石(珍奇)</a></th>
     <th><a href="Blueprints/使用位面熔炉/金刚石珍奇7200.txt?raw=1">金刚石(珍奇)</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/金刚石珍奇7200.txt?raw=1">金刚石(珍奇)</a></th>
     <td>7200(4层)</td>
     <td>金伯利矿石</td>
     <td>2880(4层)</td>
@@ -104,6 +115,7 @@
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th rowspan="3">/</th>
     <th rowspan="3">/</th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
@@ -121,6 +133,7 @@
   <tr>
     <th rowspan="3">/</th>
     <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th rowspan="3"><a href="Blueprints/使用负熵熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
     <td rowspan="3">1800</td>
     <td>钛块</td>
     <td>1440(4层)</td>
@@ -137,6 +150,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/钛块4500.txt?raw=1">钛块</a></th>
     <th><a href="Blueprints/使用位面熔炉/钛块4500.txt?raw=1">钛块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/钛块4500.txt?raw=1">钛块</a></th>
     <td>4500(4层)</td>
     <td>钛矿</td>
     <td>7200(4层)</td>
@@ -145,6 +159,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/钢材3000.txt?raw=1">钢材</a></th>
     <th><a href="Blueprints/使用位面熔炉/钢材3000.txt?raw=1">钢材</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/钢材3000.txt?raw=1">钢材</a></th>
     <td>3000(2层)</td>
     <td>铁块</td>
     <td>7200(4层)</td>
@@ -153,6 +168,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/铁块7200.txt?raw=1">铁块</a></th>
     <th><a href="Blueprints/使用位面熔炉/铁块7200.txt?raw=1">铁块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/铁块7200.txt?raw=1">铁块</a></th>
     <td>7200(4层)</td>
     <td>铁矿</td>
     <td>5760(4层)</td>
@@ -161,6 +177,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/铜块7200.txt?raw=1">铜块</a></th>
     <th><a href="Blueprints/使用位面熔炉/铜块7200.txt?raw=1">铜块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/铜块7200.txt?raw=1">铜块</a></th>
     <td>7200(4层)</td>
     <td>铜矿</td>
     <td>5760(4层)</td>
@@ -169,6 +186,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
     <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
     <td>4500(4层)</td>
     <td>煤矿</td>
     <td>7200(4层)</td>
