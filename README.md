@@ -18,6 +18,7 @@
 
 目录：
 * [单纯使用熔炉](#单纯使用熔炉)
+* [单纯使用制造台](#单纯使用制造台)
 * [综合使用](#综合使用)
   * [合成](#合成)
   * [分解](#分解)
@@ -195,6 +196,7 @@
   <tr>
     <th><a href="Blueprints/使用电弧熔炉/高能石墨360%20无增产.txt?raw=1">高能石墨</a></th>
     <th>/</th>
+    <th>/</th>
     <td>360</td>
     <td>煤矿</td>
     <td>720</td>
@@ -202,8 +204,54 @@
   </tr>
 </table>
 
-## 综合使用
+##单纯使用制造台
+<table>
+  <tr>
+    <th colspan="5">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.I">制造台Mk.I版</a></th>
+    <th><a href="Blueprints/使用制造台Mk.II">制造台Mk.II版</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III">制造台Mk.III版</a></th>
+    <th><a href="Blueprints/使用重组式制造台">重组式制造台版</a></th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/光子合并器600%20无增产.txt?raw=1">光子合并器</a></th>
+    <th rowspan="2">/</th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">600</td>
+    <td>棱镜</td>
+    <td>1200</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>600</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器1800.txt?raw=1">光子合并器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器1800.txt?raw=1">光子合并器</a></th>
+    <td rowspan="2">1800</td>
+    <td>棱镜</td>
+    <td>2880</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>1440</td>
+  </tr>
+</table>
 
+## 综合使用
+本章节已废弃，正在逐个修正中。
 ### [合成](Blueprints/合成)
 
 <table>
@@ -217,17 +265,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/光子合并器1800.txt?raw=1">光子合并器</a></th>
-    <td rowspan="2">1800</td>
-    <td>棱镜</td>
-    <td>2880(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>电路板</td>
-    <td>1440</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
