@@ -241,12 +241,12 @@
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器1800.txt?raw=1">光子合并器</a></th>
     <td rowspan="2">1800</td>
     <td>棱镜</td>
-    <td>2880</td>
+    <td>2880(4层)</td>
     <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td>电路板</td>
-    <td>1440</td>
+    <td>1440(4层)</td>
   </tr>
 </table>
 
