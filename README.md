@@ -214,7 +214,7 @@
   <tr>
     <th><a href="Blueprints/使用制造台Mk.I">制造台<br />Mk.I版</a></th>
     <th><a href="Blueprints/使用制造台Mk.II">制造台<br />Mk.II版</a></th>
-    <th><a href="Blueprints/使用制造台Mk.III">制造台Mk.III版</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III">制造台<br />Mk.III版</a></th>
     <th><a href="Blueprints/使用重组式制造台">重组式<br />制造台版</a></th>
     <th>产量</th>
     <th>名称</th>
