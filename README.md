@@ -19,6 +19,7 @@
 目录：
 * [单纯使用熔炉](#单纯使用熔炉)
 * [单纯使用制造台](#单纯使用制造台)
+* [单纯使用化工厂](#单纯使用化工厂)
 * [综合使用](#综合使用)
   * [合成](#合成)
   * [分解](#分解)
@@ -316,12 +317,64 @@
     <td>石墨烯</td>
     <td>2880(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/地基90%20无增产.txt?raw=1">地基</a></th>
+    <th rowspan="3">/</th>
+    <th rowspan="3">/</th>
+    <th rowspan="3">/</th>
+    <td rowspan="2">90</td>
+    <td>石材</td>
+    <td>270</td>
+    <td rowspan="2">无增产。<br />无配电。</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>90</td>
+  </tr>
+</table>
+
+## 单纯使用熔炉
+<table>
+  <tr>
+    <th colspan="3">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用化工厂">化工厂</a></th>
+    <th><a href="Blueprints/使用量子化工厂">量子化工厂</a></th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/塑料600.txt?raw=1">塑料</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">600</td>
+    <td>精炼油</td>
+    <td>1800</td>
+    <td rowspan="2">无增产。</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>600</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/塑料1800.txt?raw=1">塑料</a></th>
+    <td rowspan="2">1800</td>
+    <td>精炼油</td>
+    <td>4320(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>1440(4层)</td>
+  </tr>
 </table>
 
 ## 综合使用
-本章节已废弃，正在逐个修正中。
 ### [合成](Blueprints/合成)
-
 <table>
   <tr>
     <th colspan="2">产物</th>
@@ -339,7 +392,7 @@
     <td rowspan="5">360</td>
     <td>临界光子</td>
     <td>2160(4层)</td>
-    <td rowspan="5">需增产。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
+    <td rowspan="5">需增产。<br />使用制造台Mk.III。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
   </tr>
   <tr>
     <td>钛合金</td>
@@ -347,37 +400,33 @@
   </tr>
   <tr>
     <td>粒子容器</td>
-    <td>180</td>
+    <td>144</td>
   </tr>
   <tr>
     <td>处理器</td>
-    <td>180</td>
+    <td>144</td>
   </tr>
   <tr>
     <td>3级增产剂</td>
     <td>少量</td>
   </tr>
+</table>
+
+
+本章节已废弃，正在逐个修正中。
+
+
+<table>
   <tr>
-    <th rowspan="2"><a href="Blueprints/合成/地基90%20无增产.txt?raw=1">地基</a></th>
-    <td rowspan="2">90</td>
-    <td>石材</td>
-    <td>270</td>
-    <td rowspan="2">无增产。<br />使用1级制造台。<br />无配电。</td>
+    <th colspan="2">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <td>钢材</td>
-    <td>90</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/塑料1800.txt?raw=1">塑料</a></th>
-    <td rowspan="2">1800</td>
-    <td>精炼油</td>
-    <td>2880(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>高能石墨</td>
-    <td>1440</td>
+    <th>名称</th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
   </tr>
   <tr>
     <th rowspan="4"><a href="Blueprints/合成/增产剂3%20360%20使用电弧熔炉.txt?raw=1">3级增产剂</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂3%20360%20使用位面熔炉.txt?raw=1">3级增产剂</a><br/>使用位面熔炉、3级制作台</th>
