@@ -208,15 +208,13 @@
 ## 单纯使用制造台
 <table>
   <tr>
-    <th colspan="5">产物</th>
+    <th colspan="3">产物</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
     <th><a href="Blueprints/使用制造台Mk.I">制造台<br />Mk.I版</a></th>
     <th><a href="Blueprints/使用制造台Mk.II">制造台<br />Mk.II版</a></th>
-    <th><a href="Blueprints/使用制造台Mk.III">制造台<br />Mk.III版</a></th>
-    <th><a href="Blueprints/使用重组式制造台">重组式<br />制造台版</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
@@ -224,8 +222,6 @@
   <tr>
     <th rowspan="2">/</th>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/光子合并器600%20无增产.txt?raw=1">光子合并器</a></th>
-    <th rowspan="2">/</th>
-    <th rowspan="2">/</th>
     <td rowspan="2">600</td>
     <td>棱镜</td>
     <td>1200</td>
@@ -235,39 +231,9 @@
     <td>电路板</td>
     <td>600</td>
   </tr>
-  <tr>
-    <th rowspan="2">/</th>
-    <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器1800.txt?raw=1">光子合并器</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器1800.txt?raw=1">光子合并器</a></th>
-    <td rowspan="2">1800</td>
-    <td>棱镜</td>
-    <td>2880(4层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>电路板</td>
-    <td>1440(4层)</td>
-  </tr>
-  <tr>
-    <th rowspan="2">/</th>
-    <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
-    <td rowspan="2">1800</td>
-    <td>光栅石</td>
-    <td>1440(4层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>电路板</td>
-    <td>1440(4层)</td>
-  </tr>
-  <tr>
+   <tr>
     <th rowspan="3">/</th>
     <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/卡西米尔晶体300%20无增产.txt?raw=1">卡西米尔晶体</a></th>
-    <th rowspan="3">/</th>
-    <th rowspan="3">/</th>
     <td rowspan="3">300</td>
     <td>氢</td>
     <td>3600</td>
@@ -281,9 +247,58 @@
     <td>石墨烯</td>
     <td>600</td>
   </tr>
+   <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/地基90%20无增产.txt?raw=1">地基</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="2">90</td>
+    <td>石材</td>
+    <td>270</td>
+    <td rowspan="2">无增产。<br />无配电。</td>
+  </tr>
   <tr>
-    <th rowspan="3">/</th>
-    <th rowspan="3">/</th>
+    <td>钢材</td>
+    <td>90</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="3">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.III">制造台<br />Mk.III版</a></th>
+    <th><a href="Blueprints/使用重组式制造台">重组式<br />制造台版</a></th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器1800.txt?raw=1">光子合并器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器1800.txt?raw=1">光子合并器</a></th>
+    <td rowspan="2">1800</td>
+    <td>棱镜</td>
+    <td>2880(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>1440(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
+    <td rowspan="2">1800</td>
+    <td>光栅石</td>
+    <td>1440(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>1440(4层)</td>
+  </tr>
+  <tr>
     <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
     <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
     <td rowspan="3">1800</td>
@@ -300,8 +315,6 @@
     <td>2880(2层)</td>
   </tr>
   <tr>
-    <th rowspan="3">/</th>
-    <th rowspan="3">/</th>
     <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体(珍奇)</a></th>
     <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体(珍奇)</a></th>
     <td rowspan="3">1800</td>
@@ -317,23 +330,9 @@
     <td>石墨烯</td>
     <td>2880(4层)</td>
   </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/地基90%20无增产.txt?raw=1">地基</a></th>
-    <th rowspan="3">/</th>
-    <th rowspan="3">/</th>
-    <th rowspan="3">/</th>
-    <td rowspan="2">90</td>
-    <td>石材</td>
-    <td>270</td>
-    <td rowspan="2">无增产。<br />无配电。</td>
-  </tr>
-  <tr>
-    <td>钢材</td>
-    <td>90</td>
-  </tr>
 </table>
 
-## 单纯使用熔炉
+## 单纯使用化工厂
 <table>
   <tr>
     <th colspan="3">产物</th>
