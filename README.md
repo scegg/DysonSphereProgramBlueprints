@@ -409,24 +409,6 @@
     <td>3级增产剂</td>
     <td>少量</td>
   </tr>
-</table>
-
-
-本章节已废弃，正在逐个修正中。
-
-
-<table>
-  <tr>
-    <th colspan="2">产物</th>
-    <th colspan="2">原料</th>
-    <th rowspan="2">备注</th>
-  </tr>
-  <tr>
-    <th>名称</th>
-    <th>产量</th>
-    <th>名称</th>
-    <th>用量</th>
-  </tr>
   <tr>
     <th rowspan="4"><a href="Blueprints/合成/增产剂3%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂3%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、3级制作台</th>
     <td rowspan="4">360</td>
@@ -445,6 +427,32 @@
   <tr>
     <td>金伯利矿石</td>
     <td>208</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+本章节已废弃，正在逐个修正中。
+
+
+
+
+<table>
+  <tr>
+    <th colspan="2">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/处理器1800.txt?raw=1">处理器</a></th>
