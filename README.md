@@ -410,7 +410,7 @@
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂3%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂3%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、3级制作台</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、3级制作台</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
