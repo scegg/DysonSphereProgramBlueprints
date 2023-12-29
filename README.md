@@ -410,7 +410,7 @@
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、2级制作台<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、3级制作台</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、制作台Mk.II<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、制作台Mk.III</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
@@ -427,6 +427,25 @@
   <tr>
     <td>金伯利矿石</td>
     <td>208</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、制作台Mk.III</th>
+    <td rowspan="4">1800</td>
+    <td>煤矿</td>
+    <td>4229(4层)</td>
+    <td rowspan="4">煤矿仅用于制造增产剂Mk.I。<br />当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
+  </tr>
+  <tr>
+    <td>金刚石</td>
+    <td>2643(4层)</td>
+  </tr>
+  <tr>
+    <td>碳纳米管</td>
+    <td>1652(4层)</td>
+  </tr>
+  <tr>
+    <td>金伯利矿石</td>
+    <td>1057(4层)</td>
   </tr>
 </table>
 
