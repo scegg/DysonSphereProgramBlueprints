@@ -287,8 +287,8 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器珍奇1800.txt?raw=1">光子合并器(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/光子合并器珍奇1800.txt?raw=1">光子合并器<br />(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/光子合并器珍奇1800.txt?raw=1">光子合并器<br />(珍奇)</a></th>
     <td rowspan="2">1800</td>
     <td>光栅石</td>
     <td>1440(4层)</td>
@@ -315,8 +315,8 @@
     <td>2880(2层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体(珍奇)</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体<br />(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体<br />(珍奇)</a></th>
     <td rowspan="3">1800</td>
     <td>氢</td>
     <td>17280(4层)</td>
