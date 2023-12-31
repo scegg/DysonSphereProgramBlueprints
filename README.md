@@ -299,8 +299,8 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体1800.txt?raw=1">卡西米尔晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体1800.txt?raw=1">卡西米尔<br />晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体1800.txt?raw=1">卡西米尔<br />晶体</a></th>
     <td rowspan="3">1800</td>
     <td>氢</td>
     <td>17280(4层)</td>
@@ -315,8 +315,8 @@
     <td>2880(2层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体<br />(珍奇)</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔晶体<br />(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔<br />晶体(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔<br />晶体(珍奇)</a></th>
     <td rowspan="3">1800</td>
     <td>氢</td>
     <td>17280(4层)</td>
@@ -345,7 +345,7 @@
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/太阳帆3600.txt?raw=1">太阳帆</a></th>
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/太阳帆3600.txt?raw=1">处理器</a></th>
-    <td rowspan="2">3600(2层)</td>
+    <td rowspan="2">3600<br />(2层)</td>
     <td>石墨烯</td>
     <td>1440(1层/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台<br />需要4层原料。</td>
