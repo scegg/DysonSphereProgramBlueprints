@@ -330,6 +330,18 @@
     <td>石墨烯</td>
     <td>2880(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/处理器1800.txt?raw=1">处理器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/处理器1800.txt?raw=1">处理器</a></th>
+    <td rowspan="2">1800</td>
+    <td>电路板</td>
+    <td>2880(2层/4层)</td>
+    <td rowspan="2">需增产。重组式制造台需要4层原料。</td>
+  </tr>
+  <tr>
+    <td>微晶元件</td>
+    <td>2880(2层/4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -472,17 +484,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/处理器1800.txt?raw=1">处理器</a></th>
-    <td rowspan="2">1800</td>
-    <td>电路板</td>
-    <td>2880(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>微晶元件</td>
-    <td>2880(2层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/太阳帆3600.txt?raw=1">太阳帆</a></th>
