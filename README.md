@@ -410,7 +410,7 @@
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉、<br />制作台Mk.II<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、<br />制作台Mk.III</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉<br />使用制作台Mk.II<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
@@ -429,7 +429,7 @@
     <td>208</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉、<br />制作台Mk.III<br /><br /><a href="Blueprints/合成/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉、<br />使用重组式制造台<br />需要分拣器货物叠加1级</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III<br /><br /><a href="Blueprints/合成/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />使用重组式制造台<br />需要分拣器货物叠加1级</th>
     <td rowspan="4">1800</td>
     <td>煤矿</td>
     <td>4229(4层)</td>
