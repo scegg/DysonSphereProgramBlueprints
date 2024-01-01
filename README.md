@@ -379,6 +379,30 @@
     <td>奇异物质</td>
     <td>1440(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/微晶原件4500.txt?raw=1">微晶原件</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">4500<br />(2/4层混合)</td>
+    <td>硅块</td>
+    <td>7200(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>3600(2层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶原件7200.txt?raw=1">微晶原件</a></th>
+    <td rowspan="2">7200<br />(4层)</td>
+    <td>硅块</td>
+    <td>11520(4层)</td>
+    <td rowspan="2">需增产。<br />其中硅块分2路提供，<br />分别为7200、4320。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>5760(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -661,17 +685,7 @@
 
 
 
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/微晶原件4500.txt?raw=1">微晶原件</a></th>
-    <td rowspan="2">4500<br />(2/4层混合)</td>
-    <td>硅块</td>
-    <td>7200(4层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>铜块</td>
-    <td>3600(2层)</td>
-  </tr>
+
   <tr>
     <th rowspan="4"><a href="Blueprints/合成/星际物流运输船15.txt?raw=1">星际物流运输船</a></th>
     <td rowspan="4">15</td>
