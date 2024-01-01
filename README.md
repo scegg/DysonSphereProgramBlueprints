@@ -20,6 +20,7 @@
 * [单纯使用熔炉](#单纯使用熔炉)
 * [单纯使用制造台](#单纯使用制造台)
 * [单纯使用化工厂](#单纯使用化工厂)
+* [单纯使用粒子对撞机](#单纯使用粒子对撞机)
 * [综合使用](#综合使用)
   * [合成](#合成)
   * [分解](#分解)
@@ -396,6 +397,36 @@
   </tr>
 </table>
 
+## 单纯使用粒子对撞机
+<table>
+  <tr>
+    <th colspan="2">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用粒子对撞机">粒子对撞机</a></th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用粒子对撞机/奇异物质450.txt?raw=1">奇异物质</a></th>
+    <td rowspan="3">450</td>
+    <td>重氢</td>
+    <td>3600(2层)</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>粒子容器</td>
+    <td>720</td>
+  </tr>
+</table>
+
 ## 综合使用
 ### [合成](Blueprints/合成)
 <table>
@@ -496,21 +527,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/奇异物质450.txt?raw=1">奇异物质</a></th>
-    <td rowspan="3">450</td>
-    <td>重氢</td>
-    <td>3600(2层)</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>铁块</td>
-    <td>720</td>
-  </tr>
-  <tr>
-    <td>粒子容器</td>
-    <td>720</td>
   </tr>
   <tr>
     <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br />
