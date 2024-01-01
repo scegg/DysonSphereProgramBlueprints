@@ -355,6 +355,30 @@
     <td>光子合并器</td>
     <td>1440(1层/4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/引力透镜900.txt?raw=1">引力透镜</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">900</td>
+    <td>金刚石</td>
+    <td>2880(2层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>奇异物质</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/引力透镜1800.txt?raw=1">引力透镜</a></th>
+    <td rowspan="2">1800</td>
+    <td>金刚石</td>
+    <td>5760(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>奇异物质</td>
+    <td>1440(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -503,8 +527,7 @@
     <td>1057(4层)</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br />
-        <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
+    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
     <td>240</td>
@@ -637,17 +660,7 @@
   </tr>
 
 
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/引力透镜900.txt?raw=1">引力透镜</a></th>
-    <td rowspan="2">900</td>
-    <td>金刚石</td>
-    <td>2880(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>奇异物质</td>
-    <td>720</td>
-  </tr>
+
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/微晶原件4500.txt?raw=1">微晶原件</a></th>
     <td rowspan="2">4500<br />(2/4层混合)</td>
