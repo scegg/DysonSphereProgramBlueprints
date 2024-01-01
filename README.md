@@ -508,7 +508,7 @@
     <td rowspan="13">375</td>
     <td>磁线圈</td>
     <td>240</td>
-    <td rowspan="13">需增产。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
+    <td rowspan="13">需增产。<br />使用制造台Mk.III。<br />使用矩阵研究站。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
   </tr>
   <tr>
     <td>电路板</td>
@@ -558,6 +558,57 @@
     <td>3级增产剂</td>
     <td>少量</td>
   </tr>
+  <tr>
+    <th rowspan="12"><a href="Blueprints/合成/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
+    <td rowspan="12">75</td>
+    <td>处理器</td>
+    <td>480</td>
+    <td rowspan="12">需增产。<br />使用制造台Mk.III。<br />输入增产剂用于中间产物喷涂。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>326.4</td>
+  </tr>
+  <tr>
+    <td>太阳帆</td>
+    <td>288</td>
+  </tr>
+  <tr>
+    <td>高能石墨</td>
+    <td>76.8</td>
+  </tr>
+  <tr>
+    <td>磁铁</td>
+    <td>230.4</td>
+  </tr>
+  <tr>
+    <td>碳纳米管</td>
+    <td>921.6</td>
+  </tr>
+  <tr>
+    <td>卡西米尔晶体</td>
+    <td>153.6</td>
+  </tr>
+  <tr>
+    <td>钛化玻璃</td>
+    <td>307.2</td>
+  </tr>
+  <tr>
+    <td>硅块</td>
+    <td>230.4</td>
+  </tr>
+  <tr>
+    <td>电磁涡轮</td>
+    <td>153.6</td>
+  </tr>
+  <tr>
+    <td>重氢</td>
+    <td>1920(2层)</td>
+  </tr>
+  <tr>
+    <td>3级增产剂</td>
+    <td>少量</td>
+  </tr>
 </table>
 
 
@@ -585,57 +636,7 @@
     <th>用量</th>
   </tr>
 
-  <tr>
-    <th rowspan="12"><a href="Blueprints/合成/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
-    <td rowspan="12">75</td>
-    <td>处理器</td>
-    <td>480</td>
-    <td rowspan="12">需增产。<br />输入增产剂用于中间产物喷涂。</td>
-  </tr>
-  <tr>
-    <td>钛合金</td>
-    <td>326</td>
-  </tr>
-  <tr>
-    <td>太阳帆</td>
-    <td>288</td>
-  </tr>
-  <tr>
-    <td>高能石墨</td>
-    <td>77</td>
-  </tr>
-  <tr>
-    <td>磁铁</td>
-    <td>230</td>
-  </tr>
-  <tr>
-    <td>碳纳米管</td>
-    <td>922</td>
-  </tr>
-  <tr>
-    <td>卡西米尔晶体</td>
-    <td>154</td>
-  </tr>
-  <tr>
-    <td>钛化玻璃</td>
-    <td>307</td>
-  </tr>
-  <tr>
-    <td>硅块</td>
-    <td>230</td>
-  </tr>
-  <tr>
-    <td>电磁涡轮</td>
-    <td>154</td>
-  </tr>
-  <tr>
-    <td>重氢</td>
-    <td>1920(2层)</td>
-  </tr>
-  <tr>
-    <td>3级增产剂</td>
-    <td>少量</td>
-  </tr>
+
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/引力透镜900.txt?raw=1">引力透镜</a></th>
     <td rowspan="2">900</td>
