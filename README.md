@@ -502,32 +502,6 @@
     <td>金伯利矿石</td>
     <td>1057(4层)</td>
   </tr>
-</table>
-
-
-
-
-
-
-
-
-本章节已废弃，正在逐个修正中。
-
-
-
-
-<table>
-  <tr>
-    <th colspan="2">产物</th>
-    <th colspan="2">原料</th>
-    <th rowspan="2">备注</th>
-  </tr>
-  <tr>
-    <th>名称</th>
-    <th>产量</th>
-    <th>名称</th>
-    <th>用量</th>
-  </tr>
   <tr>
     <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br />
         <a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
@@ -574,7 +548,7 @@
   </tr>
   <tr>
     <td>钛化玻璃</td>
-    <td>307</td>
+    <td>307.2</td>
   </tr>
   <tr>
     <td>反物质</td>
@@ -584,6 +558,33 @@
     <td>3级增产剂</td>
     <td>少量</td>
   </tr>
+</table>
+
+
+
+
+
+
+
+
+本章节已废弃，正在逐个修正中。
+
+
+
+
+<table>
+  <tr>
+    <th colspan="2">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+
   <tr>
     <th rowspan="12"><a href="Blueprints/合成/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
     <td rowspan="12">75</td>
