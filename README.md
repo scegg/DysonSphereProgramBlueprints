@@ -250,7 +250,7 @@
   </tr>
    <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/地基90%20无增产.txt?raw=1">地基</a></th>
-    <th rowspan="3">/</th>
+    <th rowspan="2">/</th>
     <td rowspan="2">90</td>
     <td>石材</td>
     <td>270</td>
@@ -263,7 +263,7 @@
   <tr>
     <th rowspan="3">/</th>
     <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20.txt?raw=1">星际物流运输船</a></th>
-    <td rowspan="3">15</td>
+    <td rowspan="3">20</td>
     <td>电磁涡轮</td>
     <td>200</td>
     <td rowspan="3">无增产。</td>
