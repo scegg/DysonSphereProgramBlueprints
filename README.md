@@ -447,6 +447,20 @@
     <td>2880(2层/4层)</td>
     <td>需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.III/棱镜6000.txt?raw=1">棱镜</a></th>
+    <td>6000(4层)</td>
+    <td>玻璃</td>
+    <td>7200(4层)</td>
+    <td>需增产。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用重组式制造台/棱镜7200.txt?raw=1">棱镜</a></th>
+    <td>7200(4层)</td>
+    <td>玻璃</td>
+    <td>8640(4层)</td>
+    <td>需增产。<br />其中玻璃分2路提供，<br />分别为6480、2160。</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -757,13 +771,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th><a href="Blueprints/合成/棱镜6000.txt?raw=1">棱镜</a></th>
-    <td>6000(4层)</td>
-    <td>玻璃</td>
-    <td>7200(4层)</td>
-    <td>需增产。</td>
   </tr>
   <tr>
     <th rowspan="6"><a href="Blueprints/合成/氘核燃料棒900.txt?raw=1">氘核燃料棒</a></th>
