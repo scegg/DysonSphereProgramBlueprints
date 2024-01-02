@@ -487,6 +487,38 @@
     <td>高能石墨</td>
     <td>1440(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/有机晶体180-225.txt?raw=1">有机晶体</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="3">180(无增产)<br />225(需增产)</td>
+    <td>塑料</td>
+    <td>360</td>
+    <td rowspan="3">可增产。</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/有机晶体450.txt?raw=1">有机晶体</a></th>
+    <td rowspan="3">450</td>
+    <td>塑料</td>
+    <td>720</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>360</td>
+  </tr>
 </table>
 
 ## 单纯使用粒子对撞机
@@ -725,27 +757,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-
-
-
-
-
-
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/有机晶体450.txt?raw=1">有机晶体</a></th>
-    <td rowspan="3">450</td>
-    <td>塑料</td>
-    <td>720</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>精炼油</td>
-    <td>360</td>
-  </tr>
-  <tr>
-    <td>水</td>
-    <td>360</td>
   </tr>
   <tr>
     <th><a href="Blueprints/合成/棱镜6000.txt?raw=1">棱镜</a></th>
