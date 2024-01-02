@@ -449,12 +449,14 @@
   </tr>
   <tr>
     <th><a href="Blueprints/使用制造台Mk.III/棱镜6000.txt?raw=1">棱镜</a></th>
+    <th>/</th>
     <td>6000(4层)</td>
     <td>玻璃</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
+    <th>/</th>
     <th><a href="Blueprints/使用重组式制造台/棱镜7200.txt?raw=1">棱镜</a></th>
     <td>7200(4层)</td>
     <td>玻璃</td>
