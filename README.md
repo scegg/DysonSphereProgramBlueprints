@@ -439,6 +439,14 @@
     <td>处理器</td>
     <td>150</td>
   </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.III/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
+    <th><a href="Blueprints/使用重组式制造台/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
+    <td>7200<br />(4层)</td>
+    <td>分形硅石</td>
+    <td>2880(2层/4层)</td>
+    <td>需增产。<br />重组式制造台需要4层原料。</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -723,13 +731,7 @@
 
 
 
-  <tr>
-    <th><a href="Blueprints/合成/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
-    <td>7200(4层)</td>
-    <td>分形硅石</td>
-    <td>2880(2层)</td>
-    <td>需增产。</td>
-  </tr>
+
   <tr>
     <th rowspan="3"><a href="Blueprints/合成/有机晶体450.txt?raw=1">有机晶体</a></th>
     <td rowspan="3">450</td>
