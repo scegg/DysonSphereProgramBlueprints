@@ -278,7 +278,7 @@
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/液氢燃料棒20%20无增产.txt?raw=1">液氢燃料棒</a></th>
-    <td rowspan="2">/</td>
+    <th rowspan="2">/</td>
     <td rowspan="2">20</td>
     <td>钛块</td>
     <td>20</td>
@@ -287,6 +287,26 @@
   <tr>
     <td>氢</td>
     <td>100</td>
+  </tr>
+  <tr>
+    <th rowspan="4">/</th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/物流运输船15.txt?raw=1">物流运输船</a></th>
+    <td rowspan="4">15</td>
+    <td>铜块</td>
+    <td>90</td>
+    <td rowspan="4">无增产。</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>75</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>30</td>
   </tr>
 </table>
 
@@ -502,6 +522,26 @@
   <tr>
     <td>3级增产剂</td>
     <td>少量</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/物流运输船23.txt?raw=1">物流运输船</a></th>
+    <th rowspan="4">/</th>
+    <td rowspan="4">23</td>
+    <td>铜块</td>
+    <td>108(需增产)</td>
+    <td rowspan="4">部分原料需增产。</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>72(需增产)</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>112.5</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>45</td>
   </tr>
 </table>
 
@@ -813,25 +853,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="4"><a href="Blueprints/合成/物流运输船23.txt?raw=1">物流运输船</a></th>
-    <td rowspan="4">23</td>
-    <td>铜块</td>
-    <td>108(需增产)</td>
-    <td rowspan="4">部分原料需增产。</td>
-  </tr>
-  <tr>
-    <td>钢材</td>
-    <td>72(需增产)</td>
-  </tr>
-  <tr>
-    <td>铁块</td>
-    <td>113</td>
-  </tr>
-  <tr>
-    <td>处理器</td>
-    <td>45</td>
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/合成/电动机1800.txt?raw=1">电动机</a></th>
