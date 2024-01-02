@@ -260,6 +260,22 @@
     <td>钢材</td>
     <td>90</td>
   </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20.txt?raw=1">星际物流运输船</a></th>
+    <td rowspan="3">15</td>
+    <td>电磁涡轮</td>
+    <td>200</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>200</td>
+  </tr>
 </table>
 
 <table>
@@ -402,6 +418,26 @@
   <tr>
     <td>铜块</td>
     <td>5760(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/星际物流运输船15.txt?raw=1">星际物流运输船</a></th>
+    <th rowspan="4">/</th>
+    <td rowspan="4">15</td>
+    <td>电磁涡轮</td>
+    <td>120(需增产)</td>
+    <td rowspan="4">部分原料需增产。</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>120(需增产)</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>150</td>
   </tr>
 </table>
 
@@ -686,25 +722,7 @@
 
 
 
-  <tr>
-    <th rowspan="4"><a href="Blueprints/合成/星际物流运输船15.txt?raw=1">星际物流运输船</a></th>
-    <td rowspan="4">15</td>
-    <td>电磁涡轮</td>
-    <td>120(需增产)</td>
-    <td rowspan="4">部分原料需增产。</td>
-  </tr>
-  <tr>
-    <td>钛合金</td>
-    <td>120(需增产)</td>
-  </tr>
-  <tr>
-    <td>钛合金</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>处理器</td>
-    <td>150</td>
-  </tr>
+
   <tr>
     <th><a href="Blueprints/合成/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
     <td>7200(4层)</td>
