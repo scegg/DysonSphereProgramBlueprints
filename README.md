@@ -362,7 +362,7 @@
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/太阳帆3600.txt?raw=1">太阳帆</a></th>
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/太阳帆3600.txt?raw=1">处理器</a></th>
-    <td rowspan="2">3600<br />(2层)</td>
+    <td rowspan="2">3600(2层)</td>
     <td>石墨烯</td>
     <td>1440(1层/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
@@ -410,7 +410,7 @@
   <tr>
     <th rowspan="2">/</th>
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶原件7200.txt?raw=1">微晶原件</a></th>
-    <td rowspan="2">7200<br />(4层)</td>
+    <td rowspan="2">7200(4层)</td>
     <td>硅块</td>
     <td>11520(4层)</td>
     <td rowspan="2">需增产。<br />其中硅块分2路提供，<br />分别为7200、4320。</td>
@@ -442,7 +442,7 @@
   <tr>
     <th><a href="Blueprints/使用制造台Mk.III/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
     <th><a href="Blueprints/使用重组式制造台/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
-    <td>7200<br />(4层)</td>
+    <td>7200(4层)</td>
     <td>分形硅石</td>
     <td>2880(2层/4层)</td>
     <td>需增产。<br />重组式制造台需要4层原料。</td>
