@@ -335,6 +335,30 @@
     <td>磁线圈</td>
     <td>720</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/电路板720.txt?raw=1">电路板</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">720</td>
+    <td>铜块</td>
+    <td>360</td>
+    <td rowspan="2">无增产。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>720</td>
+  </tr>
+    <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电路板1800.txt?raw=1">电路板</a></th>
+    <td rowspan="2">1800</td>
+    <td>铜块</td>
+    <td>900</td>
+    <td rowspan="2">无增产。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>1800</td>
+  </tr>
 </table>
 
 <table>
@@ -626,6 +650,18 @@
     <td>磁线圈</td>
     <td>7200(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电路板7200.txt?raw=1">电路板</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电路板7200.txt?raw=1">电路板</a></th>
+    <td rowspan="2">7200(4层)</td>
+    <td>铜块</td>
+    <td>2880(2层/4层)</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要分拣器货物叠加1级。</td>
+  </tr>
+  <tr>
+    <td>铁块</td>
+    <td>5760(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -787,7 +823,7 @@
     <td>208</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III<br /><br /><a href="Blueprints/合成/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />使用重组式制造台<br />需要分拣器货物叠加1级</th>
+    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III<br /><br /><a href="Blueprints/合成/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />重组式制造台需要<br />分拣器货物叠加1级</th>
     <td rowspan="4">1800</td>
     <td>煤矿</td>
     <td>4229(4层)</td>
