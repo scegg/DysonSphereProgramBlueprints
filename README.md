@@ -308,6 +308,22 @@
     <td>处理器</td>
     <td>30</td>
   </tr>
+    <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/电动机720.txt?raw=1">电动机</a></th>
+    <td rowspan="3">720</td>
+    <td>铁块</td>
+    <td>1440</td>
+    <td rowspan="3">无增产。<br />使用增产剂时，将出口传送带升级，产量为900。</td>
+  </tr>
+  <tr>
+    <td>齿轮</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>720</td>
+  </tr>
 </table>
 
 <table>
@@ -542,6 +558,38 @@
   <tr>
     <td>处理器</td>
     <td>45</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/电动机1800.txt?raw=1">电动机</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="3">1800</td>
+    <td>铁块</td>
+    <td>2880(2层)</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>齿轮</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/电动机7200.txt?raw=1">电动机</a></th>
+    <td rowspan="3">7200</td>
+    <td>铁块</td>
+    <td>11520(4层)</td>
+    <td rowspan="3">需增产。<br />其中铁块分2路提供，<br />分别为6120、5400。</td>
+  </tr>
+  <tr>
+    <td>齿轮</td>
+    <td>5760</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>5760</td>
   </tr>
 </table>
 
