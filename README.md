@@ -324,6 +324,17 @@
     <td>磁线圈</td>
     <td>720</td>
   </tr>
+    <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电磁涡轮360.txt?raw=1">电磁涡轮</a></th>
+    <td rowspan="2">360</td>
+    <td>电动机</td>
+    <td>720</td>
+    <td rowspan="2">无增产。<br />使用增产剂时，产量为450。</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>720</td>
+  </tr>
 </table>
 
 <table>
@@ -578,7 +589,7 @@
   <tr>
     <th rowspan="3">/</th>
     <th rowspan="3"><a href="Blueprints/使用重组式制造台/电动机7200.txt?raw=1">电动机</a></th>
-    <td rowspan="3">7200</td>
+    <td rowspan="3">7200(4层)</td>
     <td>铁块</td>
     <td>11520(4层)</td>
     <td rowspan="3">需增产。<br />其中铁块分2路提供，<br />分别为6120、5400。</td>
@@ -590,6 +601,30 @@
   <tr>
     <td>磁线圈</td>
     <td>5760</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电磁涡轮1800.txt?raw=1">电磁涡轮</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">1800</td>
+    <td>电动机</td>
+    <td>2880(2层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>2880(2层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电磁涡轮4500.txt?raw=1">电磁涡轮</a></th>
+    <td rowspan="2">4500(1/4层)</td>
+    <td>电动机</td>
+    <td>7200(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>磁线圈</td>
+    <td>7200(4层)</td>
   </tr>
 </table>
 
@@ -901,32 +936,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/电动机1800.txt?raw=1">电动机</a></th>
-    <td rowspan="3">1800</td>
-    <td>铁块</td>
-    <td>2880(2层)</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>齿轮</td>
-    <td>1440</td>
-  </tr>
-  <tr>
-    <td>磁线圈</td>
-    <td>1440</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/电磁涡轮1800.txt?raw=1">电磁涡轮</a></th>
-    <td rowspan="2">1800</td>
-    <td>电动机</td>
-    <td>2880(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>磁线圈</td>
-    <td>2880(2层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/电路板7200.txt?raw=1">电路板</a></th>
