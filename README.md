@@ -380,6 +380,22 @@
     <td>36</td>
     <td>需增产。</td>
   </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子容器360.txt?raw=1">粒子容器</a></th>
+    <td rowspan="3">360</td>
+    <td>电磁涡轮</td>
+    <td>720</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>720</td>
+  </tr>
 </table>
 
 <table>
@@ -694,6 +710,22 @@
   <tr>
     <td>磁铁</td>
     <td>5760(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子容器1800.txt?raw=1">粒子容器</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子容器1800.txt?raw=1">粒子容器</a></th>
+    <td rowspan="3">1800</td>
+    <td>电磁涡轮</td>
+    <td>2880(2层/4层)</td>
+    <td rowspan="3">需增产。<br />重组式制造台需要4层原料。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>2880(2层/4层)</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>2880(2层/4层)</td>
   </tr>
 </table>
 
@@ -1116,21 +1148,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/粒子容器1800.txt?raw=1">粒子容器</a></th>
-    <td rowspan="3">1800</td>
-    <td>电磁涡轮</td>
-    <td>2880(2层)</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>铜块</td>
-    <td>2880(2层)</td>
-  </tr>
-  <tr>
-    <td>石墨烯</td>
-    <td>2880(2层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
