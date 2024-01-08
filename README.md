@@ -662,7 +662,7 @@
   <tr>
     <th rowspan="2">/</th>
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/电磁涡轮4500.txt?raw=1">电磁涡轮</a></th>
-    <td rowspan="2">4500(1/4层)</td>
+    <td rowspan="2">4500(1/4层混合)</td>
     <td>电动机</td>
     <td>7200(4层)</td>
     <td rowspan="2">需增产。</td>
