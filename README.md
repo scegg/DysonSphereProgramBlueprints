@@ -372,6 +372,14 @@
     <td>磁铁</td>
     <td>720</td>
   </tr>
+  <tr>
+    <th>/</th>
+    <th><a href="Blueprints/使用制造台Mk.II/空间翘曲器360.txt?raw=1">空间翘曲器</a></th>
+    <td>360</td>
+    <td>引力矩阵</td>
+    <td>36</td>
+    <td>需增产。</td>
+  </tr>
 </table>
 
 <table>
@@ -686,14 +694,6 @@
   <tr>
     <td>磁铁</td>
     <td>5760(4层)</td>
-  </tr>
-  <tr>
-    <th>/</th>
-    <th><a href="Blueprints/使用制造台Mk.II/空间翘曲器360.txt?raw=1">空间翘曲器</a></th>
-    <td>360</td>
-    <td>引力矩阵</td>
-    <td>36</td>
-    <td>需增产。</td>
   </tr>
 </table>
 
