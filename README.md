@@ -473,24 +473,24 @@
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/处理器1800.txt?raw=1">处理器</a></th>
     <td rowspan="2">1800</td>
     <td>电路板</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>微晶元件</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/太阳帆3600.txt?raw=1">太阳帆</a></th>
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/太阳帆3600.txt?raw=1">处理器</a></th>
     <td rowspan="2">3600(2层)</td>
     <td>石墨烯</td>
-    <td>1440(1层/4层)</td>
+    <td>1440(1/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>光子合并器</td>
-    <td>1440(1层/4层)</td>
+    <td>1440(1/4层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/引力透镜900.txt?raw=1">引力透镜</a></th>
@@ -565,7 +565,7 @@
     <th><a href="Blueprints/使用重组式制造台/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
     <td>7200(4层)</td>
     <td>分形硅石</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
     <td>需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
@@ -693,7 +693,7 @@
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/电路板7200.txt?raw=1">电路板</a></th>
     <td rowspan="2">7200(4层)</td>
     <td>铜块</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要分拣器货物叠加1级。</td>
   </tr>
   <tr>
@@ -705,7 +705,7 @@
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/磁线圈7200.txt?raw=1">磁线圈</a></th>
     <td rowspan="2">7200(4层)</td>
     <td>铜块</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要分拣器货物叠加1级。</td>
   </tr>
   <tr>
@@ -717,16 +717,16 @@
     <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子容器1800.txt?raw=1">粒子容器</a></th>
     <td rowspan="3">1800</td>
     <td>电磁涡轮</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
     <td rowspan="3">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>铜块</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
   </tr>
   <tr>
     <td>石墨烯</td>
-    <td>2880(2层/4层)</td>
+    <td>2880(2/4层)</td>
   </tr>
 </table>
 
