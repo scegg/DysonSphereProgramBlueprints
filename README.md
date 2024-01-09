@@ -778,8 +778,8 @@
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/粒子容器珍奇1800.txt?raw=1">粒子容器<br />(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/粒子容器珍奇1800.txt?raw=1">粒子容器<br />(珍奇)</a></th>
     <td rowspan="2">1800</td>
     <td>单级磁石</td>
     <td>14400(4层)</td>
@@ -900,8 +900,8 @@
   </tr>
 </table>
 
-
 ## 单纯使用[分馏塔](Blueprints/使用分馏塔)
+
 <table>
   <tr>
     <th colspan="2">产物</th>
@@ -931,6 +931,7 @@
 </table>
 
 ## 单纯使用化工厂
+
 <table>
   <tr>
     <th colspan="3">产物</th>
