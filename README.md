@@ -1084,7 +1084,7 @@
 
 <table>
   <tr>
-    <th rowspan="2" colspan="2">配方</th>
+    <th colspan="2">配方</th>
     <th colspan="2">原料</th>
     <th colspan="2">产物</th>
     <th rowspan="2">备注</th>
