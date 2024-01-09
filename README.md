@@ -1058,8 +1058,8 @@
     <td>360</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
     <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
     <td rowspan="2">1800</td>
     <td>石墨烯</td>
     <td>2160(2层)</td>
@@ -1070,8 +1070,8 @@
     <td>720</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用量子化工厂/碳纳米管珍奇1800.txt?raw=1">碳纳米管(珍奇)</a></th>
     <th rowspan="2">/</th>
+    <th><a href="Blueprints/使用量子化工厂/碳纳米管珍奇1800.txt?raw=1">碳纳米管<br />(珍奇)</a></th>
     <td>1800</td>
     <td>刺笋结晶</td>
     <td>4320(4层)</td>
