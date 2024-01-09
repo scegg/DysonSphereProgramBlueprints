@@ -413,6 +413,22 @@
     <td>塑料</td>
     <td>360</td>
   </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/钛化玻璃360.txt?raw=1">钛化玻璃</a></th>
+    <td rowspan="3">360</td>
+    <td>玻璃</td>
+    <td>720</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>720</td>
+  </tr>
 </table>
 
 <table>
@@ -771,6 +787,38 @@
   <tr>
     <td>塑料</td>
     <td>720(1/2层)</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/钛化玻璃1800.txt?raw=1">钛化玻璃</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="3">1800</td>
+    <td>玻璃</td>
+    <td>1440</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/钛化玻璃7200.txt?raw=1">钛化玻璃</a></th>
+    <td rowspan="3">7200(4层)</td>
+    <td>玻璃</td>
+    <td>5760(4层)</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>5760(4层)</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>5760(4层)</td>
   </tr>
 </table>
 
@@ -1194,21 +1242,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/钛化玻璃1800.txt?raw=1">钛化玻璃</a></th>
-    <td rowspan="3">1800</td>
-    <td>玻璃</td>
-    <td>1440</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>钛块</td>
-    <td>1440</td>
-  </tr>
-  <tr>
-    <td>水</td>
-    <td>1440</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/合成/钛晶石1800.txt?raw=1">钛晶石</a></th>
