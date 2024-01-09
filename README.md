@@ -397,6 +397,22 @@
     <td>石墨烯</td>
     <td>720</td>
   </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子宽带360.txt?raw=1">粒子宽带</a></th>
+    <td rowspan="3">360</td>
+    <td>碳纳米管</td>
+    <td>720</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>晶格硅</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>塑料</td>
+    <td>360</td>
+  </tr>
 </table>
 
 <table>
@@ -728,6 +744,34 @@
     <td>石墨烯</td>
     <td>2880(2/4层)</td>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
+    <td rowspan="2">1800</td>
+    <td>单级磁石</td>
+    <td>14400(4层)</td>
+    <td rowspan="2">需增产。<br />其中单级磁石分2路提供，<br />分别为7200、7200。<br />重组式制造台需要4层原料。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>2880(2/4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子宽带900.txt?raw=1">粒子宽带</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子宽带900.txt?raw=1">粒子宽带</a></th>
+    <td rowspan="3">900</td>
+    <td>碳纳米管</td>
+    <td>1440(1/4层)</td>
+    <td rowspan="3">需增产。<br />重组式制造台需要2/4层原料。</td>
+  </tr>
+  <tr>
+    <td>晶格硅</td>
+    <td>1440(1/4层)</td>
+  </tr>
+  <tr>
+    <td>塑料</td>
+    <td>720(1/2层)</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -906,7 +950,6 @@
     <td>无增产。<br />输入必须4层才可以达到设计效率。</td>∑
   </tr>
 </table>
-
 
 ## 单纯使用粒子对撞机
 <table>
@@ -1151,32 +1194,6 @@
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/合成/粒子容器珍奇1800.txt?raw=1">粒子容器(珍奇)</a></th>
-    <td rowspan="2">1800</td>
-    <td>单级磁石</td>
-    <td>14400(2层)</td>
-    <td rowspan="2">需增产。<br />其中单级磁石分2路提供，<br />分别为7200、7200。</td>
-  </tr>
-  <tr>
-    <td>铜块</td>
-    <td>2880(2层)</td>
-  </tr>
-  <tr>
-    <th rowspan="3"><a href="Blueprints/合成/粒子宽带900.txt?raw=1">粒子宽带</a></th>
-    <td rowspan="3">900</td>
-    <td>碳纳米管</td>
-    <td>1440</td>
-    <td rowspan="3">需增产。</td>
-  </tr>
-  <tr>
-    <td>晶格硅</td>
-    <td>1440</td>
-  </tr>
-  <tr>
-    <td>塑料</td>
-    <td>720</td>
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/合成/钛化玻璃1800.txt?raw=1">钛化玻璃</a></th>
