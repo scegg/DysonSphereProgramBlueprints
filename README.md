@@ -441,6 +441,14 @@
     <td>钛块</td>
     <td>1080</td>
   </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.I/齿轮360.txt?raw=1">齿轮</a></th>
+    <th><a href="Blueprints/使用制造台Mk.II/齿轮360.txt?raw=1">齿轮</a></th>
+    <td>360</td>
+    <td>铁块</td>
+    <td>360</td>
+    <td>无增产。</td>
+  </tr>
 </table>
 
 <table>
@@ -844,6 +852,14 @@
     <td>钛块</td>
     <td>4320(4层)</td>
   </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.III/齿轮7200.txt?raw=1">齿轮</a></th>
+    <th><a href="Blueprints/使用重组式制造台/齿轮7200.txt?raw=1">齿轮</a></th>
+    <td>7200(4层)</td>
+    <td>铁块</td>
+    <td>5760(4层)</td>
+    <td>需增产。</td>
+  </tr>
 </table>
 
 ## 单纯使用化工厂
@@ -990,7 +1006,7 @@
     <td>1800</td>
     <td>刺笋结晶</td>
     <td>4320(4层)</td>
-    <td>需增产。</td>
+    <td>需增产。<br />重组式制造台需要分拣器货物叠加1级。</td>
   </tr>
 </table>
 
@@ -1240,39 +1256,6 @@
   <tr>
     <td>3级增产剂</td>
     <td>少量</td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-本章节已废弃，正在逐个修正中。
-
-
-
-
-<table>
-  <tr>
-    <th colspan="2">产物</th>
-    <th colspan="2">原料</th>
-    <th rowspan="2">备注</th>
-  </tr>
-  <tr>
-    <th>名称</th>
-    <th>产量</th>
-    <th>名称</th>
-    <th>用量</th>
-  </tr>
-  <tr>
-    <th><a href="Blueprints/合成/齿轮7200.txt?raw=1">齿轮</a></th>
-    <td>7200(4层)</td>
-    <td>铁块</td>
-    <td>5760(4层)</td>
-    <td>需增产。</td>
   </tr>
 </table>
 
