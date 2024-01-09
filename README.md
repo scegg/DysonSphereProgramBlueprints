@@ -188,15 +188,6 @@
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <td>4500(4层)</td>
-    <td>煤矿</td>
-    <td>7200(4层)</td>
-    <td>需增产。</td>
-  </tr>
-  <tr>
     <th><a href="Blueprints/使用电弧熔炉/高能石墨360%20无增产.txt?raw=1">高能石墨</a></th>
     <th>/</th>
     <th>/</th>
@@ -204,6 +195,15 @@
     <td>煤矿</td>
     <td>720</td>
     <td>无增产。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
+    <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
+    <td>4500(4层)</td>
+    <td>煤矿</td>
+    <td>7200(4层)</td>
+    <td>需增产。</td>
   </tr>
 </table>
 
