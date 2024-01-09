@@ -1,8 +1,6 @@
 # Dyson Sphere Program Blueprints
 保存自己制作的戴森球计划蓝图。
 
-注意：正在更新到新公式中。目前已经完成熔炉、分解。其它逐步更新中。
-
 ## [Blueprints](Blueprints)
 此目录中包含自己制作的戴森球计划蓝图文件。
 
@@ -19,12 +17,13 @@
 目录：
 * [单纯使用熔炉](#单纯使用熔炉)
 * [单纯使用制造台](#单纯使用制造台)
-* [单纯使用化工厂](#单纯使用化工厂)
+* [单纯使用原油精炼厂](#单纯使用原油精炼厂)
 * [单纯使用分馏塔](#单纯使用分馏塔)
+* [单纯使用化工厂](#单纯使用化工厂)
 * [单纯使用粒子对撞机](#单纯使用粒子对撞机)
 * [综合使用](#综合使用)
-  * [合成](#合成)
-  * [分解](#分解)
+
+* [分解](#分解)
 * [建筑工厂](#建筑工厂)
   * [初级工厂](#初级工厂)
   * [建筑工厂](#建筑工厂-1)
@@ -862,7 +861,80 @@
   </tr>
 </table>
 
+## 单纯使用原油精炼厂(Blueprints/使用原油精炼厂)
+
+<table>
+  <tr>
+    <th rowspan="2">配方</th>
+    <th colspan="2">原料</th>
+    <th colspan="2">产物</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <th>用量</th>
+    <th>名称</th>
+    <th>产量</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用原油精炼厂/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
+    <td>精炼油</td>
+    <td>600</td>
+    <td>高能石墨</td>
+    <td>600</td>
+    <td>无增产。<br />启动时需投入少量氢。谨防氢堵塞。</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用原油精炼厂/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼</a> 宽版 无增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360宽.txt?raw=1">等离子精炼</a> 宽版 需增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼</a> 无增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄.txt?raw=1">等离子精炼</a> 需增产
+    </th>
+    <td rowspan="2">原油</td>
+    <td rowspan="2">360</td>
+    <td>精炼油</td>
+    <td>360</td>
+    <td rowspan="2">提供增产、无增产版。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>180</td>
+  </tr>
+</table>
+
+
+## 单纯使用分馏塔(Blueprints/使用分馏塔)
+
+<table>
+  <tr>
+    <th colspan="2">产物</th>
+    <th colspan="2">原料</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用分馏塔">分馏塔</a></th>
+    <th>产量</th>
+    <th>名称</th>
+    <th>用量</th>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/重氢分馏1700.txt?raw=1">重氢</a>(分馏)</th>
+    <td>1700</td>
+    <td>氢</td>
+    <td>1700(4层)</td>
+    <td>需增产。<br />输入必须4层才可以达到设计效率。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/合成/重氢分馏1766%20无增产.txt?raw=1">重氢</a>(分馏)</th>
+    <td>1766</td>
+    <td>氢</td>
+    <td>1766(4层)</td>
+    <td>无增产。<br />输入必须4层才可以达到设计效率。</td>∑
+  </tr>
+</table>
+
 ## 单纯使用化工厂
+
 <table>
   <tr>
     <th colspan="3">产物</th>
@@ -1010,36 +1082,49 @@
   </tr>
 </table>
 
-## 单纯使用分馏塔
 <table>
   <tr>
-    <th colspan="2">产物</th>
+    <th rowspan="3">配方</th>
     <th colspan="2">原料</th>
+    <th colspan="2">产物</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用分馏塔">分馏塔</a></th>
-    <th>产量</th>
-    <th>名称</th>
+    <th><a href="Blueprints/使用化工厂">化工厂</a></th>
+    <th><a href="Blueprints/使用量子化工厂">量子化工厂</a></th>
     <th>用量</th>
+    <th>名称</th>
+    <th>产量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/合成/重氢分馏1700.txt?raw=1">重氢</a>(分馏)</th>
-    <td>1700</td>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">可燃冰</td>
+    <td rowspan="2">240</td>
     <td>氢</td>
-    <td>1700(4层)</td>
-    <td>需增产。<br />输入必须4层才可以达到设计效率。</td>
+    <td>120</td>
+    <td rowspan="2">无增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/合成/重氢分馏1766%20无增产.txt?raw=1">重氢</a>(分馏)</th>
-    <td>1766</td>
+    <td>石墨烯</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
+    <td rowspan="2">可燃冰</td>
+    <td rowspan="2">5760<br />(4层)</td>
     <td>氢</td>
-    <td>1766(4层)</td>
-    <td>无增产。<br />输入必须4层才可以达到设计效率。</td>∑
+    <td>3600(2层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>石墨烯</td>
+    <td>7200(4层)</td>
   </tr>
 </table>
 
-## 单纯使用粒子对撞机
+## 单纯使用粒子对撞机(Blueprints/使用粒子对撞机)
 <table>
   <tr>
     <th colspan="2">产物</th>
@@ -1076,8 +1161,47 @@
   </tr>
 </table>
 
-## 综合使用
-### [合成](Blueprints/合成)
+<table>
+  <tr>
+    <th rowspan="2">配方</th>
+    <th colspan="2">原料</th>
+    <th colspan="2">产物</th>
+    <th rowspan="2">备注</th>
+  </tr>
+  <tr>
+    <th>名称</th>
+    <th>用量</th>
+    <th>名称</th>
+    <th>产量</th>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a> 加速</th>
+    <td rowspan="2">临界光子</td>
+    <td rowspan="2">1800</td>
+    <td>反物质</td>
+    <td>1800</td>
+    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>1800</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a> 加速</th>
+    <td rowspan="2">临界光子</td>
+    <td rowspan="2">1800<br />(2层)</td>
+    <td>反物质</td>
+    <td>1800(2层)</td>
+    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>1800(2层)</td>
+  </tr>
+</table>
+
+## 综合使用(Blueprints/综合使用)
+
 <table>
   <tr>
     <th colspan="2">产物</th>
@@ -1091,7 +1215,7 @@
     <th>用量</th>
   </tr>
   <tr>
-    <th rowspan="5"><a href="Blueprints/合成/反物质燃料棒360.txt?raw=1">反物质燃料棒</a></th>
+    <th rowspan="5"><a href="Blueprints/综合使用/反物质燃料棒360.txt?raw=1">反物质燃料棒</a></th>
     <td rowspan="5">360</td>
     <td>临界光子</td>
     <td>2160(4层)</td>
@@ -1114,7 +1238,7 @@
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉<br />使用制作台Mk.II<br /><br /><a href="Blueprints/合成/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III</th>
+    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉<br />使用制作台Mk.II<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III</th>
     <td rowspan="4">360</td>
     <td>煤矿</td>
     <td>833</td>
@@ -1133,7 +1257,7 @@
     <td>208</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/合成/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III<br /><br /><a href="Blueprints/合成/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />重组式制造台需要<br />分拣器货物叠加1级</th>
+    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制作台Mk.III<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />重组式制造台需要<br />分拣器货物叠加1级</th>
     <td rowspan="4">1800</td>
     <td>煤矿</td>
     <td>4229(4层)</td>
@@ -1152,7 +1276,7 @@
     <td>1057(4层)</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/合成/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
+    <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
     <td>240</td>
@@ -1207,7 +1331,7 @@
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="12"><a href="Blueprints/合成/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
+    <th rowspan="12"><a href="Blueprints/综合使用/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
     <td rowspan="12">75</td>
     <td>处理器</td>
     <td>480</td>
@@ -1256,95 +1380,6 @@
   <tr>
     <td>3级增产剂</td>
     <td>少量</td>
-  </tr>
-</table>
-
-### [分解](Blueprints/分解)
-
-<table>
-  <tr>
-    <th rowspan="2">配方</th>
-    <th colspan="2">原料</th>
-    <th colspan="2">产物</th>
-    <th rowspan="2">备注</th>
-  </tr>
-  <tr>
-    <th>名称</th>
-    <th>用量</th>
-    <th>名称</th>
-    <th>产量</th>
-  </tr>
-  <tr>
-    <th><a href="Blueprints/分解/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
-    <td>精炼油</td>
-    <td>600</td>
-    <td>高能石墨</td>
-    <td>600</td>
-    <td>无增产。<br />启动时需投入少量氢。谨防氢堵塞。</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯</a></th>
-    <td rowspan="2">可燃冰</td>
-    <td rowspan="2">240</td>
-    <td>氢</td>
-    <td>120</td>
-    <td rowspan="2">无增产。</td>
-  </tr>
-  <tr>
-    <td>石墨烯</td>
-    <td>240</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/分解/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
-    <td rowspan="2">可燃冰</td>
-    <td rowspan="2">5760<br />(4层)</td>
-    <td>氢</td>
-    <td>3600(2层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>石墨烯</td>
-    <td>7200(4层)</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/分解/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼</a> 宽版 无增产<br />
-        <a href="Blueprints/分解/等离子精炼360宽.txt?raw=1">等离子精炼</a> 宽版 需增产<br />
-        <a href="Blueprints/分解/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼</a> 无增产<br />
-        <a href="Blueprints/分解/等离子精炼360窄.txt?raw=1">等离子精炼</a> 需增产
-    </th>
-    <td rowspan="2">原油</td>
-    <td rowspan="2">360</td>
-    <td>精炼油</td>
-    <td>360</td>
-    <td rowspan="2">提供增产、无增产版。</td>
-  </tr>
-  <tr>
-    <td>氢</td>
-    <td>180</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a> 加速</th>
-    <td rowspan="2">临界光子</td>
-    <td rowspan="2">1800</td>
-    <td>反物质</td>
-    <td>1800</td>
-    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
-  </tr>
-  <tr>
-    <td>氢</td>
-    <td>1800</td>
-  </tr>
-  <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a> 加速</th>
-    <td rowspan="2">临界光子</td>
-    <td rowspan="2">1800<br />(2层)</td>
-    <td>反物质</td>
-    <td>1800(2层)</td>
-    <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
-  </tr>
-  <tr>
-    <td>氢</td>
-    <td>1800(2层)</td>
   </tr>
 </table>
 
