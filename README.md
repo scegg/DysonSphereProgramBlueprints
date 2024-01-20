@@ -446,6 +446,18 @@
     <td>360</td>
     <td>无增产。</td>
   </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/动力引擎360.txt?raw=1">动力引擎</a></th>
+    <td rowspan="2">360</td>
+    <td>磁线圈</td>
+    <td>360</td>
+    <td rowspan="2">无增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>720</td>
+  </tr>
 </table>
 
 <table>
@@ -856,6 +868,30 @@
     <td>铁块</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/动力引擎1800.txt?raw=1">动力引擎</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">1800</td>
+    <td>磁线圈</td>
+    <td>1440(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/动力引擎3600.txt?raw=1">动力引擎</a></th>
+    <td rowspan="2">3600(2层)</td>
+    <td>磁线圈</td>
+    <td>2880(4层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>铜块</td>
+    <td>5760(4层)</td>
   </tr>
 </table>
 
