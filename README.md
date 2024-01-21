@@ -969,6 +969,26 @@
     <td>钛合金</td>
     <td>2880(2/4层)</td>
   </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/导弹组1800.txt?raw=1">导弹组</a></th>
+    <th rowspan="4"><a href="Blueprints/使用重组式制造台/导弹组1800.txt?raw=1">导弹组</a></th>
+    <td rowspan="4">1800</td>
+    <td>铜块</td>
+    <td>8640(4层)</td>
+    <td rowspan="4">需增产。<br />其中铜块分2路提供，<br />分别为4320、4320。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>4320(4层)</td>
+  </tr>
+  <tr>
+    <td>燃烧单元</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <td>动力引擎</td>
+    <td>1440(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
