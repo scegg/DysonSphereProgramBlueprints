@@ -1185,6 +1185,38 @@
     <td>硫酸</td>
     <td>720</td>
   </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/晶石爆破单元360%20无增产.txt?raw=1">晶石爆破单元</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="3">360</td>
+    <td>爆破单元</td>
+    <td>360</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>晶格硅</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>卡西米尔晶体</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/晶石爆破单元1800.txt?raw=1">晶石爆破单元</a></th>
+    <td rowspan="3">1800</td>
+    <td>爆破单元</td>
+    <td>1440</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>晶格硅</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>卡西米尔晶体</td>
+    <td>180</td>
+  </tr>
 </table>
 
 <table>
