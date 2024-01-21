@@ -459,16 +459,12 @@
     <td>720</td>
   </tr>
   <tr>
-    <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/燃烧单元360.txt?raw=1">燃烧单元</a></th>
-    <td rowspan="2">360</td>
+    <th>/</th>
+    <th><a href="Blueprints/使用制造台Mk.II/燃烧单元360.txt?raw=1">燃烧单元</a></th>
+    <td>360</td>
     <td>煤矿</td>
     <td>1080</td>
-    <td rowspan="2">无增产。</td>
-  </tr>
-  <tr>
-    <td>铜块</td>
-    <td>720</td>
+    <td>无增产。</td>
   </tr>
 </table>
 
@@ -906,16 +902,12 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
-    <td rowspan="2">1800</td>
+    <th><a href="Blueprints/使用制造台Mk.III/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
+    <th><a href="Blueprints/使用重组式制造台/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
+    <td>1800</td>
     <td>煤矿</td>
     <td>4320(4层)</td>
-    <td rowspan="2">需增产。</td>
-  </tr>
-  <tr>
-    <td>铜块</td>
-    <td>720</td>
+    <td>需增产。</td>
   </tr>
 </table>
 
