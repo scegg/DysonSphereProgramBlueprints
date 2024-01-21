@@ -1110,6 +1110,30 @@
     <td>360</td>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/碳纳米管720%20无增产.txt?raw=1">碳纳米管</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">720</td>
+    <td>石墨烯</td>
+    <td>1080</td>
+    <td rowspan="2">无增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
+    <td rowspan="2">1800</td>
+    <td>石墨烯</td>
+    <td>2160(2层)</td>
+    <td rowspan="2">需增产。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>720</td>
+  </tr>
+  <tr>
     <th rowspan="2">/</th>
     <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
     <td rowspan="2">1800</td>
@@ -1127,7 +1151,7 @@
     <td>1800</td>
     <td>刺笋结晶</td>
     <td>4320(4层)</td>
-    <td>需增产。<br />重组式制造台需要分拣器货物叠加1级。</td>
+    <td>需增产。<br />需要分拣器货物叠加1级。</td>
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/使用化工厂/爆破单元360%20无增产.txt?raw=1">爆破单元</a></th>
