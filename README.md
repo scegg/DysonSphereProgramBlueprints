@@ -260,7 +260,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20.txt?raw=1">星际物流运输船</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20%20无增产.txt?raw=1">星际物流运输船</a></th>
     <td rowspan="3">20</td>
     <td>电磁涡轮</td>
     <td>200</td>
@@ -288,7 +288,7 @@
   </tr>
   <tr>
     <th rowspan="4">/</th>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/物流运输船15.txt?raw=1">物流运输船</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/物流运输船15%20无增产.txt?raw=1">物流运输船</a></th>
     <td rowspan="4">15</td>
     <td>铜块</td>
     <td>90</td>
@@ -308,7 +308,7 @@
   </tr>
     <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/电动机720.txt?raw=1">电动机</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/电动机720%20无增产.txt?raw=1">电动机</a></th>
     <td rowspan="3">720</td>
     <td>铁块</td>
     <td>1440</td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电磁涡轮360.txt?raw=1">电磁涡轮</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电磁涡轮360%20无增产.txt?raw=1">电磁涡轮</a></th>
     <td rowspan="2">360</td>
     <td>电动机</td>
     <td>720</td>
@@ -335,7 +335,7 @@
     <td>720</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/电路板720.txt?raw=1">电路板</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.I/电路板720%20无增产.txt?raw=1">电路板</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">720</td>
     <td>铜块</td>
@@ -348,7 +348,7 @@
   </tr>
     <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电路板1800.txt?raw=1">电路板</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/电路板1800%20无增产.txt?raw=1">电路板</a></th>
     <td rowspan="2">1800</td>
     <td>铜块</td>
     <td>900</td>
@@ -360,7 +360,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/磁线圈720.txt?raw=1">磁线圈</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/磁线圈720%20无增产.txt?raw=1">磁线圈</a></th>
     <td rowspan="2">720</td>
     <td>铜块</td>
     <td>360</td>
@@ -372,7 +372,7 @@
   </tr>
   <tr>
     <th>/</th>
-    <th><a href="Blueprints/使用制造台Mk.II/空间翘曲器360.txt?raw=1">空间翘曲器</a></th>
+    <th><a href="Blueprints/使用制造台Mk.II/空间翘曲器360%20无增产.txt?raw=1">空间翘曲器</a></th>
     <td>360</td>
     <td>引力矩阵</td>
     <td>36</td>
@@ -380,7 +380,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子容器360.txt?raw=1">粒子容器</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子容器360%20无增产.txt?raw=1">粒子容器</a></th>
     <td rowspan="3">360</td>
     <td>电磁涡轮</td>
     <td>720</td>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子宽带360.txt?raw=1">粒子宽带</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/粒子宽带360%20无增产.txt?raw=1">粒子宽带</a></th>
     <td rowspan="3">360</td>
     <td>碳纳米管</td>
     <td>720</td>
@@ -412,7 +412,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/钛化玻璃360.txt?raw=1">钛化玻璃</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/钛化玻璃360%20无增产.txt?raw=1">钛化玻璃</a></th>
     <td rowspan="3">360</td>
     <td>玻璃</td>
     <td>720</td>
@@ -428,7 +428,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/钛晶石360.txt?raw=1">钛晶石</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/钛晶石360%20无增产.txt?raw=1">钛晶石</a></th>
     <td rowspan="2">360</td>
     <td>有机晶体</td>
     <td>360</td>
@@ -439,8 +439,8 @@
     <td>1080</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.I/齿轮360.txt?raw=1">齿轮</a></th>
-    <th><a href="Blueprints/使用制造台Mk.II/齿轮360.txt?raw=1">齿轮</a></th>
+    <th><a href="Blueprints/使用制造台Mk.I/齿轮360%20无增产.txt?raw=1">齿轮</a></th>
+    <th><a href="Blueprints/使用制造台Mk.II/齿轮360%20无增产.txt?raw=1">齿轮</a></th>
     <td>360</td>
     <td>铁块</td>
     <td>360</td>
@@ -448,7 +448,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/动力引擎360.txt?raw=1">动力引擎</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/动力引擎360%20无增产.txt?raw=1">动力引擎</a></th>
     <td rowspan="2">360</td>
     <td>磁线圈</td>
     <td>360</td>
@@ -460,10 +460,18 @@
   </tr>
   <tr>
     <th>/</th>
-    <th><a href="Blueprints/使用制造台Mk.II/燃烧单元360.txt?raw=1">燃烧单元</a></th>
+    <th><a href="Blueprints/使用制造台Mk.II/燃烧单元360%20无增产.txt?raw=1">燃烧单元</a></th>
     <td>360</td>
     <td>煤矿</td>
     <td>1080</td>
+    <td>无增产。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.I/机枪弹箱90%20无增产.txt?raw=1">机枪弹箱</a></th>
+    <th>/</th>
+    <td>90</td>
+    <td>铜块</td>
+    <td>360</td>
     <td>无增产。</td>
   </tr>
 </table>
@@ -907,6 +915,14 @@
     <td>1800</td>
     <td>煤矿</td>
     <td>4320(4层)</td>
+    <td>需增产。</td>
+  </tr>
+  <tr>
+    <th><a href="Blueprints/使用制造台Mk.III/机枪弹箱1800.txt?raw=1">机枪弹箱</a></th>
+    <th><a href="Blueprints/使用重组式制造台/机枪弹箱1800.txt?raw=1">机枪弹箱</a></th>
+    <td>1800</td>
+    <td>铜块</td>
+    <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
 </table>
