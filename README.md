@@ -989,6 +989,34 @@
     <td>动力引擎</td>
     <td>1440(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/超音速导弹组1800.txt?raw=1">超音速导弹组</a></th>
+    <th rowspan="6">/</th>
+    <td rowspan="6">1800</td>
+    <td>导弹组</td>
+    <td>1440(4层)</td>
+    <td rowspan="6">需增产。<br />部分使用低等级制造台。<br />输入增产剂用于中间产物喷涂。</td>
+  </tr>
+  <tr>
+    <td>处理器</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <td>爆破单元</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <td>钢材</td>
+    <td>2304(4层)</td>
+  </tr>
+  <tr>
+    <td>铝块</td>
+    <td>3456(4层)</td>
+  </tr>
+  <tr>
+    <td>增产剂Mk.III</td>
+    <td>少量</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
