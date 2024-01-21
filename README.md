@@ -871,7 +871,7 @@
     <td rowspan="2">1800</td>
     <td>有机晶体</td>
     <td>1440(1/4层)</td>
-    <td rowspan="2">需增产。</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>钛块</td>
@@ -927,27 +927,27 @@
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/钛化弹箱1800.txt?raw=1">钛化弹箱</a></th>
-    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/钛化弹箱1800.txt?raw=1">钛化弹箱</a></th>
     <td rowspan="2">1800</td>
     <td>机枪弹箱</td>
-    <td>1440(2层)</td>
-    <td rowspan="2">需增产。</td>
+    <td>1440(2/4层)</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>钛块</td>
-    <td>2880(2层)</td>
+    <td>2880(2/4层)</td>
   </tr>
   <tr>
     <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/超合金弹箱1800.txt?raw=1">超合金弹箱</a></th>
-    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/超合金弹箱1800.txt?raw=1">超合金弹箱</a></th>
     <td rowspan="2">1800</td>
     <td>钛化弹箱</td>
-    <td>1440(2层)</td>
-    <td rowspan="2">需增产。</td>
+    <td>1440(2/4层)</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td>钛合金</td>
-    <td>2880(2层)</td>
+    <td>2880(2/4层)</td>
   </tr>
 </table>
 
