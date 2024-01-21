@@ -280,7 +280,7 @@
     <td rowspan="2">20</td>
     <td>钛块</td>
     <td>20</td>
-    <td rowspan="2">无增产。<br />无配电。</td>
+    <td rowspan="2">无增产。无配电。</td>
   </tr>
   <tr>
     <td>氢</td>
@@ -472,7 +472,27 @@
     <td>90</td>
     <td>铜块</td>
     <td>360</td>
-    <td>无增产。</td>
+    <td>无增产。无配电。</td>
+  </tr>
+  <tr>
+    <th rowspan="4">/</th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/导弹组180%20无增产.txt?raw=1">导弹组</a></th>
+    <td rowspan="4">180</td>
+    <td>铜块</td>
+    <td>1080</td>
+    <td rowspan="4">无增产。</td>
+  </tr>
+  <tr>
+    <td>电路板</td>
+    <td>540</td>
+  </tr>
+  <tr>
+    <td>燃烧单元</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>动力引擎</td>
+    <td>180</td>
   </tr>
 </table>
 
