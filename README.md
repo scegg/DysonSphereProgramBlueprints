@@ -998,7 +998,7 @@
     <th>用量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/塑料600.txt?raw=1">塑料</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/塑料600%20无增产.txt?raw=1">塑料</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">600</td>
     <td>精炼油</td>
@@ -1022,7 +1022,7 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/有机晶体180.txt?raw=1">有机晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/有机晶体180%20无增产.txt?raw=1">有机晶体</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">180</td>
     <td>塑料</td>
@@ -1039,7 +1039,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用量子化工厂/有机晶体450.txt?raw=1">有机晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/有机晶体450%20无增产.txt?raw=1">有机晶体</a></th>
     <td rowspan="3">450</td>
     <td>塑料</td>
     <td>720</td>
@@ -1128,6 +1128,38 @@
     <td>刺笋结晶</td>
     <td>4320(4层)</td>
     <td>需增产。<br />重组式制造台需要分拣器货物叠加1级。</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/爆破单元360%20无增产.txt?raw=1">爆破单元</a></th>
+    <th rowspan="3">/</th>
+    <td rowspan="3">360</td>
+    <td>燃烧单元</td>
+    <td>360</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>塑料</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>硫酸</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/爆破单元1800.txt?raw=1">爆破单元</a></th>
+    <td rowspan="3">1800</td>
+    <td>燃烧单元</td>
+    <td>1440</td>
+    <td rowspan="3">需增产。</td>
+  </tr>
+  <tr>
+    <td>塑料</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td>硫酸</td>
+    <td>720</td>
   </tr>
 </table>
 
