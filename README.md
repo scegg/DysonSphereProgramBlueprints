@@ -1017,6 +1017,22 @@
     <td>增产剂Mk.III</td>
     <td>少量</td>
   </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/引力导弹组1800.txt?raw=1">引力导弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/引力导弹组1800.txt?raw=1">引力导弹组</a></th>
+    <td rowspan="3">1800</td>
+    <td>超音速导弹组</td>
+    <td>1440(4层)</td>
+    <td rowspan="4">需增产。</td>
+  </tr>
+  <tr>
+    <td>晶石爆破单元</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <td>奇异物质</td>
+    <td>1440(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
