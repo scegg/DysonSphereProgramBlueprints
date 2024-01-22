@@ -235,7 +235,7 @@
     <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/卡西米尔晶体300%20无增产.txt?raw=1">卡西米尔晶体</a></th>
     <td rowspan="3">300</td>
     <td>氢</td>
-    <td>3600</td>
+    <td>3600(2层)</td>
     <td rowspan="3">无增产。<br />其中氢分2路提供，<br />分别为1800、1800。</td>
   </tr>
   <tr>
@@ -1035,7 +1035,7 @@
     <td rowspan="3">1800</td>
     <td>超音速导弹组</td>
     <td>1440(4层)</td>
-    <td rowspan="4">需增产。</td>
+    <td rowspan="3">需增产。</td>
   </tr>
   <tr>
     <td>晶石爆破单元</td>
@@ -1044,6 +1044,30 @@
   <tr>
     <td>奇异物质</td>
     <td>1440(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/炮弹组1800.txt?raw=1">炮弹组</a></th>
+    <th rowspan="2">/</th>
+    <td rowspan="2">1800</td>
+    <td>铜块</td>
+    <td>12960(4层)</td>
+    <td rowspan="2">需增产。<br />其中铜块分2路提供，<br />分别为6480、6480。</td>
+  </tr>
+  <tr>
+    <td>燃烧单元</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/炮弹组3600.txt?raw=1">炮弹组</a></th>
+    <td rowspan="2">3600(2层)</td>
+    <td>铜块</td>
+    <td>25920(4层)</td>
+    <td rowspan="2">需增产。<br />其中铜块分4路提供，<br />分别为6480、6480、6480、6480。</td>
+  </tr>
+  <tr>
+    <td>燃烧单元</td>
+    <td>5760(4层)</td>
   </tr>
 </table>
 
