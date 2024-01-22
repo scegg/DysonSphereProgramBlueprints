@@ -626,7 +626,7 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/微晶原件4500.txt?raw=1">微晶原件</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/微晶元件4500.txt?raw=1">微晶元件</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">4500<br />(2/4层混合)</td>
     <td>硅块</td>
@@ -639,7 +639,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶原件7200.txt?raw=1">微晶原件</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶元件7200.txt?raw=1">微晶元件</a></th>
     <td rowspan="2">7200(4层)</td>
     <td>硅块</td>
     <td>11520(4层)</td>
