@@ -494,6 +494,18 @@
     <td>动力引擎</td>
     <td>180</td>
   </tr>
+  <tr>
+    <th rowspan="2">/</th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/炮弹组180%20无增产.txt?raw=1">炮弹组</a></th>
+    <td rowspan="2">180</td>
+    <td>铜块</td>
+    <td>1440</td>
+    <td rowspan="4">无增产。无配电。<br />其中铜块分3路提供，<br />分别为720、720。</td>
+  </tr>
+  <tr>
+    <td>燃烧单元</td>
+    <td>320</td>
+  </tr>
 </table>
 
 <table>
