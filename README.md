@@ -991,7 +991,7 @@
   </tr>
   <tr>
     <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/超音速导弹组1800.txt?raw=1">超音速导弹组</a></th>
-    <th rowspan="6">/</th>
+    <th rowspan="6"><a href="Blueprints/使用重组式制造台/超音速导弹组1800.txt?raw=1">超音速导弹组</a></th>
     <td rowspan="6">1800</td>
     <td>导弹组</td>
     <td>1440(4层)</td>
