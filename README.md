@@ -496,15 +496,31 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/炮弹组180%20无增产.txt?raw=1">炮弹组</a></th>
-    <td rowspan="2">180</td>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.II/炮弹组160%20无增产.txt?raw=1">炮弹组</a></th>
+    <td rowspan="2">160</td>
     <td>铜块</td>
     <td>1440</td>
-    <td rowspan="4">无增产。无配电。<br />其中铜块分3路提供，<br />分别为720、720。</td>
+    <td rowspan="2">无增产。无配电。<br />其中铜块分3路提供，<br />分别为720、720。</td>
   </tr>
   <tr>
     <td>燃烧单元</td>
     <td>320</td>
+  </tr>
+  <tr>
+    <th rowspan="3">/</th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/等离子胶囊180%20无增产.txt?raw=1">等离子胶囊</a></th>
+    <td rowspan="3">180</td>
+    <td>石墨烯</td>
+    <td>180</td>
+    <td rowspan="3">无增产。</td>
+  </tr>
+  <tr>
+    <td>磁铁</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>重氢</td>
+    <td>1800</td>
   </tr>
 </table>
 
@@ -1116,6 +1132,22 @@
   <tr>
     <td>晶石爆破单元</td>
     <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/等离子胶囊1800.txt?raw=1">等离子胶囊</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/等离子胶囊1800.txt?raw=1">等离子胶囊</a></th>
+    <td rowspan="3">1800</td>
+    <td>石墨烯</td>
+    <td>1440(4层)</td>
+    <td rowspan="3">需增产。<br />其中重氢分2路提供，<br />分别为7200、7200。</td>
+  </tr>
+  <tr>
+    <td>磁铁</td>
+    <td>2880(4层)</td>
+  </tr>
+  <tr>
+    <td>重氢</td>
+    <td>14400(4层)</td>
   </tr>
 </table>
 
