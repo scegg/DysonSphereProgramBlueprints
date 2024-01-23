@@ -1069,6 +1069,22 @@
     <td>燃烧单元</td>
     <td>5760(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/高爆炮弹组1800.txt?raw=1">高爆炮弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/高爆炮弹组1800.txt?raw=1">高爆炮弹组</a></th>
+    <td rowspan="3">1800</td>
+    <td>炮弹组</td>
+    <td>1440(4层)</td>
+    <td rowspan="3">需增产。<br />其中钛块分2路提供，<br />分别为4320、4320。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>8640(4层)</td>
+  </tr>
+  <tr>
+    <td>爆破单元</td>
+    <td>2880(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
