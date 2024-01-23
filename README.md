@@ -1169,6 +1169,34 @@
     <td>反物质</td>
     <td>7200(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/奇异湮灭燃料棒45%20无增产.txt?raw=1">奇异湮灭燃料棒</a></th>
+    <th rowspan="6">/</th>
+    <td rowspan="6">45</td>
+    <td>反物质燃料棒</td>
+    <td>360</td>
+    <td rowspan="6">生产框架材料的原料需增产。<br />生产奇异湮灭燃料棒无增产。</td>
+  </tr>
+  <tr>
+    <td>核心素</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td>奇异物质</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>碳纳米管</td>
+    <td>144(需增产)</td>
+  </tr>
+  <tr>
+    <td>钛合金</td>
+    <td>36(需增产)</td>
+  </tr>
+  <tr>
+    <td>硅块</td>
+    <td>36(需增产)</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
