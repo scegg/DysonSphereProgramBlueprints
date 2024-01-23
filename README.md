@@ -1149,6 +1149,26 @@
     <td>重氢</td>
     <td>14400(4层)</td>
   </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/反物质胶囊900.txt?raw=1">反物质胶囊</a></th>
+    <th rowspan="4">/</th>
+    <td rowspan="4">900</td>
+    <td>等离子胶囊</td>
+    <td>720(4层)</td>
+    <td rowspan="4">需增产。</td>
+  </tr>
+  <tr>
+    <td>粒子容器</td>
+    <td>720(4层)</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>7200(4层)</td>
+  </tr>
+  <tr>
+    <td>反物质</td>
+    <td>7200(4层)</td>
+  </tr>
 </table>
 
 ## 单纯使用[原油精炼厂](Blueprints/使用原油精炼厂)
