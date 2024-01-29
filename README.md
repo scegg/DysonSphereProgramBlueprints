@@ -1602,7 +1602,7 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a></th>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a></th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800</td>
     <td>反物质</td>
@@ -1614,7 +1614,7 @@
     <td>1800</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/分解/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a></th>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a></th>
     <td rowspan="2">临界光子</td>
     <td rowspan="2">1800<br />(2层)</td>
     <td>反物质</td>
