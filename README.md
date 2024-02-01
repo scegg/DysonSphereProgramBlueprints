@@ -1796,6 +1796,80 @@
     <td>150</td>
   </tr>
   <tr>
+    <th rowspan="8"><a href="Blueprints/综合使用/信息矩阵30%20无增产.txt?raw=1">信息矩阵</a></th>
+    <td rowspan="8">30</td>
+    <td>铁矿</td>
+    <td>120</td>
+    <td rowspan="8">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用矩阵研究站。</td>
+  </tr>
+  <tr>
+    <td>铜矿</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>硅块</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>127.5</td>
+  </tr>
+  <tr>
+    <td>石矿</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td>煤矿</td>
+    <td>330</td>
+  </tr>
+  <tr>
+    <th rowspan="9"><a href="Blueprints/综合使用/引力矩阵30%20无增产.txt?raw=1">引力矩阵</a></th>
+    <td rowspan="9">30</td>
+    <td>铁矿</td>
+    <td>690</td>
+    <td rowspan="9">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.I。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用分馏塔。<br />使用微型粒子对撞机。<br />使用矩阵研究站。</td>
+  </tr>
+  <tr>
+    <td>铜矿</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>硅块</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>氢</td>
+    <td>510</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>石矿</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>煤矿</td>
+    <td>600</td>
+  </tr>
+  <tr>
     <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
