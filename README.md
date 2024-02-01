@@ -1766,6 +1766,36 @@
     <td>40</td>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/综合使用/能量矩阵30%20无增产.txt?raw=1">能量矩阵</a></th>
+    <td rowspan="2">30</td>
+    <td>煤矿</td>
+    <td>120</td>
+    <td rowspan="2">无增产。<br />使用电弧熔炉。<br />使用原油精炼厂。<br />使用矩阵研究站。<br />同时输出精炼油120。</td>
+  </tr>
+  <tr>
+    <td>原油</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <th rowspan="4"><a href="Blueprints/综合使用/结构矩阵30%20无增产.txt?raw=1">结构矩阵</a></th>
+    <td rowspan="4">30</td>
+    <td>煤矿</td>
+    <td>180</td>
+    <td rowspan="4">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用矩阵研究站。</td>
+  </tr>
+  <tr>
+    <td>钛块</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>水</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>精炼油</td>
+    <td>150</td>
+  </tr>
+  <tr>
     <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
