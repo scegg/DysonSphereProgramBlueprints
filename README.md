@@ -1755,6 +1755,17 @@
     <td>少量</td>
   </tr>
   <tr>
+    <th rowspan="2"><a href="Blueprints/综合使用/电磁矩阵40%20无增产.txt?raw=1">电磁矩阵</a></th>
+    <td rowspan="2">40</td>
+    <td>铁矿</td>
+    <td>80</td>
+    <td rowspan="2">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.I。<br />使用矩阵研究站。</td>
+  </tr>
+  <tr>
+    <td>铜矿</td>
+    <td>40</td>
+  </tr>
+  <tr>
     <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td>磁线圈</td>
