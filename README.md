@@ -2378,4 +2378,4 @@
 |[光电15x15](Blueprints/铺设/光电15x15.txt?raw=1)|铺设<img src="img/太阳能板.png" width=24 />太阳能板15x15。|
 |[极地接收光子](Blueprints/铺设/极地接收光子.txt?raw=1)|极地铺设<img src="img/射线接收站.png" width=24 />射线接收站接收光子，支持输入<img src="img/引力透镜.png" width=24 />引力透镜。|
 |[集装平](Blueprints/铺设/集装平.txt?raw=1)|水平方式<img src="img/自动集装机.png" width=24 />集装4条线。|
-|[集装高](Blueprints/铺设/集装高.txt?raw=1)|以两列两层方式<img src="img/自动集装机.png" width=24 /集装4条线。|
+|[集装高](Blueprints/铺设/集装高.txt?raw=1)|以两列两层方式<img src="img/自动集装机.png" width=24 />集装4条线。|
