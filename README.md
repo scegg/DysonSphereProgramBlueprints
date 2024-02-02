@@ -1214,6 +1214,62 @@
     <td>少量</td>
   </tr>
   <tr>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/压制胶囊450.txt?raw=1"><img src="img/压制胶囊.png" width=24 />压制胶囊</a></th>
+    <th rowspan="6">/</th>
+    <td rowspan="6">450</td>
+    <td><img src="img/干扰胶囊.png" width=24 />干扰胶囊</td>
+    <td>360</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。</td>
+  </tr>
+  <tr>
+    <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td><img src="img/磁铁.png" width=24 />磁铁</td>
+    <td>432</td>
+  </tr>
+  <tr>
+    <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
+    <td>288</td>
+  </tr>
+  <tr>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
+    <td>144</td>
+  </tr>
+  <tr>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
+    <td>少量</td>
+  </tr>
+  <tr>
+    <th rowspan="6">/</th>
+    <th rowspan="6"><a href="Blueprints/使用重组式制造台/压制胶囊2250.txt?raw=1"><img src="img/压制胶囊.png" width=24 />压制胶囊</a></th>
+    <td rowspan="6">2250</td>
+    <td><img src="img/干扰胶囊.png" width=24 />干扰胶囊</td>
+    <td>1800</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。<br />其中磁铁分2路提供，<br />分别为1620、540。<br />其中输出分2路提供，<br />分别为450、1800。</td>
+  </tr>
+  <tr>
+    <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
+    <td>1800</td>
+  </tr>
+  <tr>
+    <td><img src="img/磁铁.png" width=24 />磁铁</td>
+    <td>2160</td>
+  </tr>
+  <tr>
+    <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
+    <td>1440</td>
+  </tr>
+  <tr>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
+    <td>少量</td>
+  </tr>
+  <tr>
     <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/奇异湮灭燃料棒45%20无增产.txt?raw=1"><img src="img/奇异湮灭燃料棒.png" width=24 />奇异湮灭燃料棒</a></th>
     <th rowspan="6">/</th>
     <td rowspan="6">45</td>
