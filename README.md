@@ -522,6 +522,26 @@
     <td><img src="img/重氢.png" width=24 />重氢</td>
     <td>1800</td>
   </tr>
+  <tr>
+    <th rowspan="4">/</th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/干扰胶囊120%20无增产.txt?raw=1"><img src="img/干扰胶囊.png" width=24 />干扰胶囊</a></th>
+    <td rowspan="4">120</td>
+    <td><img src="img/玻璃.png" width=24 />玻璃</td>
+    <td>360</td>
+    <td rowspan="4">无增产。</td>
+  </tr>
+  <tr>
+    <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
+    <td>480</td>
+  </tr>
+  <tr>
+    <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td><img src="img/氢.png" width=24 />氢</td>
+    <td>360</td>
+  </tr>
 </table>
 
 <table>
