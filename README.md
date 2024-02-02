@@ -41,29 +41,29 @@
     <th>用量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
-    <th><a href="Blueprints/使用位面熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/晶格硅7200.txt?raw=1">晶格硅</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/晶格硅7200.txt?raw=1"><img src="img/晶格硅.png" width=24 />晶格硅</a></th>
+    <th><a href="Blueprints/使用位面熔炉/晶格硅7200.txt?raw=1"><img src="img/晶格硅.png" width=24 />晶格硅</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/晶格硅7200.txt?raw=1"><img src="img/晶格硅.png" width=24 />晶格硅</a></th>
     <td>7200(4层)</td>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
-    <th><a href="Blueprints/使用位面熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/玻璃4500.txt?raw=1">玻璃</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/玻璃4500.txt?raw=1"><img src="img/玻璃.png" width=24 />玻璃</a></th>
+    <th><a href="Blueprints/使用位面熔炉/玻璃4500.txt?raw=1"><img src="img/玻璃.png" width=24 />玻璃</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/玻璃4500.txt?raw=1"><img src="img/玻璃.png" width=24 />玻璃</a></th>
     <td>4500(4层)</td>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/石材7200.txt?raw=1">石材</a></th>
-    <th><a href="Blueprints/使用位面熔炉/石材7200.txt?raw=1">石材</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/石材7200.txt?raw=1">石材</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/石材7200.txt?raw=1"><img src="img/石材.png" width=24 />石材</a></th>
+    <th><a href="Blueprints/使用位面熔炉/石材7200.txt?raw=1"><img src="img/石材.png" width=24 />石材</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/石材7200.txt?raw=1"><img src="img/石材.png" width=24 />石材</a></th>
     <td>7200(4层)</td>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
