@@ -68,47 +68,47 @@
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/硅块4500.txt?raw=1">硅块</a></th>
-    <th><a href="Blueprints/使用位面熔炉/硅块4500.txt?raw=1">硅块</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/硅块4500.txt?raw=1">硅块</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/硅块4500.txt?raw=1"><img src="img/硅块.png" width=24 />硅块</a></th>
+    <th><a href="Blueprints/使用位面熔炉/硅块4500.txt?raw=1"><img src="img/硅块.png" width=24 />硅块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/硅块4500.txt?raw=1"><img src="img/硅块.png" width=24 />硅块</a></th>
     <td>4500(4层)</td>
-    <td>硅矿</td>
+    <td><img src="img/硅石.png" width=24 />硅矿</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
-    <th><a href="Blueprints/使用位面熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/磁铁7200.txt?raw=1">磁铁</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/磁铁7200.txt?raw=1"><img src="img/磁铁.png" width=24 />磁铁</a></th>
+    <th><a href="Blueprints/使用位面熔炉/磁铁7200.txt?raw=1"><img src="img/磁铁.png" width=24 />磁铁</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/磁铁7200.txt?raw=1"><img src="img/磁铁.png" width=24 />磁铁</a></th>
     <td>7200(4层)</td>
-    <td>铁矿</td>
+    <td><img src="img/铁矿.png" width=24 />铁矿</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
-    <th><a href="Blueprints/使用位面熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/金刚石7200.txt?raw=1">金刚石</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/金刚石7200.txt?raw=1"><img src="img/金刚石.png" width=24 />金刚石</a></th>
+    <th><a href="Blueprints/使用位面熔炉/金刚石7200.txt?raw=1"><img src="img/金刚石.png" width=24 />金刚石</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/金刚石7200.txt?raw=1"><img src="img/金刚石.png" width=24 />金刚石</a></th>
     <td>7200(4层)</td>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%202层原料.txt?raw=1">金刚石(珍奇)</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%202层原料.txt?raw=1"><img src="img/金刚石珍奇.png" width=24 />金刚石(珍奇)</a></th>
     <th>/</th>
     <th>/</th>
     <td>7200(4层)</td>
-    <td>金伯利矿石</td>
+    <td><img src="img/金伯利矿石.png" width=24 />金伯利矿石</td>
     <td>2880(2层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%204层原料.txt?raw=1">金刚石(珍奇)</a></th>
-    <th><a href="Blueprints/使用位面熔炉/金刚石珍奇7200.txt?raw=1">金刚石(珍奇)</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/金刚石珍奇7200.txt?raw=1">金刚石(珍奇)</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/金刚石珍奇7200%204层原料.txt?raw=1"><img src="img/金刚石珍奇.png" width=24 />金刚石(珍奇)</a></th>
+    <th><a href="Blueprints/使用位面熔炉/金刚石珍奇7200.txt?raw=1"><img src="img/金刚石珍奇.png" width=24 />金刚石(珍奇)</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/金刚石珍奇7200.txt?raw=1"><img src="img/金刚石珍奇.png" width=24 />金刚石(珍奇)</a></th>
     <td>7200(4层)</td>
-    <td>金伯利矿石</td>
+    <td><img src="img/金伯利矿石.png" width=24 />金伯利矿石</td>
     <td>2880(4层)</td>
     <td>需增产。</td>
   </tr>
