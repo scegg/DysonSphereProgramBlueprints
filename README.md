@@ -113,90 +113,90 @@
     <td>需增产。</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th rowspan="3"><a href="Blueprints/使用电弧熔炉/钛合金1800.txt?raw=1"><img src="img/钛合金.png" width=24 />钛合金</a></th>
     <th rowspan="3">/</th>
     <th rowspan="3">/</th>
     <td rowspan="3">1800</td>
-    <td>钛块</td>
+    <td><img src="img/钛块.png" width=24 />钛块</td>
     <td>1440</td>
     <td rowspan="3">需增产。</td>
   </tr>
   <tr>
-    <td>钢材</td>
+    <td><img src="img/钢材.png" width=24 />钢材</td>
     <td>1440</td>
   </tr>
   <tr>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>2880(2层)</td>
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
-    <th rowspan="3"><a href="Blueprints/使用负熵熔炉/钛合金1800.txt?raw=1">钛合金</a></th>
+    <th rowspan="3"><a href="Blueprints/使用位面熔炉/钛合金1800.txt?raw=1"><img src="img/钛合金.png" width=24 />钛合金</a></th>
+    <th rowspan="3"><a href="Blueprints/使用负熵熔炉/钛合金1800.txt?raw=1"><img src="img/钛合金.png" width=24 />钛合金</a></th>
     <td rowspan="3">1800</td>
-    <td>钛块</td>
+    <td><img src="img/钛块.png" width=24 />钛块</td>
     <td>1440(4层)</td>
     <td rowspan="3">需增产。<br />输入均为4层。</td>
   </tr>
   <tr>
-    <td>钢材</td>
+    <td><img src="img/钢材.png" width=24 />钢材</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/钛块4500.txt?raw=1">钛块</a></th>
-    <th><a href="Blueprints/使用位面熔炉/钛块4500.txt?raw=1">钛块</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/钛块4500.txt?raw=1">钛块</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/钛块4500.txt?raw=1"><img src="img/钛块.png" width=24 />钛块</a></th>
+    <th><a href="Blueprints/使用位面熔炉/钛块4500.txt?raw=1"><img src="img/钛块.png" width=24 />钛块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/钛块4500.txt?raw=1"><img src="img/钛块.png" width=24 />钛块</a></th>
     <td>4500(4层)</td>
-    <td>钛矿</td>
+    <td><img src="img/钛矿.png" width=24 />钛矿</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/钢材3000.txt?raw=1">钢材</a></th>
-    <th><a href="Blueprints/使用位面熔炉/钢材3000.txt?raw=1">钢材</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/钢材3000.txt?raw=1">钢材</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/钢材3000.txt?raw=1"><img src="img/钢材.png" width=24 />钢材</a></th>
+    <th><a href="Blueprints/使用位面熔炉/钢材3000.txt?raw=1"><img src="img/钢材.png" width=24 />钢材</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/钢材3000.txt?raw=1"><img src="img/钢材.png" width=24 />钢材</a></th>
     <td>3000(2层)</td>
-    <td>铁块</td>
+    <td><img src="img/铁块.png" width=24 />铁块</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/铁块7200.txt?raw=1">铁块</a></th>
-    <th><a href="Blueprints/使用位面熔炉/铁块7200.txt?raw=1">铁块</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/铁块7200.txt?raw=1">铁块</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/铁块7200.txt?raw=1"><img src="img/铁块.png" width=24 />铁块</a></th>
+    <th><a href="Blueprints/使用位面熔炉/铁块7200.txt?raw=1"><img src="img/铁块.png" width=24 />铁块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/铁块7200.txt?raw=1"><img src="img/铁块.png" width=24 />铁块</a></th>
     <td>7200(4层)</td>
-    <td>铁矿</td>
+    <td><img src="img/铁矿.png" width=24 />铁矿</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/铜块7200.txt?raw=1">铜块</a></th>
-    <th><a href="Blueprints/使用位面熔炉/铜块7200.txt?raw=1">铜块</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/铜块7200.txt?raw=1">铜块</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/铜块7200.txt?raw=1"><img src="img/铜块.png" width=24 />铜块</a></th>
+    <th><a href="Blueprints/使用位面熔炉/铜块7200.txt?raw=1"><img src="img/铜块.png" width=24 />铜块</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/铜块7200.txt?raw=1"><img src="img/铜块.png" width=24 />铜块</a></th>
     <td>7200(4层)</td>
-    <td>铜矿</td>
+    <td><img src="img/铜矿.png" width=24 />铜矿</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/高能石墨360%20无增产.txt?raw=1">高能石墨</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/高能石墨360%20无增产.txt?raw=1"><img src="img/高能石墨.png" width=24 />高能石墨</a></th>
     <th>/</th>
     <th>/</th>
     <td>360</td>
-    <td>煤矿</td>
+    <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>720</td>
     <td>无增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
-    <th><a href="Blueprints/使用负熵熔炉/高能石墨4500.txt?raw=1">高能石墨</a></th>
+    <th><a href="Blueprints/使用电弧熔炉/高能石墨4500.txt?raw=1"><img src="img/高能石墨.png" width=24 />高能石墨</a></th>
+    <th><a href="Blueprints/使用位面熔炉/高能石墨4500.txt?raw=1"><img src="img/高能石墨.png" width=24 />高能石墨</a></th>
+    <th><a href="Blueprints/使用负熵熔炉/高能石墨4500.txt?raw=1"><img src="img/高能石墨.png" width=24 />高能石墨</a></th>
     <td>4500(4层)</td>
-    <td>煤矿</td>
+    <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
