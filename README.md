@@ -1989,10 +1989,10 @@
 |名称|产品|原料|特性|
 |---|---|---|---|
 |[初级工厂1](Blueprints/建筑工厂/初级工厂1.txt?raw=1)|<img src="img/电力感应塔.png" width=24 />电力感应塔(45)<br><img src="img/风力涡轮机.png" width=24 />风力涡轮机(11.25)<br><img src="img/采矿机.png" width=24 />采矿机(15)<br><img src="img/传送带.png" width=24 />传送带(270)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/分拣器.png" width=24 />分拣器(90)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/四向分流器.png" width=24 />四向分流器(22.5)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(22.5)<br><img src="img/电弧熔炉.png" width=24 />电弧熔炉(15)|<img src="img/铁矿.png" width=24 />铁矿(3023)：以此数量分别提供<br><ul><li>720</li><li>720</li><li>720</li><li>640</li><li>280</li></ul><img src="img/铜矿.png" width=24 />铜矿(463)<br><img src="img/石矿.png" width=24 />石矿(30)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
-|[初级工厂2](Blueprints/建筑工厂/初级工厂2.txt?raw=1)|<img src="img/小型储物箱.png" width=24 />小型储物箱(23)<br><img src="img/大型储物箱.png" width=24 />大型储物箱(11)<br><img src="img/储液罐.png" width=24 />储液罐(23)|<img src="img/铁矿.png" width=24 />铁矿(540)<br><img src="img/石矿.png" width=24 />石矿(450)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
-|[初级工厂3](Blueprints/建筑工厂/初级工厂3.txt?raw=1)|<img src="img/抽水机.png" width=24 />抽水机(5.625)<br><img src="img/原油萃取站.png" width=24 />原油萃取站(1.65)<br><img src="img/原油精炼厂.png" width=24 />原油精炼厂(2)<br><img src="img/矩阵研究站.png" width=24 />矩阵研究站(7.5)<br><img src="img/喷涂剂.png" width=24 />喷涂剂(5)<br><img src="img/化工厂.png" width=24 />化工厂(2.5)|<img src="img/石矿.png" width=24 />石矿(755)：以此数量分别提供<br><ul><li>400</li><li>355</li></ul><img src="img/铁矿.png" width=24 />铁矿(657.92)<br><img src="img/铜矿.png" width=24 />铜矿(132.71)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
-|[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|<img src="img/急速传送带.png" width=24 />急速传送带(270)<br><img src="img/急速分拣器.png" width=24 />急速分拣器(90)<br><img src="img/制造台Mk.II.png" width=24 />制造台Mk.II(20)<br><img src="img/自动集装机.png" width=24 />自动集装机(6.6)|<img src="img/铁矿.png" width=24 />铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul><img src="img/铜矿.png" width=24 />铜矿(636.67)<br><img src="img/硅矿.png" width=24 />硅矿(746.67)<br><img src="img/煤矿.png" width=24 />煤矿(133.33)<br><img src="img/石墨烯.png" width=24 />石墨烯(220)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(20)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I、<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II|
-|[太阳能板](Blueprints/建筑工厂/太阳能板9.txt?raw=1)|<img src="img/太阳能板.png" width=24 />太阳能板(9)|<img src="img/铁矿.png" width=24 />铁矿(45)<br><img src="img/铜矿.png" width=24 />铜矿(113)<br><img src="img/硅矿.png" width=24 />硅矿(180)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂2](Blueprints/建筑工厂/初级工厂2.txt?raw=1)|<img src="img/小型储物仓.png" width=24 />小型储物箱(23)<br><img src="img/大型储物仓.png" width=24 />大型储物箱(11)<br><img src="img/储液罐.png" width=24 />储液罐(23)|<img src="img/铁矿.png" width=24 />铁矿(540)<br><img src="img/石矿.png" width=24 />石矿(450)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂3](Blueprints/建筑工厂/初级工厂3.txt?raw=1)|<img src="img/抽水站.png" width=24 />抽水机(5.625)<br><img src="img/原油萃取站.png" width=24 />原油萃取站(1.65)<br><img src="img/原油精炼厂.png" width=24 />原油精炼厂(2)<br><img src="img/矩阵研究站.png" width=24 />矩阵研究站(7.5)<br><img src="img/喷涂机.png" width=24 />喷涂机(5)<br><img src="img/化工厂.png" width=24 />化工厂(2.5)|<img src="img/石矿.png" width=24 />石矿(755)：以此数量分别提供<br><ul><li>400</li><li>355</li></ul><img src="img/铁矿.png" width=24 />铁矿(657.92)<br><img src="img/铜矿.png" width=24 />铜矿(132.71)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|<img src="img/极速传送带.png" width=24 />极速传送带(270)<br><img src="img/极速分拣器.png" width=24 />极速分拣器(90)<br><img src="img/制造台Mk.II.png" width=24 />制造台Mk.II(20)<br><img src="img/自动集装机.png" width=24 />自动集装机(6.6)|<img src="img/铁矿.png" width=24 />铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul><img src="img/铜矿.png" width=24 />铜矿(636.67)<br><img src="img/硅石.png" width=24 />硅矿(746.67)<br><img src="img/煤矿.png" width=24 />煤矿(133.33)<br><img src="img/石墨烯.png" width=24 />石墨烯(220)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(20)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I、<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II|
+|[太阳能板](Blueprints/建筑工厂/太阳能板9.txt?raw=1)|<img src="img/太阳能板.png" width=24 />太阳能板(9)|<img src="img/铁矿.png" width=24 />铁矿(45)<br><img src="img/铜矿.png" width=24 />铜矿(113)<br><img src="img/硅石.png" width=24 />硅矿(180)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
 
 ### [建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)
 
@@ -2138,7 +2138,7 @@
         <li>发：<img src="img/电浆激发器.png" width=24 />电浆激发器 (168.75/1000)</li>
         <li>发：<img src="img/分馏塔.png" width=24 />分馏塔 (18.75/2000)</li>
         <li>发：<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II (15/2000)</li>
-        <li>发：<img src="img/抽水机.png" width=24 />抽水机 (14.0625/200)</li>
+        <li>发：<img src="img/抽水站.png" width=24 />抽水机 (14.0625/200)</li>
       </ul>
     </td>
     <td>
@@ -2212,14 +2212,14 @@
 
 #### 特色
 
-* 使用了3个星际物流运输站，制作出自演化研究站、负熵熔炉、重组式制造台。
-* 需要另外输入增产剂Mk.III以及空间翘曲器。
-* 使用制造台Mk.I制作上述三种建筑。
-* 使用制造台Mk.III制作量子芯片、位面过滤器。
+* 使用了3个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，制作出<img src="img/自演化研究站.png" width=24 />自演化研究站、<img src="img/负熵熔炉.png" width=24 />负熵熔炉、<img src="img/重组式制造台.png" width=24 />重组式制造台。
+* 需要另外输入<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III以及<img src="img/空间翘曲器.png" width=24 />空间翘曲器。
+* 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I制作上述三种建筑。
+* 使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III制作<img src="img/量子芯片.png" width=24 />量子芯片、<img src="img/位面过滤器.png" width=24 />位面过滤器。
 * 不使用加速。
-* 制作量子芯片、位面过滤器时使用增产剂增产。
+* 制作<img src="img/量子芯片.png" width=24 />量子芯片、<img src="img/位面过滤器.png" width=24 />位面过滤器时使用增产剂增产。
 * 零件生产量不小于所有建筑同时满量生产时所需的总用量。
-* 量子芯片将被优先用于后续生产。
+* <img src="img/量子芯片.png" width=24 />量子芯片将被优先用于后续生产。
 
 #### 星际物流运输站的物料设置清单
 括号中第一个数量为每分钟的产量（包括被作为后续产物的零件的份额）或用量，第二个数量为设置的存量。
@@ -2228,29 +2228,29 @@
   <tr>
     <td>
       <ul>
-        <li>收：矩阵研究站 (11.25/100)</li>
-        <li>收：硅基神经元 (112.5/20000)</li>
-        <li>收：黑雾矩阵 (225/20000)</li>
-        <li>发：自演化研究站 (11.25/1000)</li>
-        <li>收：制造台Mk.III (9/500)</li>
+        <li>收：<img src="img/矩阵研究站.png" width=24 />矩阵研究站 (11.25/100)</li>
+        <li>收：<img src="img/硅基神经元.png" width=24 />硅基神经元 (112.5/20000)</li>
+        <li>收：<img src="img/黑雾矩阵.png" width=24 />黑雾矩阵 (225/20000)</li>
+        <li>发：<img src="img/自演化研究站.png" width=24 />自演化研究站 (11.25/1000)</li>
+        <li>收：<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III (9/500)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：量子芯片 (111.328125/1000)</li>
-        <li>收：能量碎片 (495/20000)</li>
-        <li>发：负熵熔炉 (7.5/2000)</li>
-        <li>收：物质重组器 (90/20000)</li>
-        <li>发：重组式制造台 (9/2000)</li>
+        <li>发：<img src="img/量子芯片.png" width=24 />量子芯片 (111.328125/1000)</li>
+        <li>收：<img src="img/能量碎片.png" width=24 />能量碎片 (495/20000)</li>
+        <li>发：<img src="img/负熵熔炉.png" width=24 />负熵熔炉 (7.5/2000)</li>
+        <li>收：<img src="img/物质重组器.png" width=24 />物质重组器 (90/20000)</li>
+        <li>发：<img src="img/重组式制造台.png" width=24 />重组式制造台 (9/2000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：位面熔炉 (7.5/500)</li>
-        <li>收：卡西米尔晶体 (142.5/1500)</li>
-        <li>收：负熵奇点 (75/20000)</li>
-        <li>收：钛化玻璃 (285/2000)</li>
-        <li>收：处理器 (178.125/2000)</li>
+        <li>收：<img src="img/位面熔炉.png" width=24 />位面熔炉 (7.5/500)</li>
+        <li>收：<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体 (142.5/1500)</li>
+        <li>收：<img src="img/负熵奇点.png" width=24 />负熵奇点 (75/20000)</li>
+        <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (285/2000)</li>
+        <li>收：<img src="img/处理器.png" width=24 />处理器 (178.125/2000)</li>
       </ul>
     </td>
   </tr>
