@@ -471,7 +471,7 @@
     <th>/</th>
     <td>90</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
-    <td>360</td>
+    <td>270</td>
     <td>无增产。无配电。</td>
   </tr>
   <tr>
@@ -970,7 +970,7 @@
     <th><a href="Blueprints/使用重组式制造台/机枪弹箱1800.txt?raw=1"><img src="img/机枪弹箱.png" width=24 />机枪弹箱</a></th>
     <td>1800</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
-    <td>7200(4层)</td>
+    <td>4320(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
@@ -990,12 +990,12 @@
     <th rowspan="2"><a href="Blueprints/使用重组式制造台/超合金弹箱1800.txt?raw=1"><img src="img/超合金弹箱.png" width=24 />超合金弹箱</a></th>
     <td rowspan="2">1800</td>
     <td><img src="img/钛化弹箱.png" width=24 />钛化弹箱</td>
-    <td>1440(2/4层)</td>
-    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
+    <td>1440</td>
+    <td rowspan="2">需增产。</td>
   </tr>
   <tr>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
-    <td>2880(2/4层)</td>
+    <td>1440</td>
   </tr>
   <tr>
     <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/导弹组1800.txt?raw=1"><img src="img/导弹组.png" width=24 />导弹组</a></th>
