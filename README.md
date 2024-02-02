@@ -151,7 +151,7 @@
     <th><a href="Blueprints/使用位面熔炉/钛块4500.txt?raw=1"><img src="img/钛块.png" width=24 />钛块</a></th>
     <th><a href="Blueprints/使用负熵熔炉/钛块4500.txt?raw=1"><img src="img/钛块.png" width=24 />钛块</a></th>
     <td>4500(4层)</td>
-    <td><img src="img/钛矿.png" width=24 />钛矿</td>
+    <td><img src="img/钛石.png" width=24 />钛矿</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
