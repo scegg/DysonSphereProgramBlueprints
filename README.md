@@ -33,9 +33,9 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用电弧熔炉"><img src="img/电弧熔炉.png" width=16 />电弧熔炉版</a></th>
-    <th><a href="Blueprints/使用位面熔炉"><img src="img/位面熔炉.png" width=16 />位面熔炉版</a></th>
-    <th><a href="Blueprints/使用负熵熔炉"><img src="img/负熵熔炉.png" width=16 />负熵熔炉版</a></th>
+    <th><a href="Blueprints/使用电弧熔炉"><img src="img/电弧熔炉.png" width=24 />电弧熔炉版</a></th>
+    <th><a href="Blueprints/使用位面熔炉"><img src="img/位面熔炉.png" width=24 />位面熔炉版</a></th>
+    <th><a href="Blueprints/使用负熵熔炉"><img src="img/负熵熔炉.png" width=24 />负熵熔炉版</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
