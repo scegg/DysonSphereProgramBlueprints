@@ -1988,52 +1988,52 @@
 
 |名称|产品|原料|特性|
 |---|---|---|---|
-|[初级工厂1](Blueprints/建筑工厂/初级工厂1.txt?raw=1)|<img src="img/电力感应塔.png" width=24 />电力感应塔(45)<br><img src="img/风力涡轮机.png" width=24 />风力涡轮机(11.25)<br><img src="img/采矿机.png" width=24 />采矿机(15)<br><img src="img/传送带.png" width=24 />传送带(270)<br>img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/分拣器.png" width=24 />分拣器(90)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/四向分流器.png" width=24 />四向分流器(22.5)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(22.5)<br><img src="img/电弧熔炉.png" width=24 />电弧熔炉(15)|<img src="img/铁矿.png" width=24 />铁矿(3023)：以此数量分别提供<br><ul><li>720</li><li>720</li><li>720</li><li>640</li><li>280</li></ul><img src="img/铜矿.png" width=24 />铜矿(463)<br><img src="img/石矿.png" width=24 />石矿(30)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
-|[初级工厂2](Blueprints/建筑工厂/初级工厂2.txt?raw=1)|小型储物箱(23)<br>大型储物箱(11)<br>储液罐(23)|铁矿(540)<br>石矿(450)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
-|[初级工厂3](Blueprints/建筑工厂/初级工厂3.txt?raw=1)|抽水机(5.625)<br>原油萃取站(1.65)<br>原油精炼厂(2)<br>矩阵研究站(7.5)<br>喷涂剂(5)<br>化工厂(2.5)|石矿(755)：以此数量分别提供<br><ul><li>400</li><li>355</li></ul>铁矿(657.92)<br>铜矿(132.71)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
-|[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|急速传送带(270)<br>急速分拣器(90)<br>制造台Mk.II(20)<br>自动集装机(6.6)|铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul>铜矿(636.67)<br>硅矿(746.67)<br>煤矿(133.33)<br>石墨烯(220)<br>高速传送带(270)<br>高速分拣器(90)<br>制造台Mk.I(20)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I、制造台Mk.II|
-|[太阳能板](Blueprints/建筑工厂/太阳能板9.txt?raw=1)|太阳能板(9)|铁矿(45)<br>铜矿(113)<br>硅矿(180)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
+|[初级工厂1](Blueprints/建筑工厂/初级工厂1.txt?raw=1)|<img src="img/电力感应塔.png" width=24 />电力感应塔(45)<br><img src="img/风力涡轮机.png" width=24 />风力涡轮机(11.25)<br><img src="img/采矿机.png" width=24 />采矿机(15)<br><img src="img/传送带.png" width=24 />传送带(270)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/分拣器.png" width=24 />分拣器(90)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/四向分流器.png" width=24 />四向分流器(22.5)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(22.5)<br><img src="img/电弧熔炉.png" width=24 />电弧熔炉(15)|<img src="img/铁矿.png" width=24 />铁矿(3023)：以此数量分别提供<br><ul><li>720</li><li>720</li><li>720</li><li>640</li><li>280</li></ul><img src="img/铜矿.png" width=24 />铜矿(463)<br><img src="img/石矿.png" width=24 />石矿(30)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂2](Blueprints/建筑工厂/初级工厂2.txt?raw=1)|<img src="img/小型储物箱.png" width=24 />小型储物箱(23)<br><img src="img/大型储物箱.png" width=24 />大型储物箱(11)<br><img src="img/储液罐.png" width=24 />储液罐(23)|<img src="img/铁矿.png" width=24 />铁矿(540)<br><img src="img/石矿.png" width=24 />石矿(450)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂3](Blueprints/建筑工厂/初级工厂3.txt?raw=1)|<img src="img/抽水机.png" width=24 />抽水机(5.625)<br><img src="img/原油萃取站.png" width=24 />原油萃取站(1.65)<br><img src="img/原油精炼厂.png" width=24 />原油精炼厂(2)<br><img src="img/矩阵研究站.png" width=24 />矩阵研究站(7.5)<br><img src="img/喷涂剂.png" width=24 />喷涂剂(5)<br><img src="img/化工厂.png" width=24 />化工厂(2.5)|<img src="img/石矿.png" width=24 />石矿(755)：以此数量分别提供<br><ul><li>400</li><li>355</li></ul><img src="img/铁矿.png" width=24 />铁矿(657.92)<br><img src="img/铜矿.png" width=24 />铜矿(132.71)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
+|[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|<img src="img/急速传送带.png" width=24 />急速传送带(270)<br><img src="img/急速分拣器.png" width=24 />急速分拣器(90)<br><img src="img/制造台Mk.II.png" width=24 />制造台Mk.II(20)<br><img src="img/自动集装机.png" width=24 />自动集装机(6.6)|<img src="img/铁矿.png" width=24 />铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul><img src="img/铜矿.png" width=24 />铜矿(636.67)<br><img src="img/硅矿.png" width=24 />硅矿(746.67)<br><img src="img/煤矿.png" width=24 />煤矿(133.33)<br><img src="img/石墨烯.png" width=24 />石墨烯(220)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(20)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I、<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II|
+|[太阳能板](Blueprints/建筑工厂/太阳能板9.txt?raw=1)|<img src="img/太阳能板.png" width=24 />太阳能板(9)|<img src="img/铁矿.png" width=24 />铁矿(45)<br><img src="img/铜矿.png" width=24 />铜矿(113)<br><img src="img/硅矿.png" width=24 />硅矿(180)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
 
 ### [建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)
 
 #### 特色
 
-* 使用了18个星际物流运输站，自常见材料制作出几乎全部建筑，以及部分配套物资。
-* 不包括物流配送器与配送运输机。
-* 包括地基、物流运输机、星际物流运输机。
-* 使用制造台Mk.I以降低功耗。
+* 使用了18个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出几乎全部建筑，以及部分配套物资。
+* 不包括<img src="img/物流配送器.png" width=24 />物流配送器与<img src="img/配送运输机.png" width=24 />配送运输机。
+* 包括<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
+* 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I以降低功耗。
 * 对可以使用增产剂增产的组件，使用增产剂。
 * 不使用加速。
-* 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的制造台Mk.I的数量）：
-  * 电浆激发器（6）
-  * 棱镜（5）
-  * 超级磁场环（31）
-  * 框架材料（24）
-  * 湮灭约束球（6）
-  * 量子芯片（8）
-  * 位面过滤器（34）
-  * 推进器（2）
-  * 加力推进器（5）
+* 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I的数量）：
+  * <img src="img/电浆激发器.png" width=24 />电浆激发器（6）
+  * <img src="img/棱镜.png" width=24 />棱镜（5）
+  * <img src="img/超级磁场环.png" width=24 />超级磁场环（31）
+  * <img src="img/框架材料.png" width=24 />框架材料（24）
+  * <img src="img/湮灭约束球.png" width=24 />湮灭约束球（6）
+  * <img src="img/量子芯片.png" width=24 />量子芯片（8）
+  * <img src="img/位面过滤器.png" width=24 />位面过滤器（34）
+  * <img src="img/推进器.png" width=24 />推进器（2）
+  * <img src="img/加力推进器.png" width=24 />加力推进器（5）
 * 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物包括：
-  * 电力感应塔
-  * 无线输电塔
-  * 蓄电池
-  * 蓄电池(满)
-  * 传送带
-  * 高速传送带
-  * 分拣器
-  * 高速分拣器
-  * 制造台Mk.I
-  * 制造台Mk.II
-  * 电弧熔炉
-  * 化工厂
-  * 行星内物流运输站
-  * 星际物流运输站
-* 几乎全部（除零件、蓄电池(满)、分拣器、轨道采集器）产物采用1个制造台Mk.I满量生产。
-  * 蓄电池(满)采用1个能量枢纽充能。
-  * 分拣器采用2个制造台Mk.I生产。
-  * 当蓄电池(满)没有足够储存量时，轨道采集器的生产速度受制于蓄电池(满)的充能速度。
-* 耗能110MW，不包括蓄电池充能的45MW以及星际物流运输站充能需要。
+  * <img src="img/电力感应塔.png" width=24 />电力感应塔
+  * <img src="img/无线输电塔.png" width=24 />无线输电塔
+  * <img src="img/蓄电池.png" width=24 />蓄电池
+  * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)
+  * <img src="img/传送带.png" width=24 />传送带
+  * <img src="img/高速传送带.png" width=24 />高速传送带
+  * <img src="img/分拣器.png" width=24 />分拣器
+  * <img src="img/高速分拣器.png" width=24 />高速分拣器
+  * <img src="img/制造台Mk.I.png" width=24 />制造台Mk.I
+  * <img src="img/制造台Mk.II.png" width=24 />制造台Mk.II
+  * <img src="img/电弧熔炉.png" width=24 />电弧熔炉
+  * <img src="img/化工厂.png" width=24 />化工厂
+  * <img src="img/行星内物流运输站.png" width=24 />行星内物流运输站
+  * <img src="img/星际物流运输站.png" width=24 />星际物流运输站
+* 几乎全部（除零件、<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)、<img src="img/分拣器.png" width=24 />分拣器、<img src="img/轨道采集器.png" width=24 />轨道采集器）产物采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。
+  * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)采用1个<img src="img/能量枢纽.png" width=24 />能量枢纽充能。
+  * <img src="img/分拣器.png" width=24 />分拣器采用2个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I生产。
+  * 当<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)没有足够储存量时，<img src="img/轨道采集器.png" width=24 />轨道采集器的生产速度受制于<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)的充能速度。
+* 耗能110MW，不包括<img src="img/蓄电池.png" width=24 />蓄电池充能的45MW以及<img src="img/星际物流运输站.png" width=24 />星际物流运输站充能需要。
 
 #### 星际物流运输站的物料设置清单
 括号中第一个数量为每分钟的产量（包括被作为后续产物的零件的份额）或用量，第二个数量为设置的存量。
@@ -2042,167 +2042,167 @@
   <tr>
     <td>
       <ul>
-        <li>收：钢材 (1193.05/11500)</li>
-        <li>发：地热发电站 (9.375/100)</li>
-        <li>发：射线接收站 (7.03125/500)</li>
-        <li>发：原油精炼厂 (9.375/500)</li>
-        <li>发：自动集装机 (14.0625/500)</li>
+        <li>收：<img src="img/钢材.png" width=24 />钢材 (1193.05/11500)</li>
+        <li>发：<img src="img/地热发电站.png" width=24 />地热发电站 (9.375/100)</li>
+        <li>发：<img src="img/射线接收站.png" width=24 />射线接收站 (7.03125/500)</li>
+        <li>发：<img src="img/原油精炼厂.png" width=24 />原油精炼厂 (9.375/500)</li>
+        <li>发：<img src="img/自动集装机.png" width=24 />自动集装机 (14.0625/500)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：粒子容器 (112.5/1200)</li>
-        <li>发：加力推进器 (46.875/500)</li>
-        <li>发：星际物流运输站 (1.5/43)</li>
-        <li>发：轨道采集器 (1.5/48)</li>
-        <li>收：光子合并器 (86.25/900)</li>
+        <li>收：<img src="img/粒子容器.png" width=24 />粒子容器 (112.5/1200)</li>
+        <li>发：<img src="img/加力推进器.png" width=24 />加力推进器 (46.875/500)</li>
+        <li>发：<img src="img/星际物流运输站.png" width=24 />星际物流运输站 (1.5/43)</li>
+        <li>发：<img src="img/轨道采集器.png" width=24 />轨道采集器 (1.5/48)</li>
+        <li>收：<img src="img/光子合并器.png" width=24 />光子合并器 (86.25/900)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：电磁涡轮 (1207.5/12100)</li>
-        <li>发：推进器 (28/200)</li>
-        <li>发：星际物流运输机 (7.5/200)</li>
-        <li>收：钛合金 (931.5/9400)</li>
-        <li>发：传送带 (168.75/5000)</li>
+        <li>收：<img src="img/电磁涡轮.png" width=24 />电磁涡轮 (1207.5/12100)</li>
+        <li>发：<img src="img/推进器.png" width=24 />推进器 (28/200)</li>
+        <li>发：<img src="img/星际物流运输机.png" width=24 />星际物流运输机 (7.5/200)</li>
+        <li>收：<img src="img/钛合金.png" width=24 />钛合金 (931.5/9400)</li>
+        <li>发：<img src="img/传送带.png" width=24 />传送带 (168.75/5000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：高速传送带 (135/5000)</li>
-        <li>发：太阳能板 (9/5000)</li>
-        <li>发：物流运输机 (/5000)</li>
-        <li>收：卡西米尔晶体 (127.5/1300)</li>
-        <li>收：处理器 (646.125/700)</li>
+        <li>发：<img src="img/高速传送带.png" width=24 />高速传送带 (135/5000)</li>
+        <li>发：<img src="img/太阳能板.png" width=24 />太阳能板 (9/5000)</li>
+        <li>发：<img src="img/物流运输机.png" width=24 />物流运输机 (/5000)</li>
+        <li>收：<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体 (127.5/1300)</li>
+        <li>收：<img src="img/处理器.png" width=24 />处理器 (646.125/700)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：制造台Mk.I (28.125/1000)</li>
-        <li>收：石墨烯 (195/2000)</li>
-        <li>发：极速传送带 (135/5000)</li>
-        <li>收：硅块 (367.5/3700)</li>
-        <li>收：铜块 (292.2/3000)</li>
+        <li>发：<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I (28.125/1000)</li>
+        <li>收：<img src="img/石墨烯.png" width=24 />石墨烯 (195/2000)</li>
+        <li>发：<img src="img/极速传送带.png" width=24 />极速传送带 (135/5000)</li>
+        <li>收：<img src="img/硅块.png" width=24 />硅块 (367.5/3700)</li>
+        <li>收：<img src="img/铜块.png" width=24 />铜块 (292.2/3000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：磁线圈 (762.75/7700)</li>
-        <li>发：矩阵研究站 (18.75/5000)</li>
-        <li>发：储液罐 (28.125/1000)</li>
-        <li>发：流速监测器 (28.125/100)</li>
-        <li>收：齿轮 (575.25/5800)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>发：喷涂机 (18.75/500)</li>
-        <li>发：无线输电塔 (15/500)</li>
-        <li>收：微晶元件 (30/300)</li>
-        <li>发：电磁轨道弹射器 (9.375/500)</li>
-        <li>发：原油萃取站 (7.03125/100)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：框架材料 (225/1000)</li>
-        <li>发：行星内物流运输站 (2.8125/100)</li>
-        <li>收：钛块 (90/900)</li>
-        <li>发：能量枢纽 (3.75/100)</li>
-        <li>发：电弧熔炉 (18.75/5000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：极速分拣器 (90/5000)</li>
-        <li>发：湮灭约束球 (16.875/1000)</li>
-        <li>发：位面熔炉 (9/2000)</li>
-        <li>收：单级磁石 (135/1400)</li>
-        <li>发：蓄电池(满) (10/2000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：位面过滤器 (159.375/1000)</li>
-        <li>发：分拣器 (112.5/5000)</li>
-        <li>发：高速分拣器 (90/5000)</li>
-        <li>收：电动机 (90/900)</li>
-        <li>发：人造恒星 (1.875/1000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：超级磁场环 (581.25/2000)</li>
-        <li>发：电浆激发器 (168.75/1000)</li>
-        <li>发：分馏塔 (18.75/2000)</li>
-        <li>发：制造台Mk.II (15/2000)</li>
-        <li>发：抽水机 (14.0625/200)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：增产剂Mk.III (中量/5000)</li>
-        <li>收：空间翘曲器 (少量/1000)</li>
-        <li>收：玻璃 (641.7/6500)</li>
-        <li>发：棱镜 (281/2000)</li>
-        <li>收：电路板 (572.25/5800)</li>
+        <li>收：<img src="img/磁线圈.png" width=24 />磁线圈 (762.75/7700)</li>
+        <li>发：<img src="img/矩阵研究站.png" width=24 />矩阵研究站 (18.75/5000)</li>
+        <li>发：<img src="img/储液罐.png" width=24 />储液罐 (28.125/1000)</li>
+        <li>发：<img src="img/流速监测器.png" width=24 />流速监测器 (28.125/100)</li>
+        <li>收：<img src="img/齿轮.png" width=24 />齿轮 (575.25/5800)</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li>收：石材 (790.5/8000)</li>
-        <li>发：电力感应塔 (56.25/1000)</li>
-        <li>发：大型储物仓 (14.0625/100)</li>
-        <li>发：小型储物仓 (28.125/100)</li>
-        <li>发：地基 (56.25/5000)</li>
+        <li>发：<img src="img/喷涂机.png" width=24 />喷涂机 (18.75/500)</li>
+        <li>发：<img src="img/无线输电塔.png" width=24 />无线输电塔 (15/500)</li>
+        <li>收：<img src="img/微晶元件.png" width=24 />微晶元件 (30/300)</li>
+        <li>发：<img src="img/电磁轨道弹射器.png" width=24 />电磁轨道弹射器 (9.375/500)</li>
+        <li>发：<img src="img/原油萃取站.png" width=24 />原油萃取站 (7.03125/100)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：卫星配电站 (9/200)</li>
-        <li>发：四向分流器 (28.125/1000)</li>
-        <li>发：风力涡轮机 (14.0625/1000)</li>
-        <li>发：火力发电站 (11.25/200)</li>
-        <li>发：采矿机 (11.25/500)</li>
+        <li>发：<img src="img/框架材料.png" width=24 />框架材料 (225/1000)</li>
+        <li>发：<img src="img/行星内物流运输站.png" width=24 />行星内物流运输站 (2.8125/100)</li>
+        <li>收：<img src="img/钛块.png" width=24 />钛块 (90/900)</li>
+        <li>发：<img src="img/能量枢纽.png" width=24 />能量枢纽 (3.75/100)</li>
+        <li>发：<img src="img/电弧熔炉.png" width=24 />电弧熔炉 (18.75/5000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：微型粒子对撞机 (3.75/200)</li>
-        <li>发：微型聚变发电站 (5.625/200)</li>
-        <li>收：晶格硅 (54/600)</li>
-        <li>收：铁块 (1338.75/13400)</li>
-        <li>收：碳纳米管 (756/7600)</li>
+        <li>发：<img src="img/极速分拣器.png" width=24 />极速分拣器 (90/5000)</li>
+        <li>发：<img src="img/湮灭约束球.png" width=24 />湮灭约束球 (16.875/1000)</li>
+        <li>发：<img src="img/位面熔炉.png" width=24 />位面熔炉 (9/2000)</li>
+        <li>收：<img src="img/单级磁石.png" width=24 />单级磁石 (135/1400)</li>
+        <li>发：<img src="img/蓄电池（满）.png" width=24 />蓄电池(满) (10/2000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：引力透镜 (30/300)</li>
-        <li>发：垂直发射井 (1.875/100)</li>
-        <li>收：光栅石 (90/900)</li>
-        <li>发：大型采矿机 (2.8125/200)</li>
-        <li>发：蓄电池 (11.25/200)</li>
+        <li>发：<img src="img/位面过滤器.png" width=24 />位面过滤器 (159.375/1000)</li>
+        <li>发：<img src="img/分拣器.png" width=24 />分拣器 (112.5/5000)</li>
+        <li>发：<img src="img/高速分拣器.png" width=24 />高速分拣器 (90/5000)</li>
+        <li>收：<img src="img/电动机.png" width=24 />电动机 (90/900)</li>
+        <li>发：<img src="img/人造恒星.png" width=24 />人造恒星 (1.875/1000)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>发：制造台Mk.III (11.25/2000)</li>
-        <li>发：量子化工厂 (4.5/500)</li>
-        <li>发：化工厂 (11.25/500)</li>
-        <li>收：钛化玻璃 (300/3000)</li>
-        <li>发：量子芯片 (75/2000)</li>
+        <li>发：<img src="img/超级磁场环.png" width=24 />超级磁场环 (581.25/2000)</li>
+        <li>发：<img src="img/电浆激发器.png" width=24 />电浆激发器 (168.75/1000)</li>
+        <li>发：<img src="img/分馏塔.png" width=24 />分馏塔 (18.75/2000)</li>
+        <li>发：<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II (15/2000)</li>
+        <li>发：<img src="img/抽水机.png" width=24 />抽水机 (14.0625/200)</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>收：磁铁 (1395/14000)</li>
-        <li>收：高能石墨 (465/4700)</li>
-        <li>收：奇异物质 (13.5/200)</li>
-        <li>收：粒子宽带 (90/900)</li>
+        <li>收：<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III (中量/5000)</li>
+        <li>收：<img src="img/空间翘曲器.png" width=24 />空间翘曲器 (少量/1000)</li>
+        <li>收：<img src="img/玻璃.png" width=24 />玻璃 (641.7/6500)</li>
+        <li>发：<img src="img/棱镜.png" width=24 />棱镜 (281/2000)</li>
+        <li>收：<img src="img/电路板.png" width=24 />电路板 (572.25/5800)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>收：<img src="img/石材.png" width=24 />石材 (790.5/8000)</li>
+        <li>发：<img src="img/电力感应塔.png" width=24 />电力感应塔 (56.25/1000)</li>
+        <li>发：<img src="img/大型储物仓.png" width=24 />大型储物仓 (14.0625/100)</li>
+        <li>发：<img src="img/小型储物仓.png" width=24 />小型储物仓 (28.125/100)</li>
+        <li>发：<img src="img/地基.png" width=24 />地基 (56.25/5000)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>发：<img src="img/卫星配电站.png" width=24 />卫星配电站 (9/200)</li>
+        <li>发：<img src="img/四向分流器.png" width=24 />四向分流器 (28.125/1000)</li>
+        <li>发：<img src="img/风力涡轮机.png" width=24 />风力涡轮机 (14.0625/1000)</li>
+        <li>发：<img src="img/火力发电站.png" width=24 />火力发电站 (11.25/200)</li>
+        <li>发：<img src="img/采矿机.png" width=24 />采矿机 (11.25/500)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>发：<img src="img/微型粒子对撞机.png" width=24 />微型粒子对撞机 (3.75/200)</li>
+        <li>发：<img src="img/微型聚变发电站.png" width=24 />微型聚变发电站 (5.625/200)</li>
+        <li>收：<img src="img/晶格硅.png" width=24 />晶格硅 (54/600)</li>
+        <li>收：<img src="img/铁块.png" width=24 />铁块 (1338.75/13400)</li>
+        <li>收：<img src="img/碳纳米管.png" width=24 />碳纳米管 (756/7600)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>收：<img src="img/引力透镜.png" width=24 />引力透镜 (30/300)</li>
+        <li>发：<img src="img/垂直发射井.png" width=24 />垂直发射井 (1.875/100)</li>
+        <li>收：<img src="img/光栅石.png" width=24 />光栅石 (90/900)</li>
+        <li>发：<img src="img/大型采矿机.png" width=24 />大型采矿机 (2.8125/200)</li>
+        <li>发：<img src="img/蓄电池.png" width=24 />蓄电池 (11.25/200)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>发：<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III (11.25/2000)</li>
+        <li>发：<img src="img/量子化工厂.png" width=24 />量子化工厂 (4.5/500)</li>
+        <li>发：<img src="img/化工厂.png" width=24 />化工厂 (11.25/500)</li>
+        <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (300/3000)</li>
+        <li>发：<img src="img/量子芯片.png" width=24 />量子芯片 (75/2000)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>收：<img src="img/磁铁.png" width=24 />磁铁 (1395/14000)</li>
+        <li>收：<img src="img/高能石墨.png" width=24 />高能石墨 (465/4700)</li>
+        <li>收：<img src="img/奇异物质.png" width=24 />奇异物质 (13.5/200)</li>
+        <li>收：<img src="img/粒子宽带.png" width=24 />粒子宽带 (90/900)</li>
       </ul>
     </td>
   </tr>
