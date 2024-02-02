@@ -1190,6 +1190,30 @@
     <td>7200(4层)</td>
   </tr>
   <tr>
+    <th rowspan="5"><a href="Blueprints/使用制造台Mk.III/干扰胶囊900.txt?raw=1"><img src="img/干扰胶囊.png" width=24 />干扰胶囊</a></th>
+    <th rowspan="5">/</th>
+    <td rowspan="5">900</td>
+    <td><img src="img/玻璃.png" width=24 />玻璃</td>
+    <td>1382.4(2层)</td>
+    <td rowspan="5">需增产。<br />输入增产剂用于中间产物喷涂。<br />同时使用了2个<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。</td>
+  </tr>
+  <tr>
+    <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
+    <td>2304(2层)</td>
+  </tr>
+  <tr>
+    <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
+    <td>720(2层)</td>
+  </tr>
+  <tr>
+    <td><img src="img/氢.png" width=24 />氢</td>
+    <td>2160(2层)</td>
+  </tr>
+  <tr>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
+    <td>少量</td>
+  </tr>
+  <tr>
     <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/奇异湮灭燃料棒45%20无增产.txt?raw=1"><img src="img/奇异湮灭燃料棒.png" width=24 />奇异湮灭燃料棒</a></th>
     <th rowspan="6">/</th>
     <td rowspan="6">45</td>
@@ -2401,3 +2425,5 @@
 |[极地接收光子](Blueprints/铺设/极地接收光子.txt?raw=1)|极地铺设<img src="img/射线接收站.png" width=24 />射线接收站接收光子，支持输入<img src="img/引力透镜.png" width=24 />引力透镜。|
 |[集装平](Blueprints/铺设/集装平.txt?raw=1)|水平方式<img src="img/自动集装机.png" width=24 />集装4条线。|
 |[集装高](Blueprints/铺设/集装高.txt?raw=1)|以两列两层方式<img src="img/自动集装机.png" width=24 />集装4条线。|
+|[导弹防御塔+护盾](Blueprints/铺设/导弹防御塔9x9%204护盾.txt?raw=1)|以9x9铺设<img src="img/导弹防御塔.png" width=24 />导弹防御塔（对空低优先），4角加铺<img src="img/行星护盾发生器.png" width=24 />行星护盾发生器。|
+|[磁化电浆炮+护盾](Blueprints/铺设/磁化电浆炮5x5%204护盾.txt?raw=1)|以5x5铺设<img src="img/磁化电浆炮.png" width=24 />磁化电浆炮（对高空均衡），4角加铺<img src="img/行星护盾发生器.png" width=24 />行星护盾发生器。|
