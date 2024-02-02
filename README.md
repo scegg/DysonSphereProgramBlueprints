@@ -258,7 +258,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20%20无增产.txt?raw=1"><img src="img/星际物流运输船.png" width=24 />星际物流运输船</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.II/星际物流运输船20%20无增产.txt?raw=1"><img src="img/星际物流运输机.png" width=24 />星际物流运输船</a></th>
     <td rowspan="3">20</td>
     <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
     <td>200</td>
@@ -286,7 +286,7 @@
   </tr>
   <tr>
     <th rowspan="4">/</th>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/物流运输船15%20无增产.txt?raw=1"><img src="img/物流运输船.png" width=24 />物流运输船</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.II/物流运输船15%20无增产.txt?raw=1"><img src="img/物流运输机.png" width=24 />物流运输船</a></th>
     <td rowspan="4">15</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>90</td>
@@ -560,8 +560,8 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体1800.txt?raw=1">卡西米尔<br />晶体</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体1800.txt?raw=1">卡西米尔<br />晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体1800.txt?raw=1"><img src="img/卡西米尔晶体.png" width=24 />卡西米尔<br />晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体1800.txt?raw=1"><img src="img/卡西米尔晶体.png" width=24 />卡西米尔<br />晶体</a></th>
     <td rowspan="3">1800</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>17280(4层)</td>
@@ -576,8 +576,8 @@
     <td>2880(2层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔<br />晶体(珍奇)</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1">卡西米尔<br />晶体(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/卡西米尔晶体珍奇1800.txt?raw=1"><img src="img/卡西米尔晶体珍奇.png" width=24 />卡西米尔<br />晶体(珍奇)</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/卡西米尔晶体珍奇1800.txt?raw=1"><img src="img/卡西米尔晶体珍奇.png" width=24 />卡西米尔<br />晶体(珍奇)</a></th>
     <td rowspan="3">1800</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>17280(4层)</td>
@@ -592,58 +592,58 @@
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/处理器1800.txt?raw=1">处理器</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/处理器1800.txt?raw=1">处理器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/处理器1800.txt?raw=1"><img src="img/处理器.png" width=24 />处理器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/处理器1800.txt?raw=1"><img src="img/处理器.png" width=24 />处理器</a></th>
     <td rowspan="2">1800</td>
     <td><img src="img/电路板.png" width=24 />电路板</td>
     <td>2880(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
-    <td>微晶元件</td>
+    <td><img src="img/微晶元件.png" width=24 />微晶元件</td>
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/太阳帆3600.txt?raw=1">太阳帆</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/太阳帆3600.txt?raw=1">处理器</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/太阳帆3600.txt?raw=1"><img src="img/太阳帆.png" width=24 />太阳帆</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/太阳帆3600.txt?raw=1"><img src="img/太阳帆.png" width=24 />太阳帆</a></th>
     <td rowspan="2">3600(2层)</td>
     <td><img src="img/石墨烯.png" width=24 />石墨烯</td>
     <td>1440(1/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
-    <td>光子合并器</td>
+    <td><img src="img/光子合并器.png" width=24 />光子合并器</td>
     <td>1440(1/4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/引力透镜900.txt?raw=1">引力透镜</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/引力透镜900.txt?raw=1"><img src="img/引力透镜.png" width=24 />引力透镜</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">900</td>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>2880(2层)</td>
     <td rowspan="2">需增产。</td>
   </tr>
   <tr>
-    <td>奇异物质</td>
+    <td><img src="img/奇异物质.png" width=24 />奇异物质</td>
     <td>720</td>
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/引力透镜1800.txt?raw=1">引力透镜</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/引力透镜1800.txt?raw=1"><img src="img/引力透镜.png" width=24 />引力透镜</a></th>
     <td rowspan="2">1800</td>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>5760(4层)</td>
     <td rowspan="2">需增产。</td>
   </tr>
   <tr>
-    <td>奇异物质</td>
+    <td><img src="img/奇异物质.png" width=24 />奇异物质</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/微晶元件4500.txt?raw=1">微晶元件</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/微晶元件4500.txt?raw=1"><img src="img/微晶元件.png" width=24 />微晶元件</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">4500<br />(2/4层混合)</td>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>7200(4层)</td>
     <td rowspan="2">需增产。</td>
   </tr>
@@ -653,9 +653,9 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶元件7200.txt?raw=1">微晶元件</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/微晶元件7200.txt?raw=1"><img src="img/微晶元件.png" width=24 />微晶元件</a></th>
     <td rowspan="2">7200(4层)</td>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>11520(4层)</td>
     <td rowspan="2">需增产。<br />其中硅块分2路提供，<br />分别为7200、4320。</td>
   </tr>
@@ -664,7 +664,7 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/星际物流运输船15.txt?raw=1">星际物流运输船</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/星际物流运输船15.txt?raw=1"><img src="img/星际物流运输机.png" width=24 />星际物流运输船</a></th>
     <th rowspan="4">/</th>
     <td rowspan="4">15</td>
     <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
@@ -684,15 +684,15 @@
     <td>150</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.III/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
-    <th><a href="Blueprints/使用重组式制造台/晶格硅珍奇7200.txt?raw=1">晶格硅(珍奇)</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III/晶格硅珍奇7200.txt?raw=1"><img src="img/晶格硅珍奇.png" width=24 />晶格硅(珍奇)</a></th>
+    <th><a href="Blueprints/使用重组式制造台/晶格硅珍奇7200.txt?raw=1"><img src="img/晶格硅珍奇.png" width=24 /晶格硅(珍奇)</a></th>
     <td>7200(4层)</td>
-    <td>分形硅石</td>
+    <td><img src="img/分形硅石.png" width=24 />分形硅石</td>
     <td>2880(2/4层)</td>
     <td>需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.III/棱镜6000.txt?raw=1">棱镜</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III/棱镜6000.txt?raw=1"><img src="img/棱镜.png" width=24 />棱镜</a></th>
     <th>/</th>
     <td>6000(4层)</td>
     <td><img src="img/玻璃.png" width=24 />玻璃</td>
@@ -701,14 +701,14 @@
   </tr>
   <tr>
     <th>/</th>
-    <th><a href="Blueprints/使用重组式制造台/棱镜7200.txt?raw=1">棱镜</a></th>
+    <th><a href="Blueprints/使用重组式制造台/棱镜7200.txt?raw=1"><img src="img/棱镜.png" width=24 />棱镜</a></th>
     <td>7200(4层)</td>
     <td><img src="img/玻璃.png" width=24 />玻璃</td>
     <td>8640(4层)</td>
     <td>需增产。<br />其中玻璃分2路提供，<br />分别为6480、2160。</td>
   </tr>
   <tr>
-    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/氘核燃料棒900.txt?raw=1">氘核燃料棒</a></th>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/氘核燃料棒900.txt?raw=1"><img src="img/氘核燃料棒.png" width=24 />氘核燃料棒</a></th>
     <th rowspan="6">/</th>
     <td rowspan="6">900</td>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
@@ -728,15 +728,15 @@
     <td>576</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>288</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/物流运输船23.txt?raw=1">物流运输船</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/物流运输船23.txt?raw=1"><img src="img/物流运输机.png" width=24 />物流运输船</a></th>
     <th rowspan="4">/</th>
     <td rowspan="4">23</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
@@ -756,7 +756,7 @@
     <td>45</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/电动机1800.txt?raw=1">电动机</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/电动机1800.txt?raw=1"><img src="img/电动机.png" width=24 />电动机</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">1800</td>
     <td><img src="img/铁块.png" width=24 />铁块</td>
@@ -773,7 +773,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/电动机7200.txt?raw=1">电动机</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/电动机7200.txt?raw=1"><img src="img/电动机.png" width=24 />电动机</a></th>
     <td rowspan="3">7200(4层)</td>
     <td><img src="img/铁块.png" width=24 />铁块</td>
     <td>11520(4层)</td>
@@ -788,7 +788,7 @@
     <td>5760</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电磁涡轮1800.txt?raw=1">电磁涡轮</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电磁涡轮1800.txt?raw=1"><img src="img/电磁涡轮.png" width=24 />电磁涡轮</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">1800</td>
     <td><img src="img/电动机.png" width=24 />电动机</td>
@@ -801,7 +801,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电磁涡轮4500.txt?raw=1">电磁涡轮</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电磁涡轮4500.txt?raw=1"><img src="img/电磁涡轮.png" width=24 />电磁涡轮</a></th>
     <td rowspan="2">4500<br />(1/4层混合)</td>
     <td><img src="img/电动机.png" width=24 />电动机</td>
     <td>7200(4层)</td>
@@ -812,32 +812,32 @@
     <td>7200(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电路板7200.txt?raw=1">电路板</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电路板7200.txt?raw=1">电路板</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/电路板7200.txt?raw=1"><img src="img/电路板.png" width=24 />电路板</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/电路板7200.txt?raw=1"><img src="img/电路板.png" width=24 />电路板</a></th>
     <td rowspan="2">7200(4层)</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>2880(2/4层)</td>
-    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要分拣器货物叠加1级。</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
   </tr>
   <tr>
     <td><img src="img/铁块.png" width=24 />铁块</td>
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/磁线圈7200.txt?raw=1">磁线圈</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/磁线圈7200.txt?raw=1">磁线圈</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/磁线圈7200.txt?raw=1"><img src="img/磁线圈.png" width=24 />磁线圈</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/磁线圈7200.txt?raw=1"><img src="img/磁线圈.png" width=24 />磁线圈</a></th>
     <td rowspan="2">7200(4层)</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>2880(2/4层)</td>
-    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要分拣器货物叠加1级。</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
   </tr>
   <tr>
     <td><img src="img/磁铁.png" width=24 />磁铁</td>
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子容器1800.txt?raw=1">粒子容器</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子容器1800.txt?raw=1">粒子容器</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子容器1800.txt?raw=1"><img src="img/粒子容器.png" width=24 />粒子容器</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子容器1800.txt?raw=1"><img src="img/粒子容器.png" width=24 />粒子容器</a></th>
     <td rowspan="3">1800</td>
     <td><img src="img/电磁涡轮.png" width=24 />电磁涡轮</td>
     <td>2880(2/4层)</td>
@@ -852,10 +852,10 @@
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/粒子容器珍奇1800.txt?raw=1">粒子容器<br />(珍奇)</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/粒子容器珍奇1800.txt?raw=1">粒子容器<br />(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/粒子容器珍奇1800.txt?raw=1"><img src="img/粒子容器珍奇.png" width=24 />粒子容器<br />(珍奇)</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/粒子容器珍奇1800.txt?raw=1"><img src="img/粒子容器珍奇.png" width=24 />粒子容器<br />(珍奇)</a></th>
     <td rowspan="2">1800</td>
-    <td>单级磁石</td>
+    <td><img src="img/单级磁石.png" width=24 />单级磁石</td>
     <td>14400(4层)</td>
     <td rowspan="2">需增产。<br />其中单级磁石分2路提供，<br />分别为7200、7200。<br />重组式制造台需要4层原料。</td>
   </tr>
@@ -864,8 +864,8 @@
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子宽带900.txt?raw=1">粒子宽带</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子宽带900.txt?raw=1">粒子宽带</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/粒子宽带900.txt?raw=1"><img src="img/粒子宽带.png" width=24 />粒子宽带</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/粒子宽带900.txt?raw=1"><img src="img/粒子宽带.png" width=24 />粒子宽带</a></th>
     <td rowspan="3">900</td>
     <td><img src="img/碳纳米管.png" width=24 />碳纳米管</td>
     <td>1440(1/4层)</td>
@@ -880,7 +880,7 @@
     <td>720(1/2层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/钛化玻璃1800.txt?raw=1">钛化玻璃</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/钛化玻璃1800.txt?raw=1"><img src="img/钛化玻璃.png" width=24 />钛化玻璃</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">1800</td>
     <td><img src="img/玻璃.png" width=24 />玻璃</td>
@@ -897,7 +897,7 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/钛化玻璃7200.txt?raw=1">钛化玻璃</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/钛化玻璃7200.txt?raw=1"><img src="img/钛化玻璃.png" width=24 />钛化玻璃</a></th>
     <td rowspan="3">7200(4层)</td>
     <td><img src="img/玻璃.png" width=24 />玻璃</td>
     <td>5760(4层)</td>
@@ -912,8 +912,8 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/钛晶石1800.txt?raw=1">钛晶石</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/钛晶石1800.txt?raw=1">钛晶石</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/钛晶石1800.txt?raw=1"><img src="img/钛晶石.png" width=24 />钛晶石</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/钛晶石1800.txt?raw=1"><img src="img/钛晶石.png" width=24 />钛晶石</a></th>
     <td rowspan="2">1800</td>
     <td><img src="img/有机晶体.png" width=24 />有机晶体</td>
     <td>1440(1/4层)</td>
@@ -924,15 +924,15 @@
     <td>4320(4层)</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.III/齿轮7200.txt?raw=1">齿轮</a></th>
-    <th><a href="Blueprints/使用重组式制造台/齿轮7200.txt?raw=1">齿轮</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III/齿轮7200.txt?raw=1"><img src="img/齿轮.png" width=24 />齿轮</a></th>
+    <th><a href="Blueprints/使用重组式制造台/齿轮7200.txt?raw=1"><img src="img/齿轮.png" width=24 />齿轮</a></th>
     <td>7200(4层)</td>
     <td><img src="img/铁块.png" width=24 />铁块</td>
     <td>5760(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/动力引擎1800.txt?raw=1">动力引擎</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/动力引擎1800.txt?raw=1"><img src="img/动力引擎.png" width=24 />动力引擎</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">1800</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
@@ -945,7 +945,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/动力引擎3600.txt?raw=1">动力引擎</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/动力引擎3600.txt?raw=1"><img src="img/动力引擎.png" width=24 />动力引擎</a></th>
     <td rowspan="2">3600(2层)</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
     <td>2880(4层)</td>
@@ -956,26 +956,26 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.III/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
-    <th><a href="Blueprints/使用重组式制造台/燃烧单元1800.txt?raw=1">燃烧单元</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III/燃烧单元1800.txt?raw=1"><img src="img/燃烧单元.png" width=24 />燃烧单元</a></th>
+    <th><a href="Blueprints/使用重组式制造台/燃烧单元1800.txt?raw=1"><img src="img/燃烧单元.png" width=24 />燃烧单元</a></th>
     <td>1800</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>4320(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用制造台Mk.III/机枪弹箱1800.txt?raw=1">机枪弹箱</a></th>
-    <th><a href="Blueprints/使用重组式制造台/机枪弹箱1800.txt?raw=1">机枪弹箱</a></th>
+    <th><a href="Blueprints/使用制造台Mk.III/机枪弹箱1800.txt?raw=1"><img src="img/机枪弹箱.png" width=24 />机枪弹箱</a></th>
+    <th><a href="Blueprints/使用重组式制造台/机枪弹箱1800.txt?raw=1"><img src="img/机枪弹箱.png" width=24 />机枪弹箱</a></th>
     <td>1800</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>7200(4层)</td>
     <td>需增产。</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/钛化弹箱1800.txt?raw=1">钛化弹箱</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/钛化弹箱1800.txt?raw=1">钛化弹箱</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/钛化弹箱1800.txt?raw=1"><img src="img/钛化弹箱.png" width=24 />钛化弹箱</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/钛化弹箱1800.txt?raw=1"><img src="img/钛化弹箱.png" width=24 />钛化弹箱</a></th>
     <td rowspan="2">1800</td>
-    <td>机枪弹箱</td>
+    <td><img src="img/机枪弹箱.png" width=24 />机枪弹箱</td>
     <td>1440(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
@@ -984,10 +984,10 @@
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/超合金弹箱1800.txt?raw=1">超合金弹箱</a></th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/超合金弹箱1800.txt?raw=1">超合金弹箱</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/超合金弹箱1800.txt?raw=1"><img src="img/超合金弹箱.png" width=24 />超合金弹箱</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/超合金弹箱1800.txt?raw=1"><img src="img/超合金弹箱.png" width=24 />超合金弹箱</a></th>
     <td rowspan="2">1800</td>
-    <td>钛化弹箱</td>
+    <td><img src="img/钛化弹箱.png" width=24 />钛化弹箱</td>
     <td>1440(2/4层)</td>
     <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
@@ -996,8 +996,8 @@
     <td>2880(2/4层)</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/导弹组1800.txt?raw=1">导弹组</a></th>
-    <th rowspan="4"><a href="Blueprints/使用重组式制造台/导弹组1800.txt?raw=1">导弹组</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/导弹组1800.txt?raw=1"><img src="img/导弹组.png" width=24 />导弹组</a></th>
+    <th rowspan="4"><a href="Blueprints/使用重组式制造台/导弹组1800.txt?raw=1"><img src="img/导弹组.png" width=24 />导弹组</a></th>
     <td rowspan="4">1800</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>8640(4层)</td>
@@ -1016,10 +1016,10 @@
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/超音速导弹组1800.txt?raw=1">超音速导弹组</a></th>
-    <th rowspan="6"><a href="Blueprints/使用重组式制造台/超音速导弹组1800.txt?raw=1">超音速导弹组</a></th>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/超音速导弹组1800.txt?raw=1"><img src="img/超音速导弹组.png" width=24 />超音速导弹组</a></th>
+    <th rowspan="6"><a href="Blueprints/使用重组式制造台/超音速导弹组1800.txt?raw=1"><img src="img/超音速导弹组.png" width=24 />超音速导弹组</a></th>
     <td rowspan="6">1800</td>
-    <td>导弹组</td>
+    <td><img src="img/导弹组.png" width=24 />导弹组</td>
     <td>1440(4层)</td>
     <td rowspan="6">需增产。<br />使用制造台Mk.II2个。<br />输入增产剂用于中间产物喷涂。</td>
   </tr>
@@ -1028,7 +1028,7 @@
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <td>爆破单元</td>
+    <td><img src="img/爆破单元.png" width=24 />爆破单元</td>
     <td>2880(4层)</td>
   </tr>
   <tr>
@@ -1036,31 +1036,31 @@
     <td>2304(4层)</td>
   </tr>
   <tr>
-    <td>铝块</td>
+    <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>3456(4层)</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/引力导弹组1800.txt?raw=1">引力导弹组</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/引力导弹组1800.txt?raw=1">引力导弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/引力导弹组1800.txt?raw=1"><img src="img/引力导弹组.png" width=24 />引力导弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/引力导弹组1800.txt?raw=1"><img src="img/引力导弹组.png" width=24 />引力导弹组</a></th>
     <td rowspan="3">1800</td>
-    <td>超音速导弹组</td>
+    <td><img src="img/超音速导弹组.png" width=24 />超音速导弹组</td>
     <td>1440(4层)</td>
     <td rowspan="3">需增产。</td>
   </tr>
   <tr>
-    <td>晶石爆破单元</td>
+    <td><img src="img/晶石爆破单元.png" width=24 />晶石爆破单元</td>
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <td>奇异物质</td>
+    <td><img src="img/奇异物质.png" width=24 />奇异物质</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/炮弹组1800.txt?raw=1">炮弹组</a></th>
+    <th rowspan="2"><a href="Blueprints/使用制造台Mk.III/炮弹组1800.txt?raw=1"><img src="img/炮弹组.png" width=24 />炮弹组</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">1800</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
@@ -1073,7 +1073,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用重组式制造台/炮弹组3600.txt?raw=1">炮弹组</a></th>
+    <th rowspan="2"><a href="Blueprints/使用重组式制造台/炮弹组3600.txt?raw=1"><img src="img/炮弹组.png" width=24 />炮弹组</a></th>
     <td rowspan="2">3600(2层)</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>25920(4层)</td>
@@ -1084,10 +1084,10 @@
     <td>5760(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/高爆炮弹组1800.txt?raw=1">高爆炮弹组</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/高爆炮弹组1800.txt?raw=1">高爆炮弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/高爆炮弹组1800.txt?raw=1"><img src="img/高爆炮弹组.png" width=24 />高爆炮弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/高爆炮弹组1800.txt?raw=1"><img src="img/高爆炮弹组.png" width=24 />高爆炮弹组</a></th>
     <td rowspan="3">1800</td>
-    <td>炮弹组</td>
+    <td><img src="img/炮弹组.png" width=24 />炮弹组</td>
     <td>1440(4层)</td>
     <td rowspan="3">需增产。<br />其中钛块分2路提供，<br />分别为4320、4320。</td>
   </tr>
@@ -1096,14 +1096,14 @@
     <td>8640(4层)</td>
   </tr>
   <tr>
-    <td>爆破单元</td>
+    <td><img src="img/爆破单元.png" width=24 />爆破单元</td>
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/晶石炮弹组900.txt?raw=1">晶石炮弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/晶石炮弹组900.txt?raw=1"><img src="img/晶石炮弹组.png" width=24 />晶石炮弹组</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">900</td>
-    <td>高爆炮弹组</td>
+    <td><img src="img/高爆炮弹组.png" width=24 />高爆炮弹组</td>
     <td>720(4层)</td>
     <td rowspan="3">需增产。</td>
   </tr>
@@ -1112,14 +1112,14 @@
     <td>2160(4层)</td>
   </tr>
   <tr>
-    <td>晶石爆破单元</td>
+    <td><img src="img/晶石爆破单元.png" width=24 />晶石爆破单元</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/晶石炮弹组1800.txt?raw=1">晶石炮弹组</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/晶石炮弹组1800.txt?raw=1"><img src="img/晶石炮弹组.png" width=24 />晶石炮弹组</a></th>
     <td rowspan="3">1800</td>
-    <td>高爆炮弹组</td>
+    <td><img src="img/高爆炮弹组.png" width=24 />高爆炮弹组</td>
     <td>1440(4层)</td>
     <td rowspan="3">需增产。</td>
   </tr>
@@ -1128,12 +1128,12 @@
     <td>4320(4层)</td>
   </tr>
   <tr>
-    <td>晶石爆破单元</td>
+    <td><img src="img/晶石爆破单元.png" width=24 />晶石爆破单元</td>
     <td>2880(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/等离子胶囊1800.txt?raw=1">等离子胶囊</a></th>
-    <th rowspan="3"><a href="Blueprints/使用重组式制造台/等离子胶囊1800.txt?raw=1">等离子胶囊</a></th>
+    <th rowspan="3"><a href="Blueprints/使用制造台Mk.III/等离子胶囊1800.txt?raw=1"><img src="img/等离子胶囊.png" width=24 />等离子胶囊</a></th>
+    <th rowspan="3"><a href="Blueprints/使用重组式制造台/等离子胶囊1800.txt?raw=1"><img src="img/等离子胶囊.png" width=24 />等离子胶囊</a></th>
     <td rowspan="3">1800</td>
     <td><img src="img/石墨烯.png" width=24 />石墨烯</td>
     <td>1440(4层)</td>
@@ -1148,15 +1148,15 @@
     <td>14400(4层)</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/反物质胶囊900.txt?raw=1">反物质胶囊</a></th>
+    <th rowspan="4"><a href="Blueprints/使用制造台Mk.III/反物质胶囊900.txt?raw=1"><img src="img/反物质胶囊.png" width=24 />反物质胶囊</a></th>
     <th rowspan="4">/</th>
     <td rowspan="4">900</td>
-    <td>等离子胶囊</td>
+    <td><img src="img/等离子胶囊.png" width=24 />等离子胶囊</td>
     <td>720(4层)</td>
     <td rowspan="4">需增产。</td>
   </tr>
   <tr>
-    <td>粒子容器</td>
+    <td><img src="img/粒子容器.png" width=24 />粒子容器</td>
     <td>720(4层)</td>
   </tr>
   <tr>
@@ -1164,23 +1164,23 @@
     <td>7200(4层)</td>
   </tr>
   <tr>
-    <td>反物质</td>
+    <td><img src="img/反物质.png" width=24 />反物质</td>
     <td>7200(4层)</td>
   </tr>
   <tr>
-    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/奇异湮灭燃料棒45%20无增产.txt?raw=1">奇异湮灭燃料棒</a></th>
+    <th rowspan="6"><a href="Blueprints/使用制造台Mk.III/奇异湮灭燃料棒45%20无增产.txt?raw=1"><img src="img/奇异湮灭燃料棒.png" width=24 />奇异湮灭燃料棒</a></th>
     <th rowspan="6">/</th>
     <td rowspan="6">45</td>
-    <td>反物质燃料棒</td>
+    <td><img src="img/反物质燃料棒.png" width=24 />反物质燃料棒</td>
     <td>360</td>
     <td rowspan="6">生产框架材料的原料需增产。<br />生产奇异湮灭燃料棒无增产。</td>
   </tr>
   <tr>
-    <td>核心素</td>
+    <td><img src="img/核心素.png" width=24 />核心素</td>
     <td>45</td>
   </tr>
   <tr>
-    <td>奇异物质</td>
+    <td><img src="img/奇异物质.png" width=24 />奇异物质</td>
     <td>90</td>
   </tr>
   <tr>
@@ -1192,7 +1192,7 @@
     <td>36(需增产)</td>
   </tr>
   <tr>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>36(需增产)</td>
   </tr>
 </table>
@@ -1213,22 +1213,22 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用原油精炼厂/X射线裂解600%20无增产.txt?raw=1">X射线裂解</a></th>
-    <td>精炼油</td>
+    <th><a href="Blueprints/使用原油精炼厂/X射线裂解600%20无增产.txt?raw=1"><img src="img/X射线裂解.png" width=24 />X射线裂解</a></th>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>600</td>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>600</td>
     <td>无增产。<br />启动时需投入少量氢。谨防氢堵塞。</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用原油精炼厂/等离子精炼360宽%20无增产.txt?raw=1">等离子精炼</a> 宽版 无增产<br />
-        <a href="Blueprints/使用原油精炼厂/等离子精炼360宽.txt?raw=1">等离子精炼</a> 宽版 需增产<br />
-        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄%20无增产.txt?raw=1">等离子精炼</a> 无增产<br />
-        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄.txt?raw=1">等离子精炼</a> 需增产
+    <th rowspan="2"><a href="Blueprints/使用原油精炼厂/等离子精炼360宽%20无增产.txt?raw=1"><img src="img/等离子精炼.png" width=24 />等离子精炼</a> 宽版 无增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360宽.txt?raw=1"><img src="img/等离子精炼.png" width=24 />等离子精炼</a> 宽版 需增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄%20无增产.txt?raw=1"><img src="img/等离子精炼.png" width=24 />等离子精炼</a> 无增产<br />
+        <a href="Blueprints/使用原油精炼厂/等离子精炼360窄.txt?raw=1"><img src="img/等离子精炼.png" width=24 />等离子精炼</a> 需增产
     </th>
     <td rowspan="2">原油</td>
     <td rowspan="2">360</td>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>360</td>
     <td rowspan="2">提供增产、无增产版。<br />宽版：增加设施间距，应对不同纬度要求。</td>
   </tr>
@@ -1247,20 +1247,20 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用分馏塔">分馏塔</a></th>
+    <th><a href="Blueprints/使用分馏塔"><img src="img/分馏塔.png" width=24 />分馏塔</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/合成/重氢分馏1700.txt?raw=1">重氢</a>(分馏)</th>
+    <th><a href="Blueprints/合成/重氢分馏1700.txt?raw=1"><img src="img/重氢分馏.png" width=24 />重氢</a>(分馏)</th>
     <td>1700</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>1700(4层)</td>
     <td>需增产。<br />输入必须4层才可以达到设计效率。</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/合成/重氢分馏1766%20无增产.txt?raw=1">重氢</a>(分馏)</th>
+    <th><a href="Blueprints/合成/重氢分馏1766%20无增产.txt?raw=1"><img src="img/重氢分馏.png" width=24 />重氢</a>(分馏)</th>
     <td>1766</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>1766(4层)</td>
@@ -1277,38 +1277,38 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用化工厂">化工厂</a></th>
-    <th><a href="Blueprints/使用量子化工厂">量子化工厂</a></th>
+    <th><a href="Blueprints/使用化工厂"><img src="img/化工厂.png" width=24 />化工厂</a></th>
+    <th><a href="Blueprints/使用量子化工厂"><img src="img/量子化工厂.png" width=24 />量子化工厂</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/塑料600%20无增产.txt?raw=1">塑料</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/塑料600%20无增产.txt?raw=1"><img src="img/塑料.png" width=24 />塑料</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">600</td>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>1800</td>
     <td rowspan="2">无增产。</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>600</td>
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用量子化工厂/塑料1800.txt?raw=1">塑料</a></th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/塑料1800.txt?raw=1"><img src="img/塑料.png" width=24 />塑料</a></th>
     <td rowspan="2">1800</td>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>4320(4层)</td>
     <td rowspan="2">需增产。</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/有机晶体180%20无增产.txt?raw=1">有机晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/有机晶体180%20无增产.txt?raw=1"><img src="img/有机晶体.png" width=24 />有机晶体</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">180</td>
     <td><img src="img/塑料.png" width=24 />塑料</td>
@@ -1316,7 +1316,7 @@
     <td rowspan="3">无增产。</td>
   </tr>
   <tr>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>180</td>
   </tr>
   <tr>
@@ -1325,14 +1325,14 @@
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用量子化工厂/有机晶体450%20无增产.txt?raw=1">有机晶体</a></th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/有机晶体450%20无增产.txt?raw=1"><img src="img/有机晶体.png" width=24 />有机晶体</a></th>
     <td rowspan="3">450</td>
     <td><img src="img/塑料.png" width=24 />塑料</td>
     <td>720</td>
     <td rowspan="3">需增产。</td>
   </tr>
   <tr>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>360</td>
   </tr>
   <tr>
@@ -1340,39 +1340,39 @@
     <td>360</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/石墨烯240%20无增产.txt?raw=1">石墨烯</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/石墨烯240%20无增产.txt?raw=1"><img src="img/石墨烯.png" width=24 />石墨烯</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">240</td>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>120</td>
     <td rowspan="2">无增产。</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>360</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/石墨烯360%20无增产.txt?raw=1">石墨烯</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/石墨烯360%20无增产.txt?raw=1"><img src="img/石墨烯.png" width=24 />石墨烯</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">360</td>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>180</td>
     <td rowspan="2">无增产。</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>540</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/硫酸120%20无增产.txt?raw=1">硫酸</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/硫酸120%20无增产.txt?raw=1"><img src="img/硫酸.png" width=24 />硫酸</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">120</td>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>180</td>
     <td rowspan="3">无增产。</td>
   </tr>
   <tr>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>240</td>
   </tr>
   <tr>
@@ -1380,15 +1380,15 @@
     <td>120</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/硫酸360%20无增产.txt?raw=1">硫酸</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/硫酸360%20无增产.txt?raw=1"><img src="img/硫酸.png" width=24 />硫酸</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">360</td>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>540</td>
     <td rowspan="3">无增产。</td>
   </tr>
   <tr>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>720</td>
   </tr>
   <tr>
@@ -1396,7 +1396,7 @@
     <td>360</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/碳纳米管720%20无增产.txt?raw=1">碳纳米管</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/碳纳米管720%20无增产.txt?raw=1"><img src="img/碳纳米管.png" width=24 />碳纳米管</a></th>
     <th rowspan="2">/</th>
     <td rowspan="2">720</td>
     <td><img src="img/石墨烯.png" width=24 />石墨烯</td>
@@ -1409,7 +1409,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1"><img src="img/碳纳米管.png" width=24 />碳纳米管</a></th>
     <td rowspan="2">1800</td>
     <td><img src="img/石墨烯.png" width=24 />石墨烯</td>
     <td>2160(2层)</td>
@@ -1421,7 +1421,7 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1">碳纳米管</a></th>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/碳纳米管1800.txt?raw=1"><img src="img/碳纳米管.png" width=24 />碳纳米管</a></th>
     <td rowspan="2">1800</td>
     <td><img src="img/石墨烯.png" width=24 />石墨烯</td>
     <td>2160(2层)</td>
@@ -1433,14 +1433,14 @@
   </tr>
   <tr>
     <th>/</th>
-    <th><a href="Blueprints/使用量子化工厂/碳纳米管珍奇1800.txt?raw=1">碳纳米管<br />(珍奇)</a></th>
+    <th><a href="Blueprints/使用量子化工厂/碳纳米管珍奇1800.txt?raw=1"><img src="img/碳纳米管珍奇.png" width=24 />碳纳米管<br />(珍奇)</a></th>
     <td>1800</td>
-    <td>刺笋结晶</td>
+    <td><img src="img/刺笋结晶.png" width=24 />刺笋结晶</td>
     <td>4320(4层)</td>
-    <td>需增产。<br />需要分拣器货物叠加1级。</td>
+    <td>需增产。<br />需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/爆破单元360%20无增产.txt?raw=1">爆破单元</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/爆破单元360%20无增产.txt?raw=1"><img src="img/爆破单元.png" width=24 />爆破单元</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">360</td>
     <td><img src="img/燃烧单元.png" width=24 />燃烧单元</td>
@@ -1452,12 +1452,12 @@
     <td>360</td>
   </tr>
   <tr>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>180</td>
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用量子化工厂/爆破单元1800.txt?raw=1">爆破单元</a></th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/爆破单元1800.txt?raw=1"><img src="img/爆破单元.png" width=24 />爆破单元</a></th>
     <td rowspan="3">1800</td>
     <td><img src="img/燃烧单元.png" width=24 />燃烧单元</td>
     <td>1440</td>
@@ -1468,14 +1468,14 @@
     <td>1440</td>
   </tr>
   <tr>
-    <td>硫酸</td>
+    <td><img src="img/硫酸.png" width=24 />硫酸</td>
     <td>720</td>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用化工厂/晶石爆破单元360%20无增产.txt?raw=1">晶石爆破单元</a></th>
+    <th rowspan="3"><a href="Blueprints/使用化工厂/晶石爆破单元360%20无增产.txt?raw=1"><img src="img/晶石爆破单元.png" width=24 />晶石爆破单元</a></th>
     <th rowspan="3">/</th>
     <td rowspan="3">360</td>
-    <td>爆破单元</td>
+    <td><img src="img/爆破单元.png" width=24 />爆破单元</td>
     <td>360</td>
     <td rowspan="3">无增产。</td>
   </tr>
@@ -1484,14 +1484,14 @@
     <td>360</td>
   </tr>
   <tr>
-    <td>卡西米尔晶体</td>
+    <td><img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体</td>
     <td>45</td>
   </tr>
   <tr>
     <th rowspan="3">/</th>
-    <th rowspan="3"><a href="Blueprints/使用量子化工厂/晶石爆破单元1800.txt?raw=1">晶石爆破单元</a></th>
+    <th rowspan="3"><a href="Blueprints/使用量子化工厂/晶石爆破单元1800.txt?raw=1"><img src="img/晶石爆破单元.png" width=24 />晶石爆破单元</a></th>
     <td rowspan="3">1800</td>
-    <td>爆破单元</td>
+    <td><img src="img/爆破单元.png" width=24 />爆破单元</td>
     <td>1440</td>
     <td rowspan="3">需增产。</td>
   </tr>
@@ -1500,7 +1500,7 @@
     <td>1440</td>
   </tr>
   <tr>
-    <td>卡西米尔晶体</td>
+    <td><img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体</td>
     <td>180</td>
   </tr>
 </table>
@@ -1513,16 +1513,16 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用化工厂">化工厂</a></th>
-    <th><a href="Blueprints/使用量子化工厂">量子化工厂</a></th>
+    <th><a href="Blueprints/使用化工厂"><img src="img/化工厂.png" width=24 />化工厂</a></th>
+    <th><a href="Blueprints/使用量子化工厂"><img src="img/量子化工厂.png" width=24 />量子化工厂</a></th>
     <th>用量</th>
     <th>名称</th>
     <th>产量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用化工厂/可燃冰石墨烯240%20无增产.txt?raw=1">可燃冰石墨烯</a></th>
+    <th rowspan="2"><a href="Blueprints/使用化工厂/可燃冰石墨烯240%20无增产.txt?raw=1"><img src="img/可燃冰.png" width=24 />可燃冰石墨烯</a></th>
     <th rowspan="2">/</th>
-    <td rowspan="2">可燃冰</td>
+    <td rowspan="2"><img src="img/可燃冰.png" width=24 />可燃冰</td>
     <td rowspan="2">240</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>120</td>
@@ -1534,8 +1534,8 @@
   </tr>
   <tr>
     <th rowspan="2">/</th>
-    <th rowspan="2"><a href="Blueprints/使用量子化工厂/可燃冰石墨烯5760.txt?raw=1">可燃冰石墨烯</a></th>
-    <td rowspan="2">可燃冰</td>
+    <th rowspan="2"><a href="Blueprints/使用量子化工厂/可燃冰石墨烯5760.txt?raw=1"><img src="img/可燃冰.png" width=24 />可燃冰石墨烯</a></th>
+    <td rowspan="2"><img src="img/可燃冰.png" width=24 />可燃冰</td>
     <td rowspan="2">5760<br />(4层)</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>3600(2层)</td>
@@ -1556,13 +1556,13 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用粒子对撞机">粒子对撞机</a></th>
+    <th><a href="Blueprints/使用粒子对撞机"><img src="img/粒子对撞机.png" width=24 />粒子对撞机</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
   </tr>
   <tr>
-    <th rowspan="3"><a href="Blueprints/使用粒子对撞机/奇异物质450.txt?raw=1">奇异物质</a></th>
+    <th rowspan="3"><a href="Blueprints/使用粒子对撞机/奇异物质450.txt?raw=1"><img src="img/奇异物质.png" width=24 />奇异物质</a></th>
     <td rowspan="3">450</td>
     <td><img src="img/重氢.png" width=24 />重氢</td>
     <td>3600(2层)</td>
@@ -1573,11 +1573,11 @@
     <td>720</td>
   </tr>
   <tr>
-    <td>粒子容器</td>
+    <td><img src="img/粒子容器.png" width=24 />粒子容器</td>
     <td>720</td>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用粒子对撞机/重氢3600.txt?raw=1">重氢</a>(对撞)</th>
+    <th><a href="Blueprints/使用粒子对撞机/重氢3600.txt?raw=1"><img src="img/重氢.png" width=24 />重氢</a>(对撞)</th>
     <td>3600(2层)</td>
     <td><img src="img/氢.png" width=24 />氢</td>
     <td>7200(4层)</td>
@@ -1599,10 +1599,10 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%201层原料.txt?raw=1">质能储存</a></th>
-    <td rowspan="2">临界光子</td>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%201层原料.txt?raw=1"><img src="img/质能储存.png" width=24 />质能储存</a></th>
+    <td rowspan="2"><img src="img/临界光子.png" width=24 />临界光子</td>
     <td rowspan="2">1800</td>
-    <td>反物质</td>
+    <td><img src="img/反物质.png" width=24 />反物质</td>
     <td>1800</td>
     <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
   </tr>
@@ -1611,10 +1611,10 @@
     <td>1800</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%202层原料.txt?raw=1">质能储存</a></th>
-    <td rowspan="2">临界光子</td>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%202层原料.txt?raw=1"><img src="img/质能储存.png" width=24 />质能储存</a></th>
+    <td rowspan="2"><img src="img/临界光子.png" width=24 />临界光子</td>
     <td rowspan="2">1800<br />(2层)</td>
-    <td>反物质</td>
+    <td><img src="img/反物质.png" width=24 />反物质</td>
     <td>1800(2层)</td>
     <td rowspan="2">配置为加速模式。<br />不使用增产剂时，用量与产量减半。</td>
   </tr>
@@ -1639,18 +1639,18 @@
     <th>用量</th>
   </tr>
   <tr>
-    <th rowspan="5"><a href="Blueprints/综合使用/反物质燃料棒360.txt?raw=1">反物质燃料棒</a></th>
+    <th rowspan="5"><a href="Blueprints/综合使用/反物质燃料棒360.txt?raw=1"><img src="img/反物质燃料棒.png" width=24 />反物质燃料棒</a></th>
     <td rowspan="5">360</td>
-    <td>临界光子</td>
+    <td><img src="img/临界光子.png" width=24 />临界光子</td>
     <td>2160(4层)</td>
-    <td rowspan="5">需增产。<br />使用制造台Mk.III。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
+    <td rowspan="5">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
   </tr>
   <tr>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
     <td>180</td>
   </tr>
   <tr>
-    <td>粒子容器</td>
+    <td><img src="img/粒子容器.png" width=24 />粒子容器</td>
     <td>144</td>
   </tr>
   <tr>
@@ -1658,18 +1658,18 @@
     <td>144</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用电弧熔炉<br />使用制造台Mk.II<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制造台Mk.III</th>
+    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用电弧熔炉.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br />使用<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%20360%20使用位面熔炉.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/位面熔炉.png" width=24 />位面熔炉<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III</th>
     <td rowspan="4">360</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>833</td>
-    <td rowspan="4">煤矿仅用于制造增产剂Mk.I。<br />当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
+    <td rowspan="4">煤矿仅用于制造<img src="img/增产剂Mk.I.png" width=24 />增产剂Mk.I。<br />当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
   </tr>
   <tr>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>521</td>
   </tr>
   <tr>
@@ -1677,18 +1677,18 @@
     <td>326</td>
   </tr>
   <tr>
-    <td>金伯利矿石</td>
+    <td><img src="img/金伯利矿石.png" width=24 />金伯利矿石</td>
     <td>208</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用位面熔炉<br />使用制造台Mk.III<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1">增产剂Mk.III</a><br/>使用负熵熔炉<br />重组式制造台需要<br />分拣器货物叠加1级</th>
+    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/位面熔炉.png" width=24 />位面熔炉<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/负熵熔炉.png" width=24 />负熵熔炉<br />使用<img src="img/重组式制造台.png" width=24 />重组式制造台<br />需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级</th>
     <td rowspan="4">1800</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>4229(4层)</td>
-    <td rowspan="4">煤矿仅用于制造增产剂Mk.I。<br />当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
+    <td rowspan="4">煤矿仅用于制造<img src="img/增产剂Mk.I.png" width=24 />增产剂Mk.I。<br />当有金伯利矿石时优先使用，替代金刚石。<br />输出的增产剂已自喷涂。</td>
   </tr>
   <tr>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>2643(4层)</td>
   </tr>
   <tr>
@@ -1696,26 +1696,26 @@
     <td>1652(4层)</td>
   </tr>
   <tr>
-    <td>金伯利矿石</td>
+    <td><img src="img/金伯利矿石.png" width=24 />金伯利矿石</td>
     <td>1057(4层)</td>
   </tr>
   <tr>
-    <th rowspan="12"><a href="Blueprints/综合使用/小型运载火箭75.txt?raw=1">小型运载火箭</a></th>
+    <th rowspan="12"><a href="Blueprints/综合使用/小型运载火箭75.txt?raw=1"><img src="img/小型运载火箭.png" width=24 />小型运载火箭</a></th>
     <td rowspan="12">75</td>
     <td><img src="img/处理器.png" width=24 />处理器</td>
     <td>480</td>
-    <td rowspan="12">需增产。<br />使用制造台Mk.III。<br />输入增产剂用于中间产物喷涂。</td>
+    <td rowspan="12">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产物喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
     <td>326.4</td>
   </tr>
   <tr>
-    <td>太阳帆</td>
+    <td><img src="img/太阳帆.png" width=24 />太阳帆</td>
     <td>288</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>76.8</td>
   </tr>
   <tr>
@@ -1727,15 +1727,15 @@
     <td>921.6</td>
   </tr>
   <tr>
-    <td>卡西米尔晶体</td>
+    <td><img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体</td>
     <td>153.6</td>
   </tr>
   <tr>
-    <td>钛化玻璃</td>
+    <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
     <td>307.2</td>
   </tr>
   <tr>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>230.4</td>
   </tr>
   <tr>
@@ -1747,37 +1747,37 @@
     <td>1920(2层)</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/综合使用/电磁矩阵40%20无增产.txt?raw=1">电磁矩阵</a></th>
+    <th rowspan="2"><a href="Blueprints/综合使用/电磁矩阵40%20无增产.txt?raw=1"><img src="img/电磁矩阵.png" width=24 />电磁矩阵</a></th>
     <td rowspan="2">40</td>
-    <td>铁矿</td>
+    <td><img src="img/铁矿.png" width=24 />铁矿</td>
     <td>80</td>
-    <td rowspan="2">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.I。<br />使用矩阵研究站。</td>
+    <td rowspan="2">无增产。<br />使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉。<br />使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。</td>
   </tr>
   <tr>
-    <td>铜矿</td>
+    <td><img src="img/铜矿.png" width=24 />铜矿</td>
     <td>40</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/综合使用/能量矩阵30%20无增产.txt?raw=1">能量矩阵</a></th>
+    <th rowspan="2"><a href="Blueprints/综合使用/能量矩阵30%20无增产.txt?raw=1"><img src="img/能量矩阵.png" width=24 />能量矩阵</a></th>
     <td rowspan="2">30</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>120</td>
-    <td rowspan="2">无增产。<br />使用电弧熔炉。<br />使用原油精炼厂。<br />使用矩阵研究站。<br />同时输出精炼油120。</td>
+    <td rowspan="2">无增产。<br />使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉。<br />使用<img src="img/原油精炼厂.png" width=24 />原油精炼厂。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。<br />同时输出<img src="img/精炼油.png" width=24 />精炼油120。</td>
   </tr>
   <tr>
-    <td>原油</td>
+    <td><img src="img/原油.png" width=24 />原油</td>
     <td>120</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/综合使用/结构矩阵30%20无增产.txt?raw=1">结构矩阵</a></th>
+    <th rowspan="4"><a href="Blueprints/综合使用/结构矩阵30%20无增产.txt?raw=1"><img src="img/结构矩阵.png" width=24 />结构矩阵</a></th>
     <td rowspan="4">30</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>180</td>
-    <td rowspan="4">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用矩阵研究站。</td>
+    <td rowspan="4">无增产。<br />使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉。<br />使用<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。<br />使用<img src="img/化工厂.png" width=24 />化工厂。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。</td>
   </tr>
   <tr>
     <td><img src="img/钛块.png" width=24 />钛块</td>
@@ -1788,22 +1788,22 @@
     <td>30</td>
   </tr>
   <tr>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>150</td>
   </tr>
   <tr>
-    <th rowspan="8"><a href="Blueprints/综合使用/信息矩阵30%20无增产.txt?raw=1">信息矩阵</a></th>
+    <th rowspan="8"><a href="Blueprints/综合使用/信息矩阵30%20无增产.txt?raw=1"><img src="img/信息矩阵.png" width=24 />信息矩阵</a></th>
     <td rowspan="8">30</td>
-    <td>铁矿</td>
+    <td><img src="img/铁矿.png" width=24 />铁矿</td>
     <td>120</td>
-    <td rowspan="8">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用矩阵研究站。</td>
+    <td rowspan="8">无增产。<br />使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉。<br />使用<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。<br />使用<img src="img/化工厂.png" width=24 />化工厂。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。</td>
   </tr>
   <tr>
-    <td>铜矿</td>
+    <td><img src="img/铜矿.png" width=24 />铜矿</td>
     <td>180</td>
   </tr>
   <tr>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>300</td>
   </tr>
   <tr>
@@ -1811,11 +1811,11 @@
     <td>30</td>
   </tr>
   <tr>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>127.5</td>
   </tr>
   <tr>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>90</td>
   </tr>
   <tr>
@@ -1827,18 +1827,18 @@
     <td>330</td>
   </tr>
   <tr>
-    <th rowspan="9"><a href="Blueprints/综合使用/引力矩阵30%20无增产.txt?raw=1">引力矩阵</a></th>
+    <th rowspan="9"><a href="Blueprints/综合使用/引力矩阵30%20无增产.txt?raw=1"><img src="img/引力矩阵.png" width=24 />引力矩阵</a></th>
     <td rowspan="9">30</td>
-    <td>铁矿</td>
+    <td><img src="img/铁矿.png" width=24 />铁矿</td>
     <td>690</td>
-    <td rowspan="9">无增产。<br />使用电弧熔炉。<br />使用制造台Mk.I。<br />使用制造台Mk.II。<br />使用化工厂。<br />使用分馏塔。<br />使用微型粒子对撞机。<br />使用矩阵研究站。</td>
+    <td rowspan="9">无增产。<br />使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉。<br />使用<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。<br />使用<img src="img/化工厂.png" width=24 />化工厂。<br />使用<img src="img/分馏塔.png" width=24 />分馏塔。<br />使用<img src="img/微型粒子对撞机.png" width=24 />微型粒子对撞机。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。</td>
   </tr>
   <tr>
-    <td>铜矿</td>
+    <td><img src="img/铜矿.png" width=24 />铜矿</td>
     <td>270</td>
   </tr>
   <tr>
-    <td>硅块</td>
+    <td><img src="img/硅块.png" width=24 />硅块</td>
     <td>120</td>
   </tr>
   <tr>
@@ -1850,11 +1850,11 @@
     <td>510</td>
   </tr>
   <tr>
-    <td>精炼油</td>
+    <td><img src="img/精炼油.png" width=24 />精炼油</td>
     <td>240</td>
   </tr>
   <tr>
-    <td>石矿</td>
+    <td><img src="img/石矿.png" width=24 />石矿</td>
     <td>240</td>
   </tr>
   <tr>
@@ -1866,18 +1866,18 @@
     <td>600</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1">宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1">宇宙矩阵</a> 对侧</th>
+    <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵375%20同侧.txt?raw=1"><img src="img/宇宙矩阵.png" width=24 />宇宙矩阵</a> 同侧<br /><br /><a href="Blueprints/合成/宇宙矩阵375%20对侧.txt?raw=1"><img src="img/宇宙矩阵.png" width=24 />宇宙矩阵</a> 对侧</th>
     <td rowspan="13">375</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
     <td>240</td>
-    <td rowspan="13">需增产。<br />使用制造台Mk.III。<br />使用矩阵研究站。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
+    <td rowspan="13">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
   </tr>
   <tr>
     <td><img src="img/电路板.png" width=24 />电路板</td>
     <td>240</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>480</td>
   </tr>
   <tr>
@@ -1885,7 +1885,7 @@
     <td>480</td>
   </tr>
   <tr>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>240</td>
   </tr>
   <tr>
@@ -1897,42 +1897,42 @@
     <td>672</td>
   </tr>
   <tr>
-    <td>粒子宽带</td>
+    <td><img src="img/粒子宽带.png" width=24 />粒子宽带</td>
     <td>240</td>
   </tr>
   <tr>
-    <td>引力透镜</td>
+    <td><img src="img/引力透镜.png" width=24 />引力透镜</td>
     <td>120</td>
   </tr>
   <tr>
-    <td>卡西米尔晶体</td>
+    <td><img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体</td>
     <td>154</td>
   </tr>
   <tr>
-    <td>钛化玻璃</td>
+    <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
     <td>307.2</td>
   </tr>
   <tr>
-    <td>反物质</td>
+    <td><img src="img/反物质.png" width=24 />反物质</td>
     <td>300</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
   <tr>
-    <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵1125.txt?raw=1">宇宙矩阵</a></th>
+    <th rowspan="13"><a href="Blueprints/综合使用/宇宙矩阵1125.txt?raw=1"><img src="img/宇宙矩阵.png" width=24 />宇宙矩阵</a></th>
     <td rowspan="13">1125</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
     <td>720(4层)</td>
-    <td rowspan="13">自带增产。<br />使用重组式制造台。<br />使用自演化研究站。<br />输入增产剂用于原料、中间产物、最终产物喷涂。</td>
+    <td rowspan="13">自带增产。<br />使用<img src="img/重组式制造台.png" width=24 />重组式制造台。<br />使用<img src="img/自演化研究站.png" width=24 />自演化研究站。<br />输入增产剂用于原料、中间产物、最终产物喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/电路板.png" width=24 />电路板</td>
     <td>720(4层)</td>
   </tr>
   <tr>
-    <td>高能石墨</td>
+    <td><img src="img/高能石墨.png" width=24 />高能石墨</td>
     <td>1440(4层)</td>
   </tr>
   <tr>
@@ -1940,7 +1940,7 @@
     <td>540</td>
   </tr>
   <tr>
-    <td>金刚石</td>
+    <td><img src="img/金刚石.png" width=24 />金刚石</td>
     <td>720(4层)</td>
   </tr>
   <tr>
@@ -1952,27 +1952,27 @@
     <td>2016(4层)</td>
   </tr>
   <tr>
-    <td>粒子宽带</td>
+    <td><img src="img/粒子宽带.png" width=24 />粒子宽带</td>
     <td>720(4层)</td>
   </tr>
   <tr>
-    <td>引力透镜</td>
+    <td><img src="img/引力透镜.png" width=24 />引力透镜</td>
     <td>360(4层)</td>
   </tr>
   <tr>
-    <td>卡西米尔晶体</td>
+    <td><img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体</td>
     <td>460.8(4层)</td>
   </tr>
   <tr>
-    <td>钛化玻璃</td>
+    <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
     <td>921.6(4层)</td>
   </tr>
   <tr>
-    <td>临界光子</td>
+    <td><img src="img/临界光子.png" width=24 />临界光子</td>
     <td>900(4层)</td>
   </tr>
   <tr>
-    <td>增产剂Mk.III</td>
+    <td><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</td>
     <td>少量</td>
   </tr>
 </table>
