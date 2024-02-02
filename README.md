@@ -1,3 +1,5 @@
+版本更新。蓝图更新中。更新完成后会删除此行。
+
 # Dyson Sphere Program Blueprints
 保存自己制作的戴森球计划蓝图。
 
