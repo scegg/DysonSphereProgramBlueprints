@@ -310,7 +310,7 @@
     <td rowspan="3">720</td>
     <td><img src="img/铁块.png" width=24 />铁块</td>
     <td>1440</td>
-    <td rowspan="3">无增产。<br />使用增产剂时，将出口传送带升级，<br />产量为900。</td>
+    <td rowspan="3">无增产。<br />使用增产剂时，将出口传送带升级，产量为900。</td>
   </tr>
   <tr>
     <td><img src="img/齿轮.png" width=24 />齿轮</td>
@@ -1556,7 +1556,7 @@
     <th rowspan="2">备注</th>
   </tr>
   <tr>
-    <th><a href="Blueprints/使用粒子对撞机"><img src="img/粒子对撞机.png" width=24 />粒子对撞机</a></th>
+    <th><a href="Blueprints/使用粒子对撞机"><img src="img/微型粒子对撞机.png" width=24 />微型粒子对撞机</a></th>
     <th>产量</th>
     <th>名称</th>
     <th>用量</th>
@@ -1599,7 +1599,7 @@
     <th>产量</th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%201层原料.txt?raw=1"><img src="img/质能储存.png" width=24 />质能储存</a></th>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能存储1800%20加速%201层原料.txt?raw=1"><img src="img/质能存储.png" width=24 />质能存储</a></th>
     <td rowspan="2"><img src="img/临界光子.png" width=24 />临界光子</td>
     <td rowspan="2">1800</td>
     <td><img src="img/反物质.png" width=24 />反物质</td>
@@ -1611,7 +1611,7 @@
     <td>1800</td>
   </tr>
   <tr>
-    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能储存1800%20加速%202层原料.txt?raw=1"><img src="img/质能储存.png" width=24 />质能储存</a></th>
+    <th rowspan="2"><a href="Blueprints/使用粒子对撞机/质能存储1800%20加速%202层原料.txt?raw=1"><img src="img/质能存储.png" width=24 />质能存储</a></th>
     <td rowspan="2"><img src="img/临界光子.png" width=24 />临界光子</td>
     <td rowspan="2">1800<br />(2层)</td>
     <td><img src="img/反物质.png" width=24 />反物质</td>
@@ -1988,7 +1988,7 @@
 
 |名称|产品|原料|特性|
 |---|---|---|---|
-|[初级工厂1](Blueprints/建筑工厂/初级工厂1.txt?raw=1)|电力感应塔(45)<br>风力涡轮机(11.25)<br>采矿机(15)<br>传送带(270)<br>高速传送带(270)<br>分拣器(90)<br>高速分拣器(90)<br>四向分流器(22.5)<br>制造台Mk.I(22.5)<br>电弧熔炉(15)|铁矿(3023)：以此数量分别提供<br><ul><li>720</li><li>720</li><li>720</li><li>640</li><li>280</li></ul>铜矿(463)<br>石矿(30)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
+|[初级工厂1](Blueprints/建筑工厂/初级工厂1.txt?raw=1)|<img src="img/电力感应塔.png" width=24 />电力感应塔(45)<br><img src="img/风力涡轮机.png" width=24 />风力涡轮机(11.25)<br><img src="img/采矿机.png" width=24 />采矿机(15)<br><img src="img/传送带.png" width=24 />传送带(270)<br>img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/分拣器.png" width=24 />分拣器(90)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/四向分流器.png" width=24 />四向分流器(22.5)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(22.5)<br><img src="img/电弧熔炉.png" width=24 />电弧熔炉(15)|<img src="img/铁矿.png" width=24 />铁矿(3023)：以此数量分别提供<br><ul><li>720</li><li>720</li><li>720</li><li>640</li><li>280</li></ul><img src="img/铜矿.png" width=24 />铜矿(463)<br><img src="img/石矿.png" width=24 />石矿(30)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
 |[初级工厂2](Blueprints/建筑工厂/初级工厂2.txt?raw=1)|小型储物箱(23)<br>大型储物箱(11)<br>储液罐(23)|铁矿(540)<br>石矿(450)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
 |[初级工厂3](Blueprints/建筑工厂/初级工厂3.txt?raw=1)|抽水机(5.625)<br>原油萃取站(1.65)<br>原油精炼厂(2)<br>矩阵研究站(7.5)<br>喷涂剂(5)<br>化工厂(2.5)|石矿(755)：以此数量分别提供<br><ul><li>400</li><li>355</li></ul>铁矿(657.92)<br>铜矿(132.71)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I|
 |[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|急速传送带(270)<br>急速分拣器(90)<br>制造台Mk.II(20)<br>自动集装机(6.6)|铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul>铜矿(636.67)<br>硅矿(746.67)<br>煤矿(133.33)<br>石墨烯(220)<br>高速传送带(270)<br>高速分拣器(90)<br>制造台Mk.I(20)|无增产<br>使用电弧熔炉<br>使用制造台Mk.I、制造台Mk.II|
