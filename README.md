@@ -839,7 +839,7 @@
     <td rowspan="2">7200(4层)</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>2880(2/4层)</td>
-    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td><img src="img/铁块.png" width=24 />铁块</td>
@@ -851,7 +851,7 @@
     <td rowspan="2">7200(4层)</td>
     <td><img src="img/铜块.png" width=24 />铜块</td>
     <td>2880(2/4层)</td>
-    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。<br />重组式制造台需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
+    <td rowspan="2">需增产。<br />重组式制造台需要4层原料。</td>
   </tr>
   <tr>
     <td><img src="img/磁铁.png" width=24 />磁铁</td>
@@ -1539,7 +1539,7 @@
     <td>1800</td>
     <td><img src="img/刺笋结晶.png" width=24 />刺笋结晶</td>
     <td>4320(4层)</td>
-    <td>需增产。<br />需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级。</td>
+    <td>需增产。</td>
   </tr>
   <tr>
     <th rowspan="3"><a href="Blueprints/使用化工厂/爆破单元360%20无增产.txt?raw=1"><img src="img/爆破单元.png" width=24 />爆破单元</a></th>
@@ -1783,7 +1783,7 @@
     <td>208</td>
   </tr>
   <tr>
-    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/位面熔炉.png" width=24 />位面熔炉<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/负熵熔炉.png" width=24 />负熵熔炉<br />使用<img src="img/重组式制造台.png" width=24 />重组式制造台<br />需要<img src="img/分拣器货物叠加（1）.png" width=24 />分拣器货物叠加1级</th>
+    <th rowspan="4"><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/位面熔炉.png" width=24 />位面熔炉<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III<br /><br /><a href="Blueprints/综合使用/增产剂Mk.III%201800%20使用重组式制造台Mk.III.txt?raw=1"><img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III</a><br/>使用<img src="img/负熵熔炉.png" width=24 />负熵熔炉<br />使用<img src="img/重组式制造台.png" width=24 /></th>
     <td rowspan="4">1800</td>
     <td><img src="img/煤矿.png" width=24 />煤矿</td>
     <td>4229(4层)</td>
