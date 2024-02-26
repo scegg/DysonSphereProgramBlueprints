@@ -1,5 +1,3 @@
-版本更新。蓝图更新中。更新完成后会删除此行。目前已经完成除了建筑工厂外的其它更新。计划：1 建筑工厂增加物流运输机、物流配送器，留有一个扩展用的接口区。2 战争工厂增加新的2个建筑，取消物流运输机、物流配送器，需要通过接口区与建筑工厂连接部署。
-
 # Dyson Sphere Program Blueprints
 保存自己制作的戴森球计划蓝图。
 
@@ -2096,219 +2094,330 @@
 |[初级工厂4](Blueprints/建筑工厂/初级工厂4.txt?raw=1)|<img src="img/极速传送带.png" width=24 />极速传送带(270)<br><img src="img/极速分拣器.png" width=24 />极速分拣器(90)<br><img src="img/制造台Mk.II.png" width=24 />制造台Mk.II(20)<br><img src="img/自动集装机.png" width=24 />自动集装机(6.6)|<img src="img/铁矿.png" width=24 />铁矿(2282.67)：以此数量分别提供<br><ul><li>1370</li><li>914</li></ul><img src="img/铜矿.png" width=24 />铜矿(636.67)<br><img src="img/硅石.png" width=24 />硅矿(746.67)<br><img src="img/煤矿.png" width=24 />煤矿(133.33)<br><img src="img/石墨烯.png" width=24 />石墨烯(220)<br><img src="img/高速传送带.png" width=24 />高速传送带(270)<br><img src="img/高速分拣器.png" width=24 />高速分拣器(90)<br><img src="img/制造台Mk.I.png" width=24 />制造台Mk.I(20)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I、<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II|
 |[太阳能板](Blueprints/建筑工厂/太阳能板9.txt?raw=1)|<img src="img/太阳能板.png" width=24 />太阳能板(9)|<img src="img/铁矿.png" width=24 />铁矿(45)<br><img src="img/铜矿.png" width=24 />铜矿(113)<br><img src="img/硅石.png" width=24 />硅矿(180)|无增产<br>使用<img src="img/电弧熔炉.png" width=24 />电弧熔炉<br>使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|
 
-### [建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)
+### 整合工厂
 
-#### 特色
+|名称|特性|
+|---|---|
+|[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)|提供无敌对势力时游戏所需的所有建筑与<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。配有与[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)对接所需的接口区。需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。|
+|[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)|提供对抗敌对势力所需的附加建筑、无人机、舰队，不含弹药。通过对接所需的接口区，与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)连接，获取材料、放置中间产物，同时提供空间翘曲器、增产剂Mk.III。|
+|[黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)|提供对需要黑雾掉落材料才可以生产的建筑。|
 
-* 使用了18个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出几乎全部建筑，以及部分配套物资。
-* 不包括<img src="img/物流配送器.png" width=24 />物流配送器与<img src="img/配送运输机.png" width=24 />配送运输机。
+#### [建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)
+
+* 使用了18个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出几乎全部建筑（不含未充电的<img src="img/蓄电池.png" width=24 />蓄电池），以及部分配套物资。
+* 每个<img src="img/星际物流运输站.png" width=24 />星际物流运输站设置为使用10架<img src="img/星际物流运输机.png" width=24 />星际物流运输机，输出货物集装数量为1。
+* 部署时需要准备180架<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
 * 包括<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
 * 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I以降低功耗。
-* 对可以使用增产剂增产的组件，使用增产剂。
-* 不使用加速。
-* 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I的数量）：
-  * <img src="img/电浆激发器.png" width=24 />电浆激发器（6）
-  * <img src="img/棱镜.png" width=24 />棱镜（5）
-  * <img src="img/超级磁场环.png" width=24 />超级磁场环（31）
-  * <img src="img/框架材料.png" width=24 />框架材料（24）
-  * <img src="img/湮灭约束球.png" width=24 />湮灭约束球（6）
-  * <img src="img/量子芯片.png" width=24 />量子芯片（8）
-  * <img src="img/位面过滤器.png" width=24 />位面过滤器（34）
-  * <img src="img/推进器.png" width=24 />推进器（2）
-  * <img src="img/加力推进器.png" width=24 />加力推进器（5）
-* 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物包括：
-  * <img src="img/电力感应塔.png" width=24 />电力感应塔
-  * <img src="img/无线输电塔.png" width=24 />无线输电塔
-  * <img src="img/蓄电池.png" width=24 />蓄电池
-  * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)
-  * <img src="img/传送带.png" width=24 />传送带
-  * <img src="img/高速传送带.png" width=24 />高速传送带
-  * <img src="img/分拣器.png" width=24 />分拣器
-  * <img src="img/高速分拣器.png" width=24 />高速分拣器
-  * <img src="img/制造台Mk.I.png" width=24 />制造台Mk.I
-  * <img src="img/制造台Mk.II.png" width=24 />制造台Mk.II
-  * <img src="img/电弧熔炉.png" width=24 />电弧熔炉
-  * <img src="img/化工厂.png" width=24 />化工厂
-  * <img src="img/行星内物流运输站.png" width=24 />行星内物流运输站
-  * <img src="img/星际物流运输站.png" width=24 />星际物流运输站
-* 几乎全部（除零件、<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)、<img src="img/分拣器.png" width=24 />分拣器、<img src="img/轨道采集器.png" width=24 />轨道采集器）产物采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。
+* 关于增产剂：
+  * 对可以使用增产剂增产的组件，使用增产剂。
+  * 对只能设置为加速的组件，不使用增产剂。
+  * 建议选择<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III以达到设计效率。
+  * 建议对<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III喷涂增产剂以减少用量。
+  * 无需对其它原料预先喷涂增产剂。
+* 需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。单独部署时，需要将<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III的源头连接到接口区。与[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)联合部署时可自行对接。
+* 提供扩展连接[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)所需的接口区。当无需在后续连接到[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)时，可自行级联删除接口区输送线，不会影响系统逻辑。
+* 输出剩余的<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
+* 中间产物（由本蓝图内生产，作为蓝图内其它产物的原料或者输出到接口区；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产物的原料或者输出到接口区；例如<img src="img/传送带.png" width=24 />传送带）：
+  * 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I的数量）：
+    * <img src="img/电浆激发器.png" width=24 />电浆激发器（6）
+    * <img src="img/棱镜.png" width=24 />棱镜（5）
+    * <img src="img/超级磁场环.png" width=24 />超级磁场环（33）
+    * <img src="img/框架材料.png" width=24 />框架材料（24）
+    * <img src="img/湮灭约束球.png" width=24 />湮灭约束球（6）
+    * <img src="img/量子芯片.png" width=24 />量子芯片（8）
+    * <img src="img/位面过滤器.png" width=24 />位面过滤器（34）
+    * <img src="img/推进器.png" width=24 />推进器（2）
+    * <img src="img/加力推进器.png" width=24 />加力推进器（5）
+  * 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物包括：
+    * <img src="img/电力感应塔.png" width=24 />电力感应塔
+    * <img src="img/无线输电塔.png" width=24 />无线输电塔
+    * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)
+    * <img src="img/传送带.png" width=24 />传送带
+    * <img src="img/高速传送带.png" width=24 />高速传送带
+    * <img src="img/分拣器.png" width=24 />分拣器
+    * <img src="img/高速分拣器.png" width=24 />高速分拣器
+    * <img src="img/极速分拣器.png" width=24 />极速分拣器
+    * <img src="img/制造台Mk.I.png" width=24 />制造台Mk.I
+    * <img src="img/制造台Mk.II.png" width=24 />制造台Mk.II
+    * <img src="img/电弧熔炉.png" width=24 />电弧熔炉
+    * <img src="img/化工厂.png" width=24 />化工厂
+    * <img src="img/行星内物流运输站.png" width=24 />行星内物流运输站
+    * <img src="img/星际物流运输站.png" width=24 />星际物流运输站
+* 几乎全部（除零件、<img src="img/蓄电池.png" width=24 />蓄电池、<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)、<img src="img/分拣器.png" width=24 />分拣器、<img src="img/轨道采集器.png" width=24 />轨道采集器）产物采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。
+  * <img src="img/蓄电池.png" width=24 />蓄电池虽然采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I生产，但受制于<img src="img/能量枢纽.png" width=24 />能量枢纽充能速度，无需达到满效率生产，而只需匹配后者的速度。
   * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)采用1个<img src="img/能量枢纽.png" width=24 />能量枢纽充能。
   * <img src="img/分拣器.png" width=24 />分拣器采用2个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I生产。
-  * 当<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)没有足够储存量时，<img src="img/轨道采集器.png" width=24 />轨道采集器的生产速度受制于<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)的充能速度。
-* 耗能110MW，不包括<img src="img/蓄电池.png" width=24 />蓄电池充能的45MW以及<img src="img/星际物流运输站.png" width=24 />星际物流运输站充能需要。
+  * 需要前置建筑的建筑生产过程中，如前置建筑储存量不足，则生产速度会受制于前置建筑的提供速度。例如：如<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)储存量不足，<img src="img/轨道采集器.png" width=24 />轨道采集器的生产速度受制于<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)的充能速度。
+* 下文中：
+  * 位置为储存对应物料的星际物流运输站。以<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III输出区为左侧、接口区为右侧。自左向右标号为1-6；自上向下标为上中下。
+  * 每分钟需求量指（括号中为满足连接的战争工厂需要提供的量，负号为战争工厂自行生产的量超过其所需）生产过程满负荷时的需求量。
+  * 每分钟产量指当所需原料充足时，对应的最大产量。
+  * 原料与中间产品的仓储数量，为满足最大生产时每分钟需求量的10倍向上100对齐。使用者可以自行调整这些数量。
+  * 输出产品仓储数量，综合考虑了单次使用的最方便数量与生产连续性。
+    * 单次使用指当需要时，单次申请运输提供的数量应满足需求量，且不会超量太多。
+    * 生产连续性是指防止后续建筑需要太多，导致过程中生产的建筑长期无法保存。例如在生产<img src="img/极速分拣器.png" width=24 />极速分拣器时，需要消耗<img src="img/高速分拣器.png" width=24 />高速分拣器，导致后者库存无法增加。如前者的储量设置过大，会导致后者库存长期无法增加。
+    * 使用者可以自行调整这些数量。
 
-#### 星际物流运输站的物料设置清单
-括号中第一个数量为每分钟的产量（包括被作为后续产物的零件的份额）或用量，第二个数量为设置的存量。
+##### 输入原料
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>收：<img src="img/钢材.png" width=24 />钢材 (1193.05/11500)</li>
-        <li>发：<img src="img/地热发电站.png" width=24 />地热发电站 (9.375/100)</li>
-        <li>发：<img src="img/射线接收站.png" width=24 />射线接收站 (7.03125/500)</li>
-        <li>发：<img src="img/原油精炼厂.png" width=24 />原油精炼厂 (9.375/500)</li>
-        <li>发：<img src="img/自动集装机.png" width=24 />自动集装机 (14.0625/500)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/粒子容器.png" width=24 />粒子容器 (112.5/1200)</li>
-        <li>发：<img src="img/加力推进器.png" width=24 />加力推进器 (46.875/500)</li>
-        <li>发：<img src="img/星际物流运输站.png" width=24 />星际物流运输站 (1.5/43)</li>
-        <li>发：<img src="img/轨道采集器.png" width=24 />轨道采集器 (1.5/48)</li>
-        <li>收：<img src="img/光子合并器.png" width=24 />光子合并器 (86.25/900)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/电磁涡轮.png" width=24 />电磁涡轮 (1207.5/12100)</li>
-        <li>发：<img src="img/推进器.png" width=24 />推进器 (28/200)</li>
-        <li>发：<img src="img/星际物流运输机.png" width=24 />星际物流运输机 (7.5/200)</li>
-        <li>收：<img src="img/钛合金.png" width=24 />钛合金 (931.5/9400)</li>
-        <li>发：<img src="img/传送带.png" width=24 />传送带 (168.75/5000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/高速传送带.png" width=24 />高速传送带 (135/5000)</li>
-        <li>发：<img src="img/太阳能板.png" width=24 />太阳能板 (9/5000)</li>
-        <li>发：<img src="img/物流运输机.png" width=24 />物流运输机 (/5000)</li>
-        <li>收：<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体 (127.5/1300)</li>
-        <li>收：<img src="img/处理器.png" width=24 />处理器 (646.125/700)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I (28.125/1000)</li>
-        <li>收：<img src="img/石墨烯.png" width=24 />石墨烯 (195/2000)</li>
-        <li>发：<img src="img/极速传送带.png" width=24 />极速传送带 (135/5000)</li>
-        <li>收：<img src="img/硅块.png" width=24 />硅块 (367.5/3700)</li>
-        <li>收：<img src="img/铜块.png" width=24 />铜块 (292.2/3000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/磁线圈.png" width=24 />磁线圈 (762.75/7700)</li>
-        <li>发：<img src="img/矩阵研究站.png" width=24 />矩阵研究站 (18.75/5000)</li>
-        <li>发：<img src="img/储液罐.png" width=24 />储液罐 (28.125/1000)</li>
-        <li>发：<img src="img/流速监测器.png" width=24 />流速监测器 (28.125/100)</li>
-        <li>收：<img src="img/齿轮.png" width=24 />齿轮 (575.25/5800)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>发：<img src="img/喷涂机.png" width=24 />喷涂机 (18.75/500)</li>
-        <li>发：<img src="img/无线输电塔.png" width=24 />无线输电塔 (15/500)</li>
-        <li>收：<img src="img/微晶元件.png" width=24 />微晶元件 (30/300)</li>
-        <li>发：<img src="img/电磁轨道弹射器.png" width=24 />电磁轨道弹射器 (9.375/500)</li>
-        <li>发：<img src="img/原油萃取站.png" width=24 />原油萃取站 (7.03125/100)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/框架材料.png" width=24 />框架材料 (225/1000)</li>
-        <li>发：<img src="img/行星内物流运输站.png" width=24 />行星内物流运输站 (2.8125/100)</li>
-        <li>收：<img src="img/钛块.png" width=24 />钛块 (90/900)</li>
-        <li>发：<img src="img/能量枢纽.png" width=24 />能量枢纽 (3.75/100)</li>
-        <li>发：<img src="img/电弧熔炉.png" width=24 />电弧熔炉 (18.75/5000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/极速分拣器.png" width=24 />极速分拣器 (90/5000)</li>
-        <li>发：<img src="img/湮灭约束球.png" width=24 />湮灭约束球 (16.875/1000)</li>
-        <li>发：<img src="img/位面熔炉.png" width=24 />位面熔炉 (9/2000)</li>
-        <li>收：<img src="img/单级磁石.png" width=24 />单级磁石 (135/1400)</li>
-        <li>发：<img src="img/蓄电池（满）.png" width=24 />蓄电池(满) (10/2000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/位面过滤器.png" width=24 />位面过滤器 (159.375/1000)</li>
-        <li>发：<img src="img/分拣器.png" width=24 />分拣器 (112.5/5000)</li>
-        <li>发：<img src="img/高速分拣器.png" width=24 />高速分拣器 (90/5000)</li>
-        <li>收：<img src="img/电动机.png" width=24 />电动机 (90/900)</li>
-        <li>发：<img src="img/人造恒星.png" width=24 />人造恒星 (1.875/1000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/超级磁场环.png" width=24 />超级磁场环 (581.25/2000)</li>
-        <li>发：<img src="img/电浆激发器.png" width=24 />电浆激发器 (168.75/1000)</li>
-        <li>发：<img src="img/分馏塔.png" width=24 />分馏塔 (18.75/2000)</li>
-        <li>发：<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II (15/2000)</li>
-        <li>发：<img src="img/抽水站.png" width=24 />抽水机 (14.0625/200)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III (中量/5000)</li>
-        <li>收：<img src="img/空间翘曲器.png" width=24 />空间翘曲器 (少量/1000)</li>
-        <li>收：<img src="img/玻璃.png" width=24 />玻璃 (641.7/6500)</li>
-        <li>发：<img src="img/棱镜.png" width=24 />棱镜 (281/2000)</li>
-        <li>收：<img src="img/电路板.png" width=24 />电路板 (572.25/5800)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>收：<img src="img/石材.png" width=24 />石材 (790.5/8000)</li>
-        <li>发：<img src="img/电力感应塔.png" width=24 />电力感应塔 (56.25/1000)</li>
-        <li>发：<img src="img/大型储物仓.png" width=24 />大型储物仓 (14.0625/100)</li>
-        <li>发：<img src="img/小型储物仓.png" width=24 />小型储物仓 (28.125/100)</li>
-        <li>发：<img src="img/地基.png" width=24 />地基 (56.25/5000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/卫星配电站.png" width=24 />卫星配电站 (9/200)</li>
-        <li>发：<img src="img/四向分流器.png" width=24 />四向分流器 (28.125/1000)</li>
-        <li>发：<img src="img/风力涡轮机.png" width=24 />风力涡轮机 (14.0625/1000)</li>
-        <li>发：<img src="img/火力发电站.png" width=24 />火力发电站 (11.25/200)</li>
-        <li>发：<img src="img/采矿机.png" width=24 />采矿机 (11.25/500)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/微型粒子对撞机.png" width=24 />微型粒子对撞机 (3.75/200)</li>
-        <li>发：<img src="img/微型聚变发电站.png" width=24 />微型聚变发电站 (5.625/200)</li>
-        <li>收：<img src="img/晶格硅.png" width=24 />晶格硅 (54/600)</li>
-        <li>收：<img src="img/铁块.png" width=24 />铁块 (1338.75/13400)</li>
-        <li>收：<img src="img/碳纳米管.png" width=24 />碳纳米管 (756/7600)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/引力透镜.png" width=24 />引力透镜 (30/300)</li>
-        <li>发：<img src="img/垂直发射井.png" width=24 />垂直发射井 (1.875/100)</li>
-        <li>收：<img src="img/光栅石.png" width=24 />光栅石 (90/900)</li>
-        <li>发：<img src="img/大型采矿机.png" width=24 />大型采矿机 (2.8125/200)</li>
-        <li>发：<img src="img/蓄电池.png" width=24 />蓄电池 (11.25/200)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III (11.25/2000)</li>
-        <li>发：<img src="img/量子化工厂.png" width=24 />量子化工厂 (4.5/500)</li>
-        <li>发：<img src="img/化工厂.png" width=24 />化工厂 (11.25/500)</li>
-        <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (300/3000)</li>
-        <li>发：<img src="img/量子芯片.png" width=24 />量子芯片 (75/2000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/磁铁.png" width=24 />磁铁 (1395/14000)</li>
-        <li>收：<img src="img/高能石墨.png" width=24 />高能石墨 (465/4700)</li>
-        <li>收：<img src="img/奇异物质.png" width=24 />奇异物质 (13.5/200)</li>
-        <li>收：<img src="img/粒子宽带.png" width=24 />粒子宽带 (90/900)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+|名称|位置|每分钟需求量|仓储数量|
+|---|---|---|---|
+|<img src="img/铁块.png" width=24 />铁块|6中|1604.25(157.5)|16100|
+|<img src="img/磁铁.png" width=24 />磁铁|5中|1755(270)|17600|
+|<img src="img/铜块.png" width=24 />铜块|1上|400.5(108)|4100|
+|<img src="img/石材.png" width=24 />石材|6下|790.5|8000|
+|<img src="img/玻璃.png" width=24 />玻璃|2中|1047(405)|10500|
+|<img src="img/硅块.png" width=24 />硅块|3中|457.5(90)|4600|
+|<img src="img/钛块.png" width=24 />钛块|4上|90|900|
+|<img src="img/齿轮.png" width=24 />齿轮|6中|677.25(90)|6800|
+|<img src="img/磁线圈.png" width=24 />磁线圈|6中|1449.75(675)|14500|
+|<img src="img/钢材.png" width=24 />钢材|6中|1747.125(553.875)|17500|
+|<img src="img/钛合金.png" width=24 />钛合金|3中|1306.5(375)|13100|
+|<img src="img/电路板.png" width=24 />电路板|6下|1034.25(450)|10400|
+|<img src="img/处理器.png" width=24 />处理器|3中|837.375(101.25)|8400|
+|<img src="img/电动机.png" width=24 />电动机|1下|207(117)|2100|
+|<img src="img/电磁涡轮.png" width=24 />电磁涡轮|5中|1710|17100|
+|<img src="img/微晶元件.png" width=24 />微晶元件|1下|75(45)|800|
+|<img src="img/石墨烯.png" width=24 />石墨烯|4下|195|2000|
+|<img src="img/高能石墨.png" width=24 />高能石墨|5中|585(90)|5900|
+|<img src="img/钛化玻璃.png" width=24 />钛化玻璃|2下|300(45)|3000|
+|<img src="img/光子合并器.png" width=24 />光子合并器|1中|176.25(90)|1800|
+|<img src="img/碳纳米管.png" width=24 />碳纳米管|2中|1116(360)|11200|
+|<img src="img/粒子容器.png" width=24 />粒子容器|3中|173.25(60.75)|1800|
+|<img src="img/奇异物质.png" width=24 />奇异物质|1上|19.125|200|
+|<img src="img/粒子宽带.png" width=24 />粒子宽带|3上|90|900|
+|<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体|2下|127.5|1300|
+|<img src="img/引力透镜.png" width=24 />引力透镜|3下|30|300|
+|<img src="img/动力引擎.png" width=24 />动力引擎|1下|180(157.5)|1800|
+|<img src="img/晶格硅.png" width=24 />晶格硅|5上|24|300|
+|<img src="img/光栅石.png" width=24 />光栅石|3下|90|900|
+|<img src="img/单级磁石.png" width=24 />单级磁石|1上|135|1400|
+
+##### 中间产品
+
+注：
+* 每分钟需求量：当[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)的需求量为负，即其产量超过其用量时，括号内的数值为负，但并不会扣减括号外的值。
+* 战争工厂最大需求量：战争工厂同时也会生产此类中间产品（每分钟需求量的括号内的值），但当其生产无法进行时，完全依赖于建筑工厂提供的值。`-`表示战争工厂不需要此产品。
+
+|名称|位置|每分钟产量|每分钟需求量|战争工厂最大需求量|仓储数量|
+|---|---|---|---|---|---|
+|<img src="img/电浆激发器.png" width=24 />电浆激发器|5中|168.75|167.25(2.25)|199.125|3700|
+|<img src="img/棱镜.png" width=24 />棱镜|6中|281.25|270(-22.5)|315|5700|
+|<img src="img/超级磁场环.png" width=24 />超级磁场环|5中|618.75|612.875(1.125)|113.625|7300|
+|<img src="img/框架材料.png" width=24 />框架材料|3下|225|220.5(0)|112.5|3400|
+|<img src="img/湮灭约束球.png" width=24 />湮灭约束球|3中|16.875|15|-|200|
+|<img src="img/量子芯片.png" width=24 />量子芯片|3上|75|75|-|800|
+|<img src="img/位面过滤器.png" width=24 />位面过滤器|1中|159.375|156|-|1600|
+|<img src="img/推进器.png" width=24 />推进器|2中|28.125|-|22.5|300|
+|<img src="img/加力推进器.png" width=24 />加力推进器|5上|46.875|45(-9)|31.5|700|
+
+##### 输出产品
+
+|名称|位置|每分钟产量|仓储数量|
+|---|---|---|---|
+|<img src="img/电力感应塔.png" width=24 />电力感应塔|5下|56.25|500|
+|<img src="img/无线输电塔.png" width=24 />无线输电塔|5下|15|100|
+|<img src="img/卫星配电站.png" width=24 />卫星配电站|5下|9|100|
+|<img src="img/太阳能板.png" width=24 />太阳能板|1中|9.375|1000|
+|<img src="img/风力涡轮机.png" width=24 />风力涡轮机|5下|14.0625|500|
+|<img src="img/火力发电站.png" width=24 />火力发电站|2中|11.25|100|
+|<img src="img/地热发电站.png" width=24 />地热发电站|1中|9.375|100|
+|<img src="img/微型聚变发电站.png" width=24 />微型聚变发电站|6上|5.625|100|
+|<img src="img/人造恒星.png" width=24 />人造恒星|3下|1.875|100|
+|<img src="img/射线接收站.png" width=24 />射线接收站|1中|7.03125|100|
+|<img src="img/能量枢纽.png" width=24 />能量枢纽|6上|3.75|100|
+|<img src="img/蓄电池（满）.png" width=24 />蓄电池（满）|4上|10|1000|
+|<img src="img/采矿机.png" width=24 />采矿机|2上|18.75|500|
+|<img src="img/抽水站.png" width=24 />抽水站|2下|14.0625|100|
+|<img src="img/原油萃取站.png" width=24 />原油萃取站|5上|7.03125|100|
+|<img src="img/原油精炼厂.png" width=24 />原油精炼厂|5上|9.375|100|
+|<img src="img/大型采矿机.png" width=24 />大型采矿机|4下|2.8125|100|
+|<img src="img/传送带.png" width=24 />传送带|2上|168.75|20000|
+|<img src="img/高速传送带.png" width=24 />高速传送带|4下|135|4000|
+|<img src="img/极速传送带.png" width=24 />极速传送带|4下|135|4000|
+|<img src="img/喷涂机.png" width=24 />喷涂机|1下|18.75|200|
+|<img src="img/流速监测器.png" width=24 />流速监测器|3上|28.125|100|
+|<img src="img/自动集装机.png" width=24 />自动集装机|6上|14.0625|6上|
+|<img src="img/四向分流器.png" width=24 />四向分流器|2上|28.125|500|
+|<img src="img/分拣器.png" width=24 />分拣器|2上|112.5|1000|
+|<img src="img/高速分拣器.png" width=24 />高速分拣器|2上|90|500|
+|<img src="img/极速分拣器.png" width=24 />极速分拣器|3上|90|500|
+|<img src="img/集装分拣器.png" width=24 />集装分拣器|4上|45|100|
+|<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I|5下|28.125|500|
+|<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II|4下|15|500|
+|<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III|3上|11.25|900|
+|<img src="img/电弧熔炉.png" width=24 />电弧熔炉|4中|18.75|500|
+|<img src="img/位面熔炉.png" width=24 />位面熔炉|1上|9|500|
+|<img src="img/微型粒子对撞机.png" width=24 />微型粒子对撞机|4中|3.75|100|
+|<img src="img/分馏塔.png" width=24 />分馏塔|4中|18.75|100|
+|<img src="img/化工厂.png" width=24 />化工厂|2下|11.25|100|
+|<img src="img/量子化工厂.png" width=24 />量子化工厂|1上|4.5|100|
+|<img src="img/矩阵研究站.png" width=24 />矩阵研究站|2下|18.75|100|
+|<img src="img/小型储物仓.png" width=24 />小型储物仓|6下|28.125|100|
+|<img src="img/大型储物仓.png" width=24 />大型储物仓|6下|14.0625|100|
+|<img src="img/储液罐.png" width=24 />储液罐|4中|28.125|100|
+|<img src="img/行星内物流运输站.png" width=24 />行星内物流运输站|2中|2.8125|100|
+|<img src="img/星际物流运输站.png" width=24 />星际物流运输站|4上|1.5|100|
+|<img src="img/轨道采集器.png" width=24 />轨道采集器|4上|1.5|100|
+|<img src="img/物流运输机.png" width=24 />物流运输机|5上||4000|
+|<img src="img/星际物流运输机.png" width=24 />星际物流运输机|6上|9.375|1000|
+|<img src="img/配送运输机.png" width=24 />配送运输机|1下|28.125|500|
+|<img src="img/物流配送器.png" width=24 />物流配送器|4中|7.03125|100|
+|<img src="img/电磁轨道弹射器.png" width=24 />电磁轨道弹射器|6上|9.375|200|
+|<img src="img/垂直发射井.png" width=24 />垂直发射井|3下|1.875|100|
+|<img src="img/地基.png" width=24 />地基|6下|56.25|20000|
+
+#### 接口区
+
+接口区位于设备右侧。
+
+接口区保留了扩展[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)，连接[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)的能力。
+
+当输出中间产物时，[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)优先供给产物给己方使用，超量的才会输出到接口区。
+
+注：
+* 名称未标记（无增产）的，均为已喷涂增产剂。
+* 位置标号自下而上，自底向上。
+* 设计值为原料充足时值。
+* 极限值为中间产品全部为[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)提供时的值（对于输出），或[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)生产的中间产物无需消耗时的值（对于输入）。`-`表示并非中间产物。
+
+|名称|位置|方向|设计值|极限值|
+|---|---|---|---|---|
+|<img src="img/空间翘曲器.png" width=24 />空间翘曲器（无增产）|1轨1层|输入|少量|-|
+|<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III|2轨2层|输入|中量|-|
+|<img src="img/玻璃.png" width=24 />玻璃|3轨3层|输出|405|-|
+|<img src="img/框架材料.png" width=24 />框架材料|3轨4层|输出|0|112.5|
+|<img src="img/处理器.png" width=24 />处理器|3轨5层|输出|0|101.25|
+|<img src="img/钛合金.png" width=24 />钛合金|3轨6层|输出|375|-|
+|<img src="img/超级磁场环.png" width=24 />超级磁场环|3轨7层|输出|1.125|113.625|
+|<img src="img/电磁涡轮.png" width=24 />电磁涡轮|3轨8层|输出|442.5|-|
+|<img src="img/硅块.png" width=24 />硅块|3轨9层|输出|90|-|
+|<img src="img/微晶元件.png" width=24 />微晶元件|3轨10层|输出|45|-|
+|<img src="img/动力引擎.png" width=24 />动力引擎|3轨11层|输出|157.5|-|
+|<img src="img/磁铁.png" width=24 />磁铁|3轨12层|输出|270|-|
+|<img src="img/高能石墨.png" width=24 />高能石墨|3轨13层|输出|90|-|
+|<img src="img/棱镜.png" width=24 />棱镜|3轨14层|输出|0|315|
+|<img src="img/钢材.png" width=24 />钢材（非增产）|3轨15层|输出|72|-|
+|<img src="img/无线输电塔.png" width=24 />无线输电塔|3轨16层|输出|少量|-|
+|<img src="img/铁块.png" width=24 />铁块|4轨2层|输出|157.5|-|
+|<img src="img/齿轮.png" width=24 />齿轮|4轨3层|输出|90|-|
+|<img src="img/钢材.png" width=24 />钢材|4轨4层|输出|481.875|-|
+|<img src="img/磁线圈.png" width=24 />磁线圈|4轨5层|输出|675|-|
+|<img src="img/电浆激发器.png" width=24 />电浆激发器|4轨6层|输出|2.25|199.125|
+|<img src="img/电路板.png" width=24 />电路板|4轨7层|输出|450|-|
+|<img src="img/粒子容器.png" width=24 />粒子容器|4轨8层|输出|60.75|-|
+|<img src="img/光子合并器.png" width=24 />光子合并器|4轨9层|输出|90|-|
+|<img src="img/碳纳米管.png" width=24 />碳纳米管|4轨10层|输出|360|-|
+|<img src="img/电动机.png" width=24 />电动机|4轨11层|输出|117|-|
+|<img src="img/钛化玻璃.png" width=24 />钛化玻璃|4轨12层|输出|45|-|
+|<img src="img/加力推进器.png" width=24 />加力推进器|4轨13层|输出|0|31.5|
+|<img src="img/铜块.png" width=24 />铜块|4轨14层|输出|108|-|
+|<img src="img/奇异物质.png" width=24 />奇异物质|4轨15层|输出|5.625|-|
+|<img src="img/棱镜.png" width=24 />棱镜|5轨2层|输入|22.5|337.5|
+|<img src="img/电浆激发器.png" width=24 />电浆激发器|5轨3层|输入|0|196.875|
+|<img src="img/超级磁场环.png" width=24 />超级磁场环|5轨4层|输入|0|112.5|
+|<img src="img/加力推进器.png" width=24 />加力推进器|5轨5层|输入|6|37.5|
+|<img src="img/框架材料.png" width=24 />框架材料|5轨6层|输入|0|112.5|
+
+设备左侧有溢出区，溢出<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
+
+#### [战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)
+
+* 使用了4个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出战争所需建筑、无人机、舰队，以及部分配套物资。
+* 包括防御类武器、无人机、舰队。
+* 不包括弹药。
+* 每个<img src="img/星际物流运输站.png" width=24 />星际物流运输站设置为使用10架<img src="img/星际物流运输机.png" width=24 />星际物流运输机；除右下角外，输出货物集装数量为1；右下角设置输出货物集装数量为使用科技上限。
+* 部署时需要准备40架<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
+* 包括<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
+* 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I以降低功耗。
+* 关于增产剂：
+  * 对可以使用增产剂增产的组件，使用增产剂。
+  * 对只能设置为加速的组件，不使用增产剂。
+  * 建议选择<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III以达到设计效率。
+  * 建议对<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III喷涂增产剂以减少用量。
+  * 无需对其它原料预先喷涂增产剂。
+* 通过扩展连接至[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)。
+* 中间产物（由本蓝图内生产，作为蓝图内其它产物的原料；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产物的原料；例如<img src="img/原型机.png" width=24 />原型机）：
+  * 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量加之自接口获得的量，不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的1级制作台的数量）：
+    * <img src="img/电浆激发器.png" width=24 />电浆激发器（7）
+    * <img src="img/棱镜.png" width=24 />棱镜（6）
+    * <img src="img/超级磁场环.png" width=24 />超级磁场环（7）
+    * <img src="img/框架材料.png" width=24 />框架材料（12）
+    * <img src="img/加力推进器.png" width=24 />加力推进器（4）
+  * 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物还包括<img src="img/原型机.png" width=24 />原型机。
+* 全部产物采用1个<img src="img/制造台Mk.I.png" width=24 />制作台Mk.I满量生产。需要前置建筑的建筑生产过程中，如前置建筑储存量不足，则生产速度会受制于前置建筑的提供速度。例如：如<img src="img/无线输电塔.png" width=24 />无线输电塔提供量不足，<img src="img/信号塔.png" width=24 />信号塔的生产速度受制于<img src="img/无线输电塔.png" width=24 />无线输电塔的提供速度。
+* 下文中：
+  * 位置为储存对应物料的星际物流运输站。以接口区为左侧、输出产品生产区为右侧。自左向右标号为1-2；自上向下标为上下。
+  * 每分钟需求量指生产过程满负荷时的需求量。
+  * 每分钟产量指当所需原料充足时，对应的最大产量。
+  * 原料与中间产品的仓储数量，为满足最大生产时每分钟需求量的10倍向上100对齐。使用者可以自行调整这些数量。
+  * 输出产品仓储数量，综合考虑了单次使用的最方便数量与生产连续性。
+    * 单次使用指当需要时，单次申请运输提供的数量应满足需求量，且不会超量太多。
+    * 生产连续性是指防止后续建筑需要太多，导致过程中生产的建筑长期无法保存。例如在生产<img src="img/信号塔.png" width=24 />信号塔，需要消耗<img src="img/无线输电塔.png" width=24 />无线输电塔，导致后者库存无法增加。如前者的储量设置过大，会导致后者库存长期无法增加。
+    * 使用者可以自行调整这些数量。
+
+##### 输入原料
+
+|名称|位置|每分钟需求量|仓储数量|
+|---|---|---|---|
+|<img src="img/晶格硅.png" width=24 />晶格硅|2下|45|500|
+|<img src="img/金刚石.png" width=24 />金刚石|2下|54|600|
+|<img src="img/空间翘曲器.png" width=24 />空间翘曲器|2下|少量|1000|
+|<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III|2下|中量|4000|
+
+##### 中间产品
+
+|名称|每分钟产量|每分钟需求量|
+|<img src="img/电浆激发器.png" width=24 />电浆激发器|196.875|199.125|
+|<img src="img/棱镜.png" width=24 />棱镜|337.5|315|
+|<img src="img/超级磁场环.png" width=24 />超级磁场环|112.5|113.625|
+|<img src="img/框架材料.png" width=24 />框架材料|112.5|112.5|
+|<img src="img/加力推进器.png" width=24 />加力推进器|37.5|31.5|
+
+##### 输出产品
+
+|名称|位置|每分钟产量|仓储数量|
+|---|---|---|---|
+|<img src="img/高斯机枪塔.png" width=24 />高斯机枪塔|2上|14.0625|200|
+|<img src="img/导弹防御塔.png" width=24 />导弹防御塔|2上|9.375|200|
+|<img src="img/聚爆加农炮.png" width=24 />聚爆加农炮|2上|11.25|200|
+|<img src="img/高频激光塔.png" width=24 />高频激光塔|1下|9.375|200|
+|<img src="img/磁化电浆炮.png" width=24 />磁化电浆炮|1下|5.625|100|
+|<img src="img/近程电浆塔.png" width=24 />近程电浆塔|1上|7.03125|200|
+|<img src="img/战场分析基站.png" width=24 />战场分析基站|2上|9.375|100|
+|<img src="img/干扰塔.png" width=24 />干扰塔|1下|11.25|200|
+|<img src="img/信号塔.png" width=24 />信号塔|1下|7.5|200|
+|<img src="img/行星护盾发生器.png" width=24 />行星护盾发生器|2上|5.625|100|
+|<img src="img/原型机.png" width=24 />原型机|1下|28.125|500|
+|<img src="img/精准无人机.png" width=24 />精准无人机|1上|14.0625|500|
+|<img src="img/攻击无人机.png" width=24 />攻击无人机|1上|14.0625|500|
+|<img src="img/护卫舰.png" width=24 />护卫舰|1上|11.25|200|
+|<img src="img/驱逐舰.png" width=24 />驱逐舰|1上|7.03125|100|
+
+#### 部署
+
+将[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)、[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)的接口位置对齐后放置。
+
+* 在放置[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)时，蓝线位置与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)最右侧的输送线留有一个空位。
+* 两者的上下方的星际物流运输站在同一个水平位置。
+* 连接用的输送线的图标会重叠。
+* 放置蓝图时不会提醒与其他物体碰撞。
+
+此时，接口将自动完成连接。
+
+#### [黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)
+（待整理下文内容、建立excel文件、建立存档）
+
+##### 输入原料
+
+
+##### 中间产品
+
+
+##### 输出产品
+
+
 
 ### [黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)
 
@@ -2353,118 +2462,6 @@
         <li>收：<img src="img/负熵奇点.png" width=24 />负熵奇点 (75/20000)</li>
         <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (285/2000)</li>
         <li>收：<img src="img/处理器.png" width=24 />处理器 (178.125/2000)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### [战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)
-
-#### 特色
-
-* 使用了9个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出战争所需建筑、无人机、舰队，以及部分配套物资。
-* 包括防御类武器、无人机、舰队。
-* 包括<img src="img/物流配送器.png" width=24 />物流配送器与<img src="img/配送运输机.png" width=24 />配送运输机。
-* 不包括弹药。
-* 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I以降低功耗。
-* 对可以使用增产剂增产的组件，使用增产剂。
-* 不使用加速。
-* 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的1级制作台的数量）：
-  * <img src="img/电浆激发器.png" width=24 />电浆激发器（4）
-  * <img src="img/棱镜.png" width=24 />棱镜（4）
-  * <img src="img/超级磁场环.png" width=24 />超级磁场环（5）
-  * <img src="img/框架材料.png" width=24 />框架材料（15）
-  * <img src="img/加力推进器.png" width=24 />加力推进器（4）
-* 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物还包括原型机。
-* 全部产物采用1个<img src="img/制造台Mk.I.png" width=24 />制作台Mk.I满量生产。
-
-#### 星际物流运输站的物料设置清单
-括号中第一个数量为每分钟的产量（包括被作为后续产物的零件的份额）或用量，第二个数量为设置的存量。
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>收：<img src="img/钢材.png" width=24 />钢材 (469.5/4700)</li>
-        <li>收：<img src="img/晶格硅.png" width=24 />晶格硅 (45/500)</li>
-        <li>收：<img src="img/无线输电塔.png" width=24 />无线输电塔 (15/200)</li>
-        <li>发：<img src="img/信号塔.png" width=24 />信号塔 (7.5/200)</li>
-        <li>收：<img src="img/电动机.png" width=24 />电动机 (117/1200)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/导弹防御塔.png" width=24 />导弹防御塔 (9.375/1000)</li>
-        <li>发：<img src="img/聚爆加农炮.png" width=24 />聚爆加农炮 (11.25/1000)</li>
-        <li>发：<img src="img/高频激光塔.png" width=24 />高频激光塔 (9.375/1000)</li>
-        <li>发：<img src="img/战场分析基站.png" width=24 />战场分析基站 (9.375/200)</li>
-        <li>发：<img src="img/行星护盾发生器.png" width=24 />行星护盾发生器 (5.625/200)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/微晶元件.png" width=24 />微晶元件 (45/500)</li>
-        <li>发：<img src="img/精准无人机.png" width=24 />精准无人机 (14.0625/2000)</li>
-        <li>发：<img src="img/攻击无人机.png" width=24 />攻击无人机 (14.0625/2000)</li>
-        <li>发：<img src="img/配送运输机.png" width=24 />配送运输机 (28.125/2000)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>发：<img src="img/框架材料.png" width=24 />框架材料 (140.625/2000)</li>
-        <li>收：<img src="img/玻璃.png" width=24 />玻璃 (270/2700)</li>
-        <li>发：<img src="img/棱镜.png" width=24 />棱镜 (225/2000)</li>
-        <li>收：<img src="img/磁线圈.png" width=24 />磁线圈 (405/4100)</li>
-        <li>收：<img src="img/粒子容器.png" width=24 />粒子容器 (60.75/700)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/电浆激发器.png" width=24 />电浆激发器 (112.5/2000)</li>
-        <li>收：<img src="img/磁铁.png" width=24 />磁铁 (225/2300)</li>
-        <li>收：<img src="img/高能石墨.png" width=24 />高能石墨 (75/800)</li>
-        <li>发：<img src="img/超级磁场环.png" width=24 />超级磁场环 (93.75/1000)</li>
-        <li>收：<img src="img/电路板.png" width=24 />电路板 (450/4500)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/原型机.png" width=24 />原型机 (28.125/1000)</li>
-        <li>收：<img src="img/齿轮.png" width=24 />齿轮 (90/900)</li>
-        <li>收：<img src="img/光子合并器.png" width=24 />光子合并器 (90/900)</li>
-        <li>发：<img src="img/高斯机枪塔.png" width=24 />高斯机枪塔 (14.0625/2000)</li>
-        <li>发：<img src="img/物流配送器.png" width=24 />物流配送器 (7.03125/2000)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>收：<img src="img/硅块.png" width=24 />硅块 (112.5/1200)</li>
-        <li>收：<img src="img/钛合金.png" width=24 />钛合金 (397.5/4000)</li>
-        <li>收：<img src="img/碳纳米管.png" width=24 />碳纳米管 (450/4500)</li>
-        <li>收：<img src="img/空间翘曲器.png" width=24 />空间翘曲器 (少量/200)</li>
-        <li>收：<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III (中量/2000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/电磁涡轮.png" width=24 />电磁涡轮 (412.5/4200)</li>
-        <li>发：<img src="img/加力推进器.png" width=24 />加力推进器 (37.5/2000)</li>
-        <li>收：<img src="img/动力引擎.png" width=24 />动力引擎 (180/1800)</li>
-        <li>收：<img src="img/处理器.png" width=24 />处理器 (119.25/1200)</li>
-        <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (45/500)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/奇异物质.png" width=24 />奇异物质 (5.625/100)</li>
-        <li>收：<img src="img/铁块.png" width=24 />铁块 (247.5/2500)</li>
-        <li>发：<img src="img/磁化电浆炮.png" width=24 />磁化电浆炮 (5.625/500)</li>
-        <li>发：<img src="img/护卫舰.png" width=24 />护卫舰 (11.25/2000)</li>
-        <li>发：<img src="img/驱逐舰.png" width=24 />驱逐舰 (7.03125/2000)</li>
       </ul>
     </td>
   </tr>
