@@ -28,7 +28,7 @@
 ## 单纯使用熔炉
 <table>
   <tr>
-    <th colspan="4">产物</th>
+    <th colspan="4">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -205,7 +205,7 @@
 ## 单纯使用制造台
 <table>
   <tr>
-    <th colspan="3">产物</th>
+    <th colspan="3">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -544,7 +544,7 @@
 
 <table>
   <tr>
-    <th colspan="3">产物</th>
+    <th colspan="3">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -733,7 +733,7 @@
     <td rowspan="6">900</td>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
     <td>360</td>
-    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产品喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/重氢.png" width=24 />重氢</td>
@@ -1041,7 +1041,7 @@
     <td rowspan="6">1800</td>
     <td><img src="img/导弹组.png" width=24 />导弹组</td>
     <td>1440(4层)</td>
-    <td rowspan="6">需增产。<br />使用制造台Mk.II2个。<br />输入增产剂用于中间产物喷涂。</td>
+    <td rowspan="6">需增产。<br />使用制造台Mk.II2个。<br />输入增产剂用于中间产品喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/处理器.png" width=24 />处理器</td>
@@ -1193,7 +1193,7 @@
     <td rowspan="5">900</td>
     <td><img src="img/玻璃.png" width=24 />玻璃</td>
     <td>1382.4(2层)</td>
-    <td rowspan="5">需增产。<br />输入增产剂用于中间产物喷涂。<br />同时使用了2个<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。</td>
+    <td rowspan="5">需增产。<br />输入增产剂用于中间产品喷涂。<br />同时使用了2个<img src="img/制造台Mk.II.png" width=24 />制造台Mk.II。</td>
   </tr>
   <tr>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
@@ -1217,7 +1217,7 @@
     <td rowspan="6">450</td>
     <td><img src="img/干扰胶囊.png" width=24 />干扰胶囊</td>
     <td>360</td>
-    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产品喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
@@ -1245,7 +1245,7 @@
     <td rowspan="6">2250</td>
     <td><img src="img/干扰胶囊.png" width=24 />干扰胶囊</td>
     <td>1800</td>
-    <td rowspan="6">需增产。<br />输入增产剂用于中间产物喷涂。<br />其中磁铁分2路提供，<br />分别为1620、540。<br />其中输出分2路提供，<br />分别为450、1800。</td>
+    <td rowspan="6">需增产。<br />输入增产剂用于中间产品喷涂。<br />其中磁铁分2路提供，<br />分别为1620、540。<br />其中输出分2路提供，<br />分别为450、1800。</td>
   </tr>
   <tr>
     <td><img src="img/钛化玻璃.png" width=24 />钛化玻璃</td>
@@ -1303,7 +1303,7 @@
   <tr>
     <th rowspan="2">配方</th>
     <th colspan="2">原料</th>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
@@ -1342,7 +1342,7 @@
 
 <table>
   <tr>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -1372,7 +1372,7 @@
 
 <table>
   <tr>
-    <th colspan="3">产物</th>
+    <th colspan="3">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -1609,7 +1609,7 @@
   <tr>
     <th colspan="2">配方</th>
     <th colspan="2">原料</th>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
@@ -1651,7 +1651,7 @@
 
 <table>
   <tr>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -1689,7 +1689,7 @@
   <tr>
     <th rowspan="2">配方</th>
     <th colspan="2">原料</th>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th rowspan="2">备注</th>
   </tr>
   <tr>
@@ -1728,7 +1728,7 @@
 
 <table>
   <tr>
-    <th colspan="2">产物</th>
+    <th colspan="2">产品</th>
     <th colspan="2">原料</th>
     <th rowspan="2">备注</th>
   </tr>
@@ -1743,7 +1743,7 @@
     <td rowspan="5">360</td>
     <td><img src="img/临界光子.png" width=24 />临界光子</td>
     <td>2160(4层)</td>
-    <td rowspan="5">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产物喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
+    <td rowspan="5">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产品喷涂。<br />质能储存与反物质燃料棒生产采用加速模式。</td>
   </tr>
   <tr>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
@@ -1804,7 +1804,7 @@
     <td rowspan="12">75</td>
     <td><img src="img/处理器.png" width=24 />处理器</td>
     <td>480</td>
-    <td rowspan="12">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产物喷涂。</td>
+    <td rowspan="12">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />输入增产剂用于中间产品喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/钛合金.png" width=24 />钛合金</td>
@@ -1970,7 +1970,7 @@
     <td rowspan="13">375</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
     <td>240</td>
-    <td rowspan="13">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。<br />输入增产剂用于中间产物喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
+    <td rowspan="13">需增产。<br />使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III。<br />使用<img src="img/矩阵研究站.png" width=24 />矩阵研究站。<br />输入增产剂用于中间产品喷涂。<br />同侧指输出的宇宙矩阵与输入原料在设施同侧；<br />对侧指输出的宇宙矩阵与输入原料在设施两侧。</td>
   </tr>
   <tr>
     <td><img src="img/电路板.png" width=24 />电路板</td>
@@ -2025,7 +2025,7 @@
     <td rowspan="13">1125</td>
     <td><img src="img/磁线圈.png" width=24 />磁线圈</td>
     <td>720(4层)</td>
-    <td rowspan="13">自带增产。<br />使用<img src="img/重组式制造台.png" width=24 />重组式制造台。<br />使用<img src="img/自演化研究站.png" width=24 />自演化研究站。<br />输入增产剂用于原料、中间产物、最终产物喷涂。</td>
+    <td rowspan="13">自带增产。<br />使用<img src="img/重组式制造台.png" width=24 />重组式制造台。<br />使用<img src="img/自演化研究站.png" width=24 />自演化研究站。<br />输入增产剂用于原料、中间产品、最终产品喷涂。</td>
   </tr>
   <tr>
     <td><img src="img/电路板.png" width=24 />电路板</td>
@@ -2099,7 +2099,7 @@
 |名称|特性|
 |---|---|
 |[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)|提供无敌对势力时游戏所需的所有建筑与<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。配有与[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)对接所需的接口区。需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。|
-|[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)|提供对抗敌对势力所需的附加建筑、无人机、舰队，不含弹药。通过对接所需的接口区，与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)连接，获取材料、放置中间产物，同时提供空间翘曲器、增产剂Mk.III。|
+|[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)|提供对抗敌对势力所需的附加建筑、无人机、舰队，不含弹药。通过对接所需的接口区，与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)连接，获取材料、放置中间产品，同时提供空间翘曲器、增产剂Mk.III。|
 |[黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)|提供对需要黑雾掉落材料才可以生产的建筑。|
 
 如果在部署时发生冲突问题，可加载[此存档文件](Doc/constructions%20building.dsv?raw=1)参考。
@@ -2120,7 +2120,7 @@
 * 需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。单独部署时，需要将<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III的源头连接到接口区。与[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)联合部署时可自行对接。
 * 提供扩展连接[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)所需的接口区。当无需在后续连接到[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)时，可自行级联删除接口区输送线，不会影响系统逻辑。
 * 输出剩余的<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
-* 中间产物（由本蓝图内生产，作为蓝图内其它产物的原料或者输出到接口区；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产物的原料或者输出到接口区；例如<img src="img/传送带.png" width=24 />传送带）：
+* 中间产品（由本蓝图内生产，作为蓝图内其它产品的原料或者输出到接口区；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产品的原料或者输出到接口区；例如<img src="img/传送带.png" width=24 />传送带）：
   * 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I的数量）：
     * <img src="img/电浆激发器.png" width=24 />电浆激发器（6）
     * <img src="img/棱镜.png" width=24 />棱镜（5）
@@ -2131,7 +2131,7 @@
     * <img src="img/位面过滤器.png" width=24 />位面过滤器（34）
     * <img src="img/推进器.png" width=24 />推进器（2）
     * <img src="img/加力推进器.png" width=24 />加力推进器（5）
-  * 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物包括：
+  * 所有零件与中间产品，将被优先用于后续生产。除上述零件，中间产品包括：
     * <img src="img/电力感应塔.png" width=24 />电力感应塔
     * <img src="img/无线输电塔.png" width=24 />无线输电塔
     * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)
@@ -2146,7 +2146,7 @@
     * <img src="img/化工厂.png" width=24 />化工厂
     * <img src="img/行星内物流运输站.png" width=24 />行星内物流运输站
     * <img src="img/星际物流运输站.png" width=24 />星际物流运输站
-* 几乎全部（除零件、<img src="img/蓄电池.png" width=24 />蓄电池、<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)、<img src="img/分拣器.png" width=24 />分拣器、<img src="img/轨道采集器.png" width=24 />轨道采集器）产物采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。
+* 几乎全部（除零件、<img src="img/蓄电池.png" width=24 />蓄电池、<img src="img/蓄电池（满）.png" width=24 />蓄电池(满)、<img src="img/分拣器.png" width=24 />分拣器、<img src="img/轨道采集器.png" width=24 />轨道采集器）输出产品采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。
   * <img src="img/蓄电池.png" width=24 />蓄电池虽然采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I生产，但受制于<img src="img/能量枢纽.png" width=24 />能量枢纽充能速度，无需达到满效率生产，而只需匹配后者的速度。
   * <img src="img/蓄电池（满）.png" width=24 />蓄电池(满)采用1个<img src="img/能量枢纽.png" width=24 />能量枢纽充能。
   * <img src="img/分拣器.png" width=24 />分拣器采用2个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I生产。
@@ -2162,6 +2162,9 @@
     * 生产连续性是指防止后续建筑需要太多，导致过程中生产的建筑长期无法保存。例如在生产<img src="img/极速分拣器.png" width=24 />极速分拣器时，需要消耗<img src="img/高速分拣器.png" width=24 />高速分拣器，导致后者库存无法增加。如前者的储量设置过大，会导致后者库存长期无法增加。
     * 使用者可以自行调整这些数量。
 
+<details>
+  <summary>输入原料</summary>
+  
 ##### 输入原料
 
 |名称|位置|每分钟需求量|仓储数量|
@@ -2197,6 +2200,11 @@
 |<img src="img/光栅石.png" width=24 />光栅石|3下|90|900|
 |<img src="img/单级磁石.png" width=24 />单级磁石|1上|135|1400|
 
+</details>
+
+<details>
+  <summary>中间产品</summary>
+
 ##### 中间产品
 
 注：
@@ -2215,6 +2223,11 @@
 |<img src="img/推进器.png" width=24 />推进器|2中|28.125|-|22.5|300|
 |<img src="img/加力推进器.png" width=24 />加力推进器|5上|46.875|45(-9)|31.5|700|
 
+</details>
+
+<details>
+  <summary>输出产品</summary>
+  
 ##### 输出产品
 
 |名称|位置|每分钟产量|仓储数量|
@@ -2271,19 +2284,24 @@
 |<img src="img/垂直发射井.png" width=24 />垂直发射井|3下|1.875|100|
 |<img src="img/地基.png" width=24 />地基|6下|56.25|20000|
 
-#### 接口区
+</details>
+
+<details>
+  <summary>接口区</summary>
+  
+##### 接口区
 
 接口区位于设备右侧。
 
 接口区保留了扩展[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)，连接[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)的能力。
 
-当输出中间产物时，[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)优先供给产物给己方使用，超量的才会输出到接口区。
+当输出中间产品时，[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)优先供给产品给己方使用，超量的才会输出到接口区。
 
 注：
 * 名称未标记（无增产）的，均为已喷涂增产剂。
 * 位置标号自下而上，自底向上。
 * 设计值为原料充足时值。
-* 极限值为中间产品全部为[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)提供时的值（对于输出），或[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)生产的中间产物无需消耗时的值（对于输入）。`-`表示并非中间产物。
+* 极限值为中间产品全部为[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)提供时的值（对于输出），或[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)生产的中间产品无需消耗时的值（对于输入）。`-`表示并非中间产品。
 
 |名称|位置|方向|设计值|极限值|
 |---|---|---|---|---|
@@ -2325,6 +2343,8 @@
 
 设备左侧有溢出区，溢出<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
 
+</details>
+
 #### [战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)
 
 * 使用了4个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料制作出战争所需建筑、无人机、舰队，以及部分配套物资。
@@ -2341,15 +2361,15 @@
   * 建议对<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III喷涂增产剂以减少用量。
   * 无需对其它原料预先喷涂增产剂。
 * 通过扩展连接至[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)。
-* 中间产物（由本蓝图内生产，作为蓝图内其它产物的原料；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产物的原料；例如<img src="img/原型机.png" width=24 />原型机）：
+* 中间产品（由本蓝图内生产，作为蓝图内其它产品的原料；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产品的原料；例如<img src="img/原型机.png" width=24 />原型机）：
   * 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量加之自接口获得的量，不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的1级制作台的数量）：
     * <img src="img/电浆激发器.png" width=24 />电浆激发器（7）
     * <img src="img/棱镜.png" width=24 />棱镜（6）
     * <img src="img/超级磁场环.png" width=24 />超级磁场环（7）
     * <img src="img/框架材料.png" width=24 />框架材料（12）
     * <img src="img/加力推进器.png" width=24 />加力推进器（4）
-  * 所有零件与中间产物，将被优先用于后续生产。除上述零件，中间产物还包括<img src="img/原型机.png" width=24 />原型机。
-* 全部产物采用1个<img src="img/制造台Mk.I.png" width=24 />制作台Mk.I满量生产。需要前置建筑的建筑生产过程中，如前置建筑储存量不足，则生产速度会受制于前置建筑的提供速度。例如：如<img src="img/无线输电塔.png" width=24 />无线输电塔提供量不足，<img src="img/信号塔.png" width=24 />信号塔的生产速度受制于<img src="img/无线输电塔.png" width=24 />无线输电塔的提供速度。
+  * 所有零件与中间产品，将被优先用于后续生产。除上述零件，中间产品还包括<img src="img/原型机.png" width=24 />原型机。
+* 全部输出产品采用1个<img src="img/制造台Mk.I.png" width=24 />制作台Mk.I满量生产。需要前置建筑的建筑生产过程中，如前置建筑储存量不足，则生产速度会受制于前置建筑的提供速度。例如：如<img src="img/无线输电塔.png" width=24 />无线输电塔提供量不足，<img src="img/信号塔.png" width=24 />信号塔的生产速度受制于<img src="img/无线输电塔.png" width=24 />无线输电塔的提供速度。
 * 可参考此[Excel文档](Doc/战争工厂建筑.xlsx?raw=1)获得具体数据信息。
 * 下文中：
   * 位置为储存对应物料的星际物流运输站。以接口区为左侧、输出产品生产区为右侧。自左向右标号为1-2；自上向下标为上下。
@@ -2361,6 +2381,9 @@
     * 生产连续性是指防止后续建筑需要太多，导致过程中生产的建筑长期无法保存。例如在生产<img src="img/信号塔.png" width=24 />信号塔，需要消耗<img src="img/无线输电塔.png" width=24 />无线输电塔，导致后者库存无法增加。如前者的储量设置过大，会导致后者库存长期无法增加。
     * 使用者可以自行调整这些数量。
 
+<details>
+  <summary>输入原料</summary>
+
 ##### 输入原料
 
 |名称|位置|每分钟需求量|仓储数量|
@@ -2369,6 +2392,11 @@
 |<img src="img/金刚石.png" width=24 />金刚石|2下|54|600|
 |<img src="img/空间翘曲器.png" width=24 />空间翘曲器|2下|少量|1000|
 |<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III|2下|中量|4000|
+
+</details>
+
+<details>
+  <summary>中间产品</summary>
 
 ##### 中间产品
 
@@ -2379,6 +2407,11 @@
 |<img src="img/超级磁场环.png" width=24 />超级磁场环|112.5|113.625|
 |<img src="img/框架材料.png" width=24 />框架材料|112.5|112.5|
 |<img src="img/加力推进器.png" width=24 />加力推进器|37.5|31.5|
+
+</details>
+
+<details>
+  <summary>输出产品</summary>
 
 ##### 输出产品
 
@@ -2400,7 +2433,9 @@
 |<img src="img/护卫舰.png" width=24 />护卫舰|1上|11.25|200|
 |<img src="img/驱逐舰.png" width=24 />驱逐舰|1上|7.03125|100|
 
-#### 部署
+</details>
+
+##### 部署
 
 将[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)、[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)的接口位置对齐后放置。
 
@@ -2412,65 +2447,73 @@
 此时，接口将自动完成连接。
 
 #### [黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)
-（待整理下文内容、建立excel文件、建立存档）
+
+* 使用了3个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，自常见材料与待升级建筑制作出全部建筑，以及部分配套物资。
+* 每个<img src="img/星际物流运输站.png" width=24 />星际物流运输站设置为使用10架<img src="img/星际物流运输机.png" width=24 />星际物流运输机，输出货物集装数量为使用科技上限。
+* 部署时需要准备30架<img src="img/星际物流运输机.png" width=24 />星际物流运输机。
+* 关于增产剂：
+  * 对可以使用增产剂增产的组件（<img src="img/量子芯片.png" width=24 />量子芯片、<img src="img/位面过滤器.png" width=24 />位面过滤器），使用增产剂。
+  * 对只能设置为加速的组件，不使用增产剂。
+  * 建议选择<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III以达到设计效率。
+  * 建议对<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III喷涂增产剂以减少用量。
+  * 无需对其它原料预先喷涂增产剂。
+* 需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
+* 中间产品（由本蓝图内生产，作为蓝图内其它产品的原料）只使用大量生产的常规零件，非常用零件自行生产。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III的数量）：
+    * <img src="img/量子芯片.png" width=24 />量子芯片（6）：可提供富余的零件。
+    * <img src="img/位面过滤器.png" width=24 />位面过滤器（19）：仅供内部使用。
+* 全部输出产品采用1个<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I满量生产。需要前置建筑的建筑生产过程中，如前置建筑储存量不足，则生产速度会受制于前置建筑的提供速度。
+* 下文中：
+  * 位置为储存对应物料的星际物流运输站。以<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III输入区为左侧、输出产品制作区为右侧。自左向右标号为1-3。
+  * 每分钟需求量指生产过程满负荷时的需求量。
+  * 每分钟产量指当所需原料充足时，对应的最大产量。
+  * 原料与中间产品的仓储数量，使用者可以自行调整。
+  * 输出产品仓储数量，综合考虑了单次使用的最方便数量。当需要时，单次申请运输提供的数量应满足需求量，且不会超量太多。使用者可以自行调整这些数量。
+
+<details>
+  <summary>输入原料</summary>
 
 ##### 输入原料
 
+|名称|位置|每分钟需求量|仓储数量|
+|---|---|---|---|
+|<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体|1|94.08|1500|
+|<img src="img/钛化玻璃.png" width=24 />钛化玻璃|1|188.16|2000|
+|<img src="img/处理器.png" width=24 />处理器|1|177.6|2000|
+|<img src="img/位面熔炉.png" width=24 />位面熔炉|1|7.5|500|
+|<img src="img/负熵奇点.png" width=24 />负熵奇点|1|75|20000|
+|<img src="img/能量碎片.png" width=24 />能量碎片|2|495|20000|
+|<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III|3|9|500|
+|<img src="img/物质重组器.png" width=24 />物质重组器|2|90|20000|
+|<img src="img/矩阵研究站.png" width=24 />矩阵研究站|3|11.25|100|
+|<img src="img/硅基神经元.png" width=24 />硅基神经元|3|112.5|20000|
+|<img src="img/黑雾矩阵.png" width=24 />黑雾矩阵|3|225|20000|
+
+</details>
+
+<details>
+  <summary>中间产品</summary>
 
 ##### 中间产品
 
+|名称|每分钟产量|每分钟需求量|仓储位置|仓储数量|
+|---|---|---|---|
+|<img src="img/位面过滤器.png" width=24 />位面过滤器|177.6（以设备能力计算178.125）|177.6|不储存|不储存|
+|<img src="img/量子芯片.png" width=24 />量子芯片|111.328（以位面过滤器产量计算）|111|2|1000|
+
+</details>
+
+<details>
+  <summary>输出产品</summary>
 
 ##### 输出产品
 
+|名称|位置|每分钟产量|仓储数量|
+|---|---|---|---|
+|<img src="img/负熵熔炉.png" width=24 />负熵熔炉|2|7.5|500|
+|<img src="img/重组式制造台.png" width=24 />重组式制造台|2|9|500|
+|<img src="img/自演化研究站.png" width=24 />自演化研究站|3|11.25|500|
 
-
-### [黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)
-
-#### 特色
-
-* 使用了3个<img src="img/星际物流运输站.png" width=24 />星际物流运输站，制作出<img src="img/自演化研究站.png" width=24 />自演化研究站、<img src="img/负熵熔炉.png" width=24 />负熵熔炉、<img src="img/重组式制造台.png" width=24 />重组式制造台。
-* 需要另外输入<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III以及<img src="img/空间翘曲器.png" width=24 />空间翘曲器。
-* 使用<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I制作上述三种建筑。
-* 使用<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III制作<img src="img/量子芯片.png" width=24 />量子芯片、<img src="img/位面过滤器.png" width=24 />位面过滤器。
-* 不使用加速。
-* 制作<img src="img/量子芯片.png" width=24 />量子芯片、<img src="img/位面过滤器.png" width=24 />位面过滤器时使用增产剂增产。
-* 零件生产量不小于所有建筑同时满量生产时所需的总用量。
-* <img src="img/量子芯片.png" width=24 />量子芯片将被优先用于后续生产。
-
-#### 星际物流运输站的物料设置清单
-括号中第一个数量为每分钟的产量（包括被作为后续产物的零件的份额）或用量，第二个数量为设置的存量。
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>收：<img src="img/矩阵研究站.png" width=24 />矩阵研究站 (11.25/100)</li>
-        <li>收：<img src="img/硅基神经元.png" width=24 />硅基神经元 (112.5/20000)</li>
-        <li>收：<img src="img/黑雾矩阵.png" width=24 />黑雾矩阵 (225/20000)</li>
-        <li>发：<img src="img/自演化研究站.png" width=24 />自演化研究站 (11.25/1000)</li>
-        <li>收：<img src="img/制造台Mk.III.png" width=24 />制造台Mk.III (9/500)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>发：<img src="img/量子芯片.png" width=24 />量子芯片 (111.328125/1000)</li>
-        <li>收：<img src="img/能量碎片.png" width=24 />能量碎片 (495/20000)</li>
-        <li>发：<img src="img/负熵熔炉.png" width=24 />负熵熔炉 (7.5/2000)</li>
-        <li>收：<img src="img/物质重组器.png" width=24 />物质重组器 (90/20000)</li>
-        <li>发：<img src="img/重组式制造台.png" width=24 />重组式制造台 (9/2000)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>收：<img src="img/位面熔炉.png" width=24 />位面熔炉 (7.5/500)</li>
-        <li>收：<img src="img/卡西米尔晶体.png" width=24 />卡西米尔晶体 (142.5/1500)</li>
-        <li>收：<img src="img/负熵奇点.png" width=24 />负熵奇点 (75/20000)</li>
-        <li>收：<img src="img/钛化玻璃.png" width=24 />钛化玻璃 (285/2000)</li>
-        <li>收：<img src="img/处理器.png" width=24 />处理器 (178.125/2000)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</details>
 
 ## [铺设](Blueprints/铺设)
 
