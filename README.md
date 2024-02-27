@@ -2099,7 +2099,7 @@
 |名称|特性|
 |---|---|
 |[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)|提供无敌对势力时游戏所需的所有建筑与<img src="img/地基.png" width=24 />地基、<img src="img/物流运输机.png" width=24 />物流运输机、<img src="img/星际物流运输机.png" width=24 />星际物流运输机。配有与[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)对接所需的接口区。需外部输入<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。|
-|[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)|提供对抗敌对势力所需的附加建筑、无人机、舰队，不含弹药。通过对接所需的接口区，与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)连接，获取材料、放置中间产品，同时提供空间翘曲器、增产剂Mk.III。|
+|[战争工厂](Blueprints/建筑工厂/战争工厂.txt?raw=1)|提供对抗敌对势力所需的附加建筑、无人机、舰队，不含弹药。通过对接所需的接口区，与[建筑工厂](Blueprints/建筑工厂/建筑工厂.txt?raw=1)连接，获取材料、放置中间产品，同时提供<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。|
 |[黑雾制造工厂](Blueprints/建筑工厂/黑雾制造工厂.txt?raw=1)|提供对需要黑雾掉落材料才可以生产的建筑。|
 
 如果在部署时发生冲突问题，可加载[此存档文件](Doc/constructions%20building.dsv?raw=1)参考。
