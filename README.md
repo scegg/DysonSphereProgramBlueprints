@@ -2122,15 +2122,7 @@
 * 输出剩余的<img src="img/空间翘曲器.png" width=24 />空间翘曲器、<img src="img/增产剂Mk.III.png" width=24 />增产剂Mk.III。
 * 中间产品（由本蓝图内生产，作为蓝图内其它产品的原料或者输出到接口区；例如<img src="img/超级磁场环.png" width=24 />超级磁场环）、中间建筑（由本蓝图内生产，作为产出，同时作为蓝图内其它产品的原料或者输出到接口区；例如<img src="img/传送带.png" width=24 />传送带）：
   * 只使用大量生产的常规零件，非常用零件自行生产，并可提供富余的零件。零件生产量不小于所有建筑同时满量生产时所需的总用量。非常用零件包括（括号中数字为生产分配的<img src="img/制造台Mk.I.png" width=24 />制造台Mk.I的数量）：
-    * <img src="img/电浆激发器.png" width=24 />电浆激发器（6）
-    * <img src="img/棱镜.png" width=24 />棱镜（5）
-    * <img src="img/超级磁场环.png" width=24 />超级磁场环（33）
-    * <img src="img/框架材料.png" width=24 />框架材料（24）
-    * <img src="img/湮灭约束球.png" width=24 />湮灭约束球（6）
-    * <img src="img/量子芯片.png" width=24 />量子芯片（8）
-    * <img src="img/位面过滤器.png" width=24 />位面过滤器（34）
-    * <img src="img/推进器.png" width=24 />推进器（2）
-    * <img src="img/加力推进器.png" width=24 />加力推进器（5）
+    * <table><tr><td><img src="img/电浆激发器.png" width=24 />电浆激发器（6）</td><td><img src="img/棱镜.png" width=24 />棱镜（5）</td><td><img src="img/超级磁场环.png" width=24 />超级磁场环（33）</td></tr><tr><td><img src="img/框架材料.png" width=24 />框架材料（24）</td><td><img src="img/湮灭约束球.png" width=24 />湮灭约束球（6）</td><td><img src="img/量子芯片.png" width=24 />量子芯片（8）</td></tr><tr><td><img src="img/位面过滤器.png" width=24 />位面过滤器（34）</td><td><img src="img/推进器.png" width=24 />推进器（2）</td><td><img src="img/加力推进器.png" width=24 />加力推进器（5）</td></tr></table>
   * 所有零件与中间产品，将被优先用于后续生产。除上述零件，中间产品包括：
     * <img src="img/电力感应塔.png" width=24 />电力感应塔
     * <img src="img/无线输电塔.png" width=24 />无线输电塔
